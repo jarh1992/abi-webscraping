@@ -1,5 +1,7 @@
 import os
 import time
+from pathlib import Path
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -8,6 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import csv
 
+
+BASE_DIR = Path(__file__).resolve().parent
 # crea un objeto webdriver para usar chrome
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
@@ -49,14 +53,11 @@ for wild_products in reader:
     #csv_writer.writerow(brand_name_text)  # escribir los elementos
     #csv_file
 
-    file = open(f'{coproduct}_out.txt', "w", encoding="utf-8")
-    file.write(elements + os.linesep)
-    file.close()
+    coproduct = coproduct.replace(" ", "_")
+    coproduct = coproduct.replace("%20", "_")
+    file_path = BASE_DIR / f'output/{coproduct}_out.txt'
+    file_path.parent.mkdir(parents=True, exist_ok=True)
+    with file_path.open(mode='w', encoding='utf-8') as file:
+        file.write(elements + os.linesep)
 
 print('Proceso Finalizado')
-
-
-
-
-
-
