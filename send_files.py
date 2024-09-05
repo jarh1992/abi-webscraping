@@ -19,4 +19,4 @@ storage_account_name = os.getenv('STORAGE_ACCOUNT_NAME')
 connection_string = os.getenv('CONNECTION_STRING')
 ctr_name = os.getenv('CTR_NAME')
 account_url = f"https://{storage_account_name}.blob.core.windows.net"
-upload_blob_file(conn_str=connection_string, container_name=ctr_name, filepath='Jumbo/output/')
+upload_blob_file(conn_str=connection_string, container_name=ctr_name, filepath='Jumbo/output/xxx.txt')
