@@ -5,15 +5,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 
 
-BASE_DIR = Path(__file__).resolve().parent
-
-
-def scraper(driver, brands):
+def scraper(driver, brands, url):
 
     elements = ''
     for coproduct in brands:
 
-        driver.get(f"https://tienda.makro.com.co/search?name={coproduct}")
+        driver.get(url.format(prod=coproduct))
 
         # maximiza la ventana
         #driver.maximize_window()
@@ -42,7 +39,6 @@ def scraper(driver, brands):
             ).text.replace("\n", " | ").replace("Agregar | ", "\n")
         elements += '\n'
         wait = WebDriverWait(driver, 5)
-        print(elements)
 
     print('Makro scraped')
     return elements

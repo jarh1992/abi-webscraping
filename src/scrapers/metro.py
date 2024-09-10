@@ -10,5 +10,5 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-def scraper(driver):
+def scraper(driver, brands, url):
     return ''
