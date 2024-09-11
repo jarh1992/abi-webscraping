@@ -1,0 +1,1698 @@
+2024-09-10 20:54:12,280 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 20:54:12,896 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 20:54:12,983 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 20:54:13,016 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 20:54:46,878 - src.scrapers.olimpica - INFO - Product not added: AZTECA|TORTILLA AZTECA TRADICIONAL BURRITO/QUESADILLA 360 G X12 UNDS|9.590
+2024-09-10 20:54:46,879 - src.scrapers.olimpica - INFO - Product not added: AZTECA|FRIJOLES AZTECA REFRITOS 300 G|6.075
+2024-09-10 20:54:46,879 - src.scrapers.olimpica - INFO - Product not added: AZTECA|NACHO AZTECA MEGA CHEESE BBQ MIX 180 G|6.870
+2024-09-10 20:54:46,880 - src.scrapers.olimpica - INFO - Product not added: AZTECA|TORTILLA AZTECA TRADICIONAL BURRITO/QUESADILLA 580 G X8 UNDS|11.690
+2024-09-10 20:54:46,880 - src.scrapers.olimpica - INFO - Product not added: AZTECA|CHILE AZTECA CON CARNE 300 G|7.200
+2024-09-10 20:54:46,881 - src.scrapers.olimpica - INFO - Product not added: AZTECA|TORTILLA AZTECA FINAS HIERBAS 310 G X8 UNDS|9.090
+2024-09-10 20:54:46,881 - src.scrapers.olimpica - INFO - Product not added: AZTECA|SALSA AZTECA CHIPOTLE HONEY DULCE Y SUAVE 167 G|6.187
+2024-09-10 20:54:46,881 - src.scrapers.olimpica - INFO - Product not added: AZTECA|NACHOTE AZTECA JALAPENO NO PICANTE 180 G|6.870
+2024-09-10 20:55:01,055 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA 6X330 ML|19.000
+2024-09-10 20:55:01,056 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|PROTECTOR LIGHTS BY TENA EXTRA LARGO X50 UNDS|14.552
+2024-09-10 20:55:01,056 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT EN LATA 269 ML X6 UNDS|12.000
+2024-09-10 20:55:01,057 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA 269ML  X6|12.000
+2024-09-10 20:55:01,057 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|FLOR DE JAMAICA NATURAL LIGHT 45 G|8.780
+2024-09-10 20:55:01,057 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|CONDIMENTO NATURAL LIGHT CURCUMA 35 G|3.350
+2024-09-10 20:55:01,058 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|LINAZA NATURAL LIGHT  60 G|3.450
+2024-09-10 20:55:01,058 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|PROTECTOR FEMENINO TENA DISCREET LARGO ALAS X 50 UND|12.880
+2024-09-10 20:55:01,058 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|MORINGA NATURAL LIGHT 15 G|3.700
+2024-09-10 20:55:01,059 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|PROTECTOR LIGHTS BY TENA NORMAL X50 UNDS|8.952
+2024-09-10 20:55:01,059 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|SET PROTECCION LIGHTYEAR TALLA S (52-55)|98.955
+2024-09-10 20:55:01,059 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|VELA MAGIC LIGHT NUMERO PAQUETE ESPECIAL 1|2.360
+2024-09-10 20:55:22,420 - src.scrapers.olimpica - INFO - Olimpica CERVEZA scraped
+2024-09-10 20:55:37,077 - src.scrapers.olimpica - ERROR - Error finding element PONY MALTA: 'in <string>' requires string as left operand, not list
+2024-09-10 20:55:47,740 - src.scrapers.olimpica - ERROR - Error finding element MALTA LEONA: 'in <string>' requires string as left operand, not list
+2024-09-10 20:55:57,779 - src.scrapers.olimpica - ERROR - Error finding element COLA Y POLA: 'in <string>' requires string as left operand, not list
+2024-09-10 20:56:07,253 - src.scrapers.olimpica - ERROR - Error finding element COLA & POLA: 'in <string>' requires string as left operand, not list
+2024-09-10 20:56:23,301 - src.scrapers.olimpica - ERROR - Error finding element NATU MALTA: 'in <string>' requires string as left operand, not list
+2024-09-10 20:56:23,301 - src.scrapers.olimpica - INFO - Olimpica OTROS scraped
+2024-09-10 20:56:25,486 - settings.settings - INFO - Finished
+2024-09-10 21:04:56,605 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 21:04:57,211 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:04:57,245 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:04:57,273 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 21:06:36,648 - src.scrapers.carulla - INFO - Product not added: AUSTEN|SENTIDO Y SENSIBILIDAD, AUSTEN, JANE|54.000
+2024-09-10 21:06:36,648 - src.scrapers.carulla - INFO - Product not added: AUSTEN|OVESTIN ESTRIOL 5MG OVU VAGINAL CAJ 15 OVU 1 U|56.700
+2024-09-10 21:06:36,649 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:06:36,649 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:06:36,649 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:06:36,649 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:06:36,650 - src.scrapers.carulla - INFO - Product not added: AUSTEN|TENIS CUSTER HOMBRE MODA AA0410M|89.990
+2024-09-10 21:06:36,650 - src.scrapers.carulla - INFO - Product not added: AUSTEN|TENIS CUSTER HOMBRE MODA AA0410M|89.990
+2024-09-10 21:06:36,650 - src.scrapers.carulla - INFO - Product not added: AUSTEN|CAMISETA POLO PARA HOMBRE  CUSTER  00566|29.990
+2024-09-10 21:06:36,650 - src.scrapers.carulla - INFO - Product not added: AUSTEN|CAMISETA POLO PARA HOMBRE  CUSTER  00566|29.990
+2024-09-10 21:06:36,651 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 21:06:36,651 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 21:06:36,651 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 21:06:36,651 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 21:06:36,651 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 21:06:36,652 - src.scrapers.carulla - INFO - Product not added: AUSTEN|CAMISETA POLO PARA HOMBRE  CUSTER  00566|29.990
+2024-09-10 21:06:51,407 - src.scrapers.carulla - INFO - Product not added: AZTECA|FRIJOL REFRITO AZTECA X 300G AZTECA 300  GR|24,93
+2024-09-10 21:06:51,407 - src.scrapers.carulla - INFO - Product not added: AZTECA|NACHOS AZTECA  (180  GR)|42,5
+2024-09-10 21:06:51,407 - src.scrapers.carulla - INFO - Product not added: AZTECA|FRIJOLES NEGROS AZTECA 300  GR|22,38
+2024-09-10 21:06:51,407 - src.scrapers.carulla - INFO - Product not added: AZTECA|QUESO CHEDDAR DOY PACK AZTECA 200  GR|49,73
+2024-09-10 21:06:51,408 - src.scrapers.carulla - INFO - Product not added: AZTECA|JALAPENOS AZTECA  (220  GR)|79,59
+2024-09-10 21:06:51,408 - src.scrapers.carulla - INFO - Product not added: AZTECA|CHILE CON CARNE AZTECA X 300G AZTECA 300  GR|32,02
+2024-09-10 21:06:51,408 - src.scrapers.carulla - INFO - Product not added: AZTECA|TORTILLAS AZTECA HARINA INTEGRAL X 8 (250  GR)|30,4
+2024-09-10 21:06:51,408 - src.scrapers.carulla - INFO - Product not added: AZTECA|NACHOS AZTECA  (500 GR)|24,31
+2024-09-10 21:07:03,297 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA LIGHT SIXPACK AGUILA LIGHT 1980 ML|7,46
+2024-09-10 21:07:03,297 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA X6UND 269ML (1614  ML)|8,3
+2024-09-10 21:07:03,297 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA X6UND 330ML (1980  ML)|8,59
+2024-09-10 21:07:03,297 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA X6UND 269 (1614  ML)|5,67
+2024-09-10 21:07:03,298 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT BOTELLA (250  ML)|7,6
+2024-09-10 21:07:03,298 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (330  ML)|10,3
+2024-09-10 21:07:03,300 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LIGHT (2838  ML)|7,43
+2024-09-10 21:07:03,300 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT  (1860  ML)|8,17
+2024-09-10 21:07:16,740 - src.scrapers.carulla - INFO - Product not added: COSTENA|BUTIFARRA COSTENA PORCHI 300 GR|43
+2024-09-10 21:07:16,741 - src.scrapers.carulla - INFO - Product not added: COSTENA|MAZORCA REGIONAL COSTENA|7,68
+2024-09-10 21:07:39,365 - src.scrapers.carulla - INFO - Product not added: BACANA|BANANO   1  UND|1.000
+2024-09-10 21:07:39,366 - src.scrapers.carulla - INFO - Product not added: BACANA|BOTANA SNACK PERRO ADUL PEDIGREE 225  GR|37
+2024-09-10 21:07:39,366 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT EN SPRAY DRY BALANCE SPORT SPF 50 (170  ML)|300
+2024-09-10 21:07:39,366 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR FACIAL BANANA BOAT GENTLE PROTECT SENSTIVE SPF50 (60  ML)|555
+2024-09-10 21:07:39,367 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT DRY BALANCE SPORT SPF 50 (180  ML)|291,67
+2024-09-10 21:07:39,367 - src.scrapers.carulla - INFO - Product not added: BACANA|BRONCEADOR BANANA BOAT EXTRACTO ZANAHORIA Y ACEITE DE COCO (236  ML)|180,51
+2024-09-10 21:07:39,367 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ROLL ON KIDS SPORT SPF 50 (75  ML)|383,6
+2024-09-10 21:07:39,367 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ADAVANCED PROTECTION SPF 100 (118  ML)|425,42
+2024-09-10 21:07:39,368 - src.scrapers.carulla - INFO - Product not added: BACANA|BOTANA PERROS CACHO RAZA PEDIGREE 100  GR|49,5
+2024-09-10 21:07:39,368 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ADVANCED PROTECTION KIDS (118  ML)|355,93
+2024-09-10 21:07:39,368 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT AQUA PROTECT SPF 50 (236  GR)|225,85
+2024-09-10 21:07:39,368 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ROLL ON ADVANCED SPORT SPF 50 (75  ML)|378
+2024-09-10 21:07:39,368 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT MINERAL SPORT SPF 50 (180  ML)|311,67
+2024-09-10 21:07:39,369 - src.scrapers.carulla - INFO - Product not added: BACANA|ADEREZO MAYONESA BACHACA 250 ML|56,8
+2024-09-10 21:08:59,416 - settings.settings - INFO - Finished
+2024-09-10 21:22:30,387 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 21:22:30,999 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:22:31,035 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:22:31,062 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 21:23:25,357 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 21:23:25,988 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:23:26,019 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:23:26,050 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 21:25:54,728 - settings.settings - INFO - Finished
+2024-09-10 21:27:12,087 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 21:27:12,689 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:27:12,725 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:27:12,786 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 21:27:23,944 - src.scrapers.carulla - ERROR - Error finding element AGUILA: 'NoneType' object has no attribute 'text'
+2024-09-10 21:27:34,766 - src.scrapers.carulla - ERROR - Error finding element AUSTEN: 'NoneType' object has no attribute 'text'
+2024-09-10 21:27:45,660 - src.scrapers.carulla - ERROR - Error finding element AZTECA: 'NoneType' object has no attribute 'text'
+2024-09-10 21:27:54,401 - src.scrapers.carulla - ERROR - Error finding element BUSCH LIGHT: 'NoneType' object has no attribute 'text'
+2024-09-10 21:28:05,670 - src.scrapers.carulla - ERROR - Error finding element COSTEÑA: 'NoneType' object has no attribute 'text'
+2024-09-10 21:28:17,887 - src.scrapers.carulla - ERROR - Error finding element BACANA: 'NoneType' object has no attribute 'text'
+2024-09-10 21:28:17,887 - src.scrapers.carulla - INFO - Olimpica CERVEZA scraped
+2024-09-10 21:28:32,405 - src.scrapers.carulla - ERROR - Error finding element PONY MALTA: 'NoneType' object has no attribute 'text'
+2024-09-10 21:28:47,280 - src.scrapers.carulla - ERROR - Error finding element MALTA LEONA: 'NoneType' object has no attribute 'text'
+2024-09-10 21:29:09,089 - src.scrapers.carulla - ERROR - Error finding element COLA Y POLA: 'NoneType' object has no attribute 'text'
+2024-09-10 21:30:31,840 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 21:30:32,437 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:30:32,467 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:30:32,501 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 21:30:33,476 - src.scrapers.carulla - INFO - Scraping carulla
+2024-09-10 21:31:46,821 - src.scrapers.carulla - ERROR - Error finding element AGUILA: 'NoneType' object has no attribute 'text'
+2024-09-10 21:31:55,872 - src.scrapers.carulla - ERROR - Error finding element AUSTEN: 'NoneType' object has no attribute 'text'
+2024-09-10 21:32:07,771 - src.scrapers.carulla - ERROR - Error finding element AZTECA: 'NoneType' object has no attribute 'text'
+2024-09-10 21:32:17,213 - src.scrapers.carulla - ERROR - Error finding element BUSCH LIGHT: 'NoneType' object has no attribute 'text'
+2024-09-10 21:32:25,898 - src.scrapers.carulla - ERROR - Error finding element COSTEÑA: 'NoneType' object has no attribute 'text'
+2024-09-10 21:34:39,024 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 21:34:39,639 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:34:39,679 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:34:39,709 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 21:34:40,756 - src.scrapers.carulla - INFO - Scraping Carulla
+2024-09-10 21:36:43,746 - src.scrapers.carulla - ERROR - Error finding element AGUILA: 
+2024-09-10 21:36:51,839 - src.scrapers.carulla - ERROR - Error finding element AUSTEN: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=128.0.6613.120)
+Stacktrace:
+	GetHandleVerifier [0x00DED933+25811]
+	(No symbol) [0x00D7E314]
+	(No symbol) [0x00C72523]
+	(No symbol) [0x00C4E27B]
+	(No symbol) [0x00CE19BF]
+	(No symbol) [0x00CF4029]
+	(No symbol) [0x00CDAAC6]
+	(No symbol) [0x00CABEFD]
+	(No symbol) [0x00CAC8FD]
+	GetHandleVerifier [0x010BF143+2981091]
+	GetHandleVerifier [0x01112FF9+3324825]
+	GetHandleVerifier [0x00E7B32F+605903]
+	GetHandleVerifier [0x00E82CBC+637020]
+	(No symbol) [0x00D86F4D]
+	(No symbol) [0x00D83DD8]
+	(No symbol) [0x00D83F75]
+	(No symbol) [0x00D76406]
+	BaseThreadInitThunk [0x76BE7BA9+25]
+	RtlInitializeExceptionChain [0x7798C10B+107]
+	RtlClearBits [0x7798C08F+191]
+
+2024-09-10 21:37:26,015 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 21:37:26,607 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:37:26,643 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:37:26,666 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 21:37:27,701 - src.scrapers.carulla - INFO - Scraping Carulla
+2024-09-10 21:37:49,891 - src.scrapers.carulla - INFO - Product not added: AUSTEN|SENTIDO Y SENSIBILIDAD, AUSTEN, JANE|54.000
+2024-09-10 21:37:49,891 - src.scrapers.carulla - INFO - Product not added: AUSTEN|OVESTIN ESTRIOL 5MG OVU VAGINAL CAJ 15 OVU 1 U|56.700
+2024-09-10 21:37:49,892 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:37:49,893 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:37:49,893 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:37:49,894 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:37:49,894 - src.scrapers.carulla - INFO - Product not added: AUSTEN|TENIS CUSTER HOMBRE MODA AA0410M|89.990
+2024-09-10 21:37:49,895 - src.scrapers.carulla - INFO - Product not added: AUSTEN|TENIS CUSTER HOMBRE MODA AA0410M|89.990
+2024-09-10 21:37:58,768 - src.scrapers.carulla - INFO - Product not added: AZTECA|FRIJOL REFRITO AZTECA X 300G AZTECA 300  GR|7.480
+2024-09-10 21:37:58,768 - src.scrapers.carulla - INFO - Product not added: AZTECA|NACHOS AZTECA  (180  GR)|7.650
+2024-09-10 21:37:58,769 - src.scrapers.carulla - INFO - Product not added: AZTECA|FRIJOLES NEGROS AZTECA 300  GR|6.715
+2024-09-10 21:37:58,769 - src.scrapers.carulla - INFO - Product not added: AZTECA|QUESO CHEDDAR DOY PACK AZTECA 200  GR|9.945
+2024-09-10 21:37:58,770 - src.scrapers.carulla - INFO - Product not added: AZTECA|JALAPENOS AZTECA  (220  GR)|8.755
+2024-09-10 21:37:58,770 - src.scrapers.carulla - INFO - Product not added: AZTECA|CHILE CON CARNE AZTECA X 300G AZTECA 300  GR|9.605
+2024-09-10 21:37:58,771 - src.scrapers.carulla - INFO - Product not added: AZTECA|TORTILLAS AZTECA HARINA INTEGRAL X 8 (250  GR)|7.600
+2024-09-10 21:37:58,771 - src.scrapers.carulla - INFO - Product not added: AZTECA|NACHOS AZTECA  (500 GR)|12.155
+2024-09-10 21:37:58,771 - src.scrapers.carulla - INFO - Product not added: AZTECA|TORTILLA   AZTECA  (240  GR)|8.480
+2024-09-10 21:37:58,772 - src.scrapers.carulla - INFO - Product not added: AZTECA|SALSA AZTECA SALSA (220  GR)|10.370
+2024-09-10 21:37:58,772 - src.scrapers.carulla - INFO - Product not added: AZTECA|CONCHA PARA TACOS AZTECA  (150  GR)|17.760
+2024-09-10 21:37:58,772 - src.scrapers.carulla - INFO - Product not added: AZTECA|CARNE DE RES EN SALSA AZTECA 300 GR|17.935
+2024-09-10 21:37:58,773 - src.scrapers.carulla - INFO - Product not added: AZTECA|SALSA AZTECA SALSA (220  GR)|10.370
+2024-09-10 21:37:58,773 - src.scrapers.carulla - INFO - Product not added: AZTECA|TOSTADAS AZTECA  (145  GR)|20.000
+2024-09-10 21:37:58,774 - src.scrapers.carulla - INFO - Product not added: AZTECA|POLLO SALSA AZTECA 280 GR|16.405
+2024-09-10 21:37:58,774 - src.scrapers.carulla - INFO - Product not added: AZTECA|ENSALADA MEXICANA AZTECA 300  GR|6.970
+2024-09-10 21:37:58,774 - src.scrapers.carulla - INFO - Product not added: AZTECA|TORTILLA   AZTECA  (580  GR)|13.200
+2024-09-10 21:37:58,775 - src.scrapers.carulla - INFO - Product not added: AZTECA|CERDO SALSA BBQ AZTECA 300 GR|15.980
+2024-09-10 21:37:58,775 - src.scrapers.carulla - INFO - Product not added: AZTECA|PASABOCAS AZTECA  (180  GR)|9.800
+2024-09-10 21:38:07,840 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA LIGHT SIXPACK AGUILA LIGHT 1980 ML|14.775
+2024-09-10 21:38:07,841 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA X6UND 269ML (1614  ML)|13.400
+2024-09-10 21:38:07,841 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA X6UND 330ML (1980  ML)|17.000
+2024-09-10 21:38:07,842 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA X6UND 269 (1614  ML)|9.150
+2024-09-10 21:38:07,842 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT BOTELLA (250  ML)|1.900
+2024-09-10 21:38:07,843 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (330  ML)|3.400
+2024-09-10 21:38:07,843 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LIGHT (2838  ML)|21.100
+2024-09-10 21:38:07,843 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT  (1860  ML)|15.200
+2024-09-10 21:38:07,844 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA (269  ML)|2.300
+2024-09-10 21:38:07,844 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|REFRESCO LIGHT YA  (60 GR)|6.800
+2024-09-10 21:38:07,844 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA (330  ML)|3.100
+2024-09-10 21:38:07,845 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (473  ML)|3.400
+2024-09-10 21:38:07,845 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT (310  ML)|2.600
+2024-09-10 21:38:07,845 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (269  ML)|2.100
+2024-09-10 21:38:07,846 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|LIGHT DGTION+VIDASANA PURINA DOG CHOW 2000  GR|41.000
+2024-09-10 21:38:07,846 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|ACEITE PREMIER LIGHT (1000  ML)|23.300
+2024-09-10 21:38:07,846 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|AREPA LA CAJONERA YUCA Y QUESO LIGHT (300  GR)|15.500
+2024-09-10 21:38:07,847 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|MAYONESA FRUCO LIGHT DOY PACK (380  GR)|19.200
+2024-09-10 21:38:07,847 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|ESPARCIBLE LIGHT VASO RAMA 500  GR|16.100
+2024-09-10 21:38:07,848 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CHOCOLATE LIGHT ENDULZADO UND  LYNE 166.4 GR|17.200
+2024-09-10 21:38:20,732 - src.scrapers.carulla - INFO - Product not added: COSTENA|BUTIFARRA COSTENA PORCHI 300 GR|12.900
+2024-09-10 21:38:20,733 - src.scrapers.carulla - INFO - Product not added: COSTENA|MAZORCA REGIONAL COSTENA|8.909
+2024-09-10 21:38:38,679 - src.scrapers.carulla - INFO - Product not added: BACANA|BANANO   1  UND|720
+2024-09-10 21:38:38,680 - src.scrapers.carulla - INFO - Product not added: BACANA|BOTANA SNACK PERRO ADUL PEDIGREE 225  GR|8.325
+2024-09-10 21:38:38,680 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT EN SPRAY DRY BALANCE SPORT SPF 50 (170  ML)|51.000
+2024-09-10 21:38:38,681 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR FACIAL BANANA BOAT GENTLE PROTECT SENSTIVE SPF50 (60  ML)|33.300
+2024-09-10 21:38:38,681 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT DRY BALANCE SPORT SPF 50 (180  ML)|52.500
+2024-09-10 21:38:38,682 - src.scrapers.carulla - INFO - Product not added: BACANA|BRONCEADOR BANANA BOAT EXTRACTO ZANAHORIA Y ACEITE DE COCO (236  ML)|42.600
+2024-09-10 21:38:38,682 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ROLL ON KIDS SPORT SPF 50 (75  ML)|28.770
+2024-09-10 21:38:38,682 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ADAVANCED PROTECTION SPF 100 (118  ML)|50.200
+2024-09-10 21:38:38,683 - src.scrapers.carulla - INFO - Product not added: BACANA|BOTANA PERROS CACHO RAZA PEDIGREE 100  GR|4.950
+2024-09-10 21:38:38,683 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ADVANCED PROTECTION KIDS (118  ML)|42.000
+2024-09-10 21:38:38,684 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT AQUA PROTECT SPF 50 (236  GR)|53.300
+2024-09-10 21:38:38,684 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ROLL ON ADVANCED SPORT SPF 50 (75  ML)|28.350
+2024-09-10 21:38:38,684 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT MINERAL SPORT SPF 50 (180  ML)|56.100
+2024-09-10 21:38:38,685 - src.scrapers.carulla - INFO - Product not added: BACANA|ADEREZO MAYONESA BACHACA 250 ML|14.200
+2024-09-10 21:38:38,685 - src.scrapers.carulla - INFO - Olimpica CERVEZA scraped
+2024-09-10 21:38:38,686 - src.scrapers.carulla - INFO - Scraping Carulla
+2024-09-10 21:38:52,009 - src.scrapers.carulla - ERROR - Error finding element PONY MALTA: 'in <string>' requires string as left operand, not list
+2024-09-10 21:39:03,009 - src.scrapers.carulla - ERROR - Error finding element MALTA LEONA: 'in <string>' requires string as left operand, not list
+2024-09-10 21:39:24,279 - src.scrapers.carulla - ERROR - Error finding element COLA Y POLA: 'in <string>' requires string as left operand, not list
+2024-09-10 21:39:39,068 - src.scrapers.carulla - ERROR - Error finding element COLA & POLA: 'in <string>' requires string as left operand, not list
+2024-09-10 21:39:56,279 - src.scrapers.carulla - ERROR - Error finding element NATU MALTA: 'in <string>' requires string as left operand, not list
+2024-09-10 21:39:56,279 - src.scrapers.carulla - INFO - Olimpica OTROS scraped
+2024-09-10 21:39:58,556 - settings.settings - INFO - Finished
+2024-09-10 21:42:08,949 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 21:42:09,579 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:42:09,624 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:42:09,662 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 21:42:10,697 - src.scrapers.carulla - INFO - Scraping Carulla
+2024-09-10 21:43:47,718 - src.scrapers.carulla - INFO - Product not added: AUSTEN|SENTIDO Y SENSIBILIDAD, AUSTEN, JANE|54.000
+2024-09-10 21:43:47,718 - src.scrapers.carulla - INFO - Product not added: AUSTEN|OVESTIN ESTRIOL 5MG OVU VAGINAL CAJ 15 OVU 1 U|56.700
+2024-09-10 21:43:47,719 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:43:47,719 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:43:47,719 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:43:47,720 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 21:43:47,720 - src.scrapers.carulla - INFO - Product not added: AUSTEN|TENIS CUSTER HOMBRE MODA AA0410M|89.990
+2024-09-10 21:43:47,721 - src.scrapers.carulla - INFO - Product not added: AUSTEN|TENIS CUSTER HOMBRE MODA AA0410M|89.990
+2024-09-10 21:43:47,721 - src.scrapers.carulla - INFO - Product not added: AUSTEN|CAMISETA POLO PARA HOMBRE  CUSTER  00566|29.990
+2024-09-10 21:43:47,721 - src.scrapers.carulla - INFO - Product not added: AUSTEN|CAMISETA POLO PARA HOMBRE  CUSTER  00566|29.990
+2024-09-10 21:43:47,722 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 21:43:47,722 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 21:43:47,722 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 21:43:47,723 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 21:43:47,723 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 21:43:47,723 - src.scrapers.carulla - INFO - Product not added: AUSTEN|CAMISETA POLO PARA HOMBRE  CUSTER  00566|29.990
+2024-09-10 21:43:57,129 - src.scrapers.carulla - INFO - Product not added: AZTECA|FRIJOL REFRITO AZTECA X 300G AZTECA 300  GR|7.480
+2024-09-10 21:43:57,130 - src.scrapers.carulla - INFO - Product not added: AZTECA|NACHOS AZTECA  (180  GR)|7.650
+2024-09-10 21:43:57,130 - src.scrapers.carulla - INFO - Product not added: AZTECA|FRIJOLES NEGROS AZTECA 300  GR|6.715
+2024-09-10 21:43:57,131 - src.scrapers.carulla - INFO - Product not added: AZTECA|QUESO CHEDDAR DOY PACK AZTECA 200  GR|9.945
+2024-09-10 21:43:57,131 - src.scrapers.carulla - INFO - Product not added: AZTECA|JALAPENOS AZTECA  (220  GR)|8.755
+2024-09-10 21:43:57,131 - src.scrapers.carulla - INFO - Product not added: AZTECA|CHILE CON CARNE AZTECA X 300G AZTECA 300  GR|9.605
+2024-09-10 21:43:57,132 - src.scrapers.carulla - INFO - Product not added: AZTECA|TORTILLAS AZTECA HARINA INTEGRAL X 8 (250  GR)|7.600
+2024-09-10 21:43:57,132 - src.scrapers.carulla - INFO - Product not added: AZTECA|NACHOS AZTECA  (500 GR)|12.155
+2024-09-10 21:43:57,133 - src.scrapers.carulla - INFO - Product not added: AZTECA|TORTILLA   AZTECA  (580  GR)|13.200
+2024-09-10 21:43:57,133 - src.scrapers.carulla - INFO - Product not added: AZTECA|CERDO SALSA BBQ AZTECA 300 GR|15.980
+2024-09-10 21:43:57,133 - src.scrapers.carulla - INFO - Product not added: AZTECA|PASABOCAS AZTECA  (180  GR)|9.800
+2024-09-10 21:44:11,865 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA LIGHT SIXPACK AGUILA LIGHT 1980 ML|14.775
+2024-09-10 21:44:11,866 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA X6UND 269ML (1614  ML)|13.400
+2024-09-10 21:44:11,867 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA X6UND 330ML (1980  ML)|17.000
+2024-09-10 21:44:11,867 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA X6UND 269 (1614  ML)|9.150
+2024-09-10 21:44:11,867 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT BOTELLA (250  ML)|1.900
+2024-09-10 21:44:11,868 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (330  ML)|3.400
+2024-09-10 21:44:11,868 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LIGHT (2838  ML)|21.100
+2024-09-10 21:44:11,869 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT  (1860  ML)|15.200
+2024-09-10 21:44:11,869 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA (269  ML)|2.300
+2024-09-10 21:44:11,869 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|REFRESCO LIGHT YA  (60 GR)|6.800
+2024-09-10 21:44:11,870 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA (330  ML)|3.100
+2024-09-10 21:44:11,870 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (473  ML)|3.400
+2024-09-10 21:44:11,870 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT (310  ML)|2.600
+2024-09-10 21:44:11,871 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (269  ML)|2.100
+2024-09-10 21:44:11,871 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|LIGHT DGTION+VIDASANA PURINA DOG CHOW 2000  GR|41.000
+2024-09-10 21:44:11,872 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|ACEITE PREMIER LIGHT (1000  ML)|23.300
+2024-09-10 21:44:21,175 - src.scrapers.carulla - INFO - Product not added: COSTENA|BUTIFARRA COSTENA PORCHI 300 GR|12.900
+2024-09-10 21:44:21,176 - src.scrapers.carulla - INFO - Product not added: COSTENA|MAZORCA REGIONAL COSTENA|8.909
+2024-09-10 21:44:31,411 - src.scrapers.carulla - INFO - Product not added: BACANA|BANANO   1  UND|720
+2024-09-10 21:44:31,412 - src.scrapers.carulla - INFO - Product not added: BACANA|BOTANA SNACK PERRO ADUL PEDIGREE 225  GR|8.325
+2024-09-10 21:44:31,412 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT EN SPRAY DRY BALANCE SPORT SPF 50 (170  ML)|51.000
+2024-09-10 21:44:31,413 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR FACIAL BANANA BOAT GENTLE PROTECT SENSTIVE SPF50 (60  ML)|33.300
+2024-09-10 21:44:31,413 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT DRY BALANCE SPORT SPF 50 (180  ML)|52.500
+2024-09-10 21:44:31,413 - src.scrapers.carulla - INFO - Product not added: BACANA|BRONCEADOR BANANA BOAT EXTRACTO ZANAHORIA Y ACEITE DE COCO (236  ML)|42.600
+2024-09-10 21:44:31,414 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ROLL ON KIDS SPORT SPF 50 (75  ML)|28.770
+2024-09-10 21:44:31,414 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ADAVANCED PROTECTION SPF 100 (118  ML)|50.200
+2024-09-10 21:44:31,415 - src.scrapers.carulla - INFO - Product not added: BACANA|BOTANA PERROS CACHO RAZA PEDIGREE 100  GR|4.950
+2024-09-10 21:44:31,415 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ADVANCED PROTECTION KIDS (118  ML)|42.000
+2024-09-10 21:44:31,416 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT AQUA PROTECT SPF 50 (236  GR)|53.300
+2024-09-10 21:44:31,416 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ROLL ON ADVANCED SPORT SPF 50 (75  ML)|28.350
+2024-09-10 21:44:31,416 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT MINERAL SPORT SPF 50 (180  ML)|56.100
+2024-09-10 21:44:31,417 - src.scrapers.carulla - INFO - Product not added: BACANA|ADEREZO MAYONESA BACHACA 250 ML|14.200
+2024-09-10 21:44:47,531 - src.scrapers.carulla - INFO - Product not added: COSTENITA|CERVEZA SIXPACK CERVEZA COSTENA BACANA 1980 ML|18.000
+2024-09-10 21:44:47,531 - src.scrapers.carulla - INFO - Product not added: COSTENITA|CERVEZA CERVEZA COSTENA BACANA LATA (330  ML)|3.000
+2024-09-10 21:44:47,531 - src.scrapers.carulla - INFO - Product not added: COSTENITA|CERVEZA COSTENA LATA X 6 UND 330ML (1980  ML)|11.500
+2024-09-10 21:44:47,532 - src.scrapers.carulla - INFO - Product not added: COSTENITA|CERVEZA COSTENA LATA (330  ML)|1.910
+2024-09-10 21:44:47,532 - src.scrapers.carulla - INFO - Product not added: COSTENITA|BUTIFARRA COSTENA PORCHI 300 GR|12.900
+2024-09-10 21:44:47,533 - src.scrapers.carulla - INFO - Product not added: COSTENITA|MAZORCA REGIONAL COSTENA|8.909
+2024-09-10 21:45:23,129 - src.scrapers.carulla - INFO - Product not added: REDDS|VINO TINTO APOTHIC RED CABERNET SAUVIGNON (750  ML)|50.330
+2024-09-10 21:45:23,129 - src.scrapers.carulla - INFO - Product not added: REDDS|BEBIDA ENERGIZANTE RED BULL LATA X4UND 250ML (1000  ML)|27.700
+2024-09-10 21:45:23,130 - src.scrapers.carulla - INFO - Product not added: REDDS|VINO TINTO APOTHIC RED RED BLEND (750  ML)|50.330
+2024-09-10 21:45:23,130 - src.scrapers.carulla - INFO - Product not added: REDDS|BEBIDA ENERGIZANTE RED BULL SIN AZUCAR LATA X4UND 250ML (1000  ML)|26.800
+2024-09-10 21:45:23,130 - src.scrapers.carulla - INFO - Product not added: REDDS|BEBIDA ENERGIZANTE RED BULL SIN AZUCAR LATA (250  ML)|5.950
+2024-09-10 21:45:23,131 - src.scrapers.carulla - INFO - Product not added: REDDS|BEBIDA ENERGIZANTE RED BULL LATA (250  ML)|7.000
+2024-09-10 21:45:56,683 - src.scrapers.carulla - INFO - Product not added: CORONA|CHOCOLATE CORONA CON AZUCAR X16 PASTILLAS (500  GR)|15.500
+2024-09-10 21:45:56,684 - src.scrapers.carulla - INFO - Product not added: CORONA|CHOCOLATE DE MESA CORONA DELICATTO (142  GR)|9.800
+2024-09-10 21:45:56,684 - src.scrapers.carulla - INFO - Product not added: CORONA|CHOCOLATE CORONA CLAVOS Y CANELA (500  GR)|16.200
+2024-09-10 21:45:56,685 - src.scrapers.carulla - INFO - Product not added: CORONA|CHOCOLATE ENDULZADO CON STEVIA CORONA 166.4 GR|14.400
+2024-09-10 21:45:56,685 - src.scrapers.carulla - INFO - Product not added: CORONA|CHOCOLATE CORONA CON AZUCAR X20 PASTILLAS (500  GR)|17.500
+2024-09-10 21:46:09,753 - src.scrapers.carulla - INFO - Product not added: CORONITA|CHOCOLATE CORONA CON AZUCAR X16 PASTILLAS (500  GR)|15.500
+2024-09-10 21:46:09,754 - src.scrapers.carulla - INFO - Product not added: CORONITA|CERVEZA CORONA BOTELLA X6UND 330ML (1980  ML)|21.760
+2024-09-10 21:46:09,755 - src.scrapers.carulla - INFO - Product not added: CORONITA|CERVEZA CORONA LATA X6UND 269ML (1614  ML)|15.520
+2024-09-10 21:46:09,755 - src.scrapers.carulla - INFO - Product not added: CORONITA|CHOCOLATE DE MESA CORONA DELICATTO (142  GR)|9.800
+2024-09-10 21:46:09,755 - src.scrapers.carulla - INFO - Product not added: CORONITA|GALLETAS MORENITAS CUBIERTA CHOCOLATE (210  GR)|16.200
+2024-09-10 21:46:09,756 - src.scrapers.carulla - INFO - Product not added: CORONITA|CHOCOLATE CORONA CLAVOS Y CANELA (500  GR)|16.200
+2024-09-10 21:46:09,756 - src.scrapers.carulla - INFO - Product not added: CORONITA|CHOCOLATE ENDULZADO CON STEVIA CORONA 166.4 GR|14.400
+2024-09-10 21:46:29,790 - src.scrapers.carulla - ERROR - Error finding element STELLA: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DED933+25811]
+	(No symbol) [0x00D7E314]
+	(No symbol) [0x00C72523]
+	(No symbol) [0x00CB7483]
+	(No symbol) [0x00CB765B]
+	(No symbol) [0x00CF6BA2]
+	(No symbol) [0x00CDAD74]
+	(No symbol) [0x00CF46F0]
+	(No symbol) [0x00CDAAC6]
+	(No symbol) [0x00CABEFD]
+	(No symbol) [0x00CAC8FD]
+	GetHandleVerifier [0x010BF143+2981091]
+	GetHandleVerifier [0x01112FF9+3324825]
+	GetHandleVerifier [0x00E7B32F+605903]
+	GetHandleVerifier [0x00E82CBC+637020]
+	(No symbol) [0x00D86F4D]
+	(No symbol) [0x00D83DD8]
+	(No symbol) [0x00D83F75]
+	(No symbol) [0x00D76406]
+	BaseThreadInitThunk [0x76BE7BA9+25]
+	RtlInitializeExceptionChain [0x7798C10B+107]
+	RtlClearBits [0x7798C08F+191]
+
+2024-09-10 21:46:46,107 - src.scrapers.carulla - INFO - Product not added: MICHELOB|AMOR EN LOS TIEMPOS DEL COLERA, OBAMA, MICHELLE|40.000
+2024-09-10 21:47:07,910 - src.scrapers.carulla - INFO - Product not added: BECKS|BACK PACK/MORRAL KINDER DISNEY FROZEN  146740|79.900
+2024-09-10 21:47:07,911 - src.scrapers.carulla - INFO - Product not added: BECKS|BENKS W11 15W ICE SPEED COOLING CARGADOR INALAMBRICO MAGNETICO|99.000
+2024-09-10 21:47:07,911 - src.scrapers.carulla - INFO - Product not added: BECKS|MASAJEADOR DE CUELLO Y ESPALDA ALIVIO DE DOLOR INFRAROJO|35.898
+2024-09-10 21:47:07,911 - src.scrapers.carulla - INFO - Product not added: BECKS|COSTILLA DE CERDO  BABY BACK|22.950
+2024-09-10 21:47:07,912 - src.scrapers.carulla - INFO - Product not added: BECKS|BABY BACK RIBS|29.700
+2024-09-10 21:47:07,912 - src.scrapers.carulla - INFO - Product not added: BECKS|COSTILLA DE CERDO BABY BACK POMONA FRESCO|34.230
+2024-09-10 21:47:07,913 - src.scrapers.carulla - INFO - Product not added: BECKS|BABY BACK RIBS ENTERO COSTILLAS PRACTICERDO FRESCO|38.000
+2024-09-10 21:47:07,913 - src.scrapers.carulla - INFO - Product not added: BECKS|EDUCAR SIN MIEDO, DRA BECKY KENNEDY|69.000
+2024-09-10 21:47:07,913 - src.scrapers.carulla - INFO - Product not added: BECKS|MORRAL KINDER BACK PACK CARS  146806|79.900
+2024-09-10 21:47:07,914 - src.scrapers.carulla - INFO - Product not added: BECKS|JUEGO DE CAMA BECKY COLNOTEX 74061|79.990
+2024-09-10 21:47:07,914 - src.scrapers.carulla - INFO - Product not added: BECKS|MORRAL PRIMARIA BACK PACK CARS  146808|139.000
+2024-09-10 21:47:07,914 - src.scrapers.carulla - INFO - Product not added: BECKS|MORRAL KINDER BACK PACK AVENGERS  146816|79.900
+2024-09-10 21:47:07,915 - src.scrapers.carulla - INFO - Product not added: BECKS|MORRAL BACK PACK MICKEY MOUSE  127621|89.900
+2024-09-10 21:47:07,915 - src.scrapers.carulla - INFO - Product not added: BECKS|MORRAL JUVENIL BACK PACK MINNIE  127619|89.900
+2024-09-10 21:47:07,915 - src.scrapers.carulla - INFO - Product not added: BECKS|TOP HIGH NECK LEONISA SPORT 195403|89.990
+2024-09-10 21:47:07,916 - src.scrapers.carulla - INFO - Product not added: BECKS|CREMA REAFIRMANTE SMART CLINICAL REPAIR LIFTING FACE + NECK - CLINIQUE|371.000
+2024-09-10 21:47:21,133 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY CAJICA MIEL  LATA X4UND 269ML (1076  ML)|9.800
+2024-09-10 21:47:21,134 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY CAJICA MIEL BOTELLA X4UND 330ML (1320  ML)|12.600
+2024-09-10 21:47:21,135 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY ROSE LATA X4UND 330ML (1076  ML)|11.340
+2024-09-10 21:47:21,135 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY ROSE BOTELLA X4UND 330ML (1320  ML)|14.140
+2024-09-10 21:47:21,136 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY MONSERRATE ROJA BOTELLA X4UND 330ML (1320  ML)|14.000
+2024-09-10 21:47:21,136 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY LAGER BOTELLA X6UND 330ML (1980  ML)|16.800
+2024-09-10 21:47:21,136 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY CAJICA MIEL LATA (269  ML)|2.170
+2024-09-10 21:47:21,137 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY ROSE (269  ML)|2.870
+2024-09-10 21:47:33,429 - src.scrapers.carulla - INFO - Product not added: ANDINA|ANDINA REFAJO LATA ANDINA LATA (310  ML)|2.500
+2024-09-10 21:47:33,431 - src.scrapers.carulla - INFO - Product not added: ANDINA|ANDINA REFAJO SIXPACK 310 ML ANDINA SIXPACK (1860  ML)|15.200
+2024-09-10 21:47:54,775 - src.scrapers.carulla - ERROR - Error finding element TECATE: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DED933+25811]
+	(No symbol) [0x00D7E314]
+	(No symbol) [0x00C72523]
+	(No symbol) [0x00CB7483]
+	(No symbol) [0x00CB765B]
+	(No symbol) [0x00CF6BA2]
+	(No symbol) [0x00CDAD74]
+	(No symbol) [0x00CF46F0]
+	(No symbol) [0x00CDAAC6]
+	(No symbol) [0x00CABEFD]
+	(No symbol) [0x00CAC8FD]
+	GetHandleVerifier [0x010BF143+2981091]
+	GetHandleVerifier [0x01112FF9+3324825]
+	GetHandleVerifier [0x00E7B32F+605903]
+	GetHandleVerifier [0x00E82CBC+637020]
+	(No symbol) [0x00D86F4D]
+	(No symbol) [0x00D83DD8]
+	(No symbol) [0x00D83F75]
+	(No symbol) [0x00D76406]
+	BaseThreadInitThunk [0x76BE7BA9+25]
+	RtlInitializeExceptionChain [0x7798C10B+107]
+	RtlClearBits [0x7798C08F+191]
+
+2024-09-10 21:48:18,106 - src.scrapers.carulla - INFO - Product not added: PRIMA|COCHE TRAVEL SYSTEM PRIMA ROSA BEBESIT SL461AP|696.228
+2024-09-10 21:48:18,106 - src.scrapers.carulla - INFO - Product not added: PRIMA|TRAVEL SYSTEM PRIMA BLACK BEBESIT SL461ABK|696.228
+2024-09-10 21:48:18,107 - src.scrapers.carulla - INFO - Product not added: PRIMA|COCHE PRIMA BLACK BEBESIT SL452BK|497.286
+2024-09-10 21:48:29,400 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CONTROL PS3 + CABLE + FORRO + GRIPS BLANCO|58.000
+2024-09-10 21:48:29,401 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CONSOLA RETRO SUPER MINI 620 JUEGOS NEW|45.999
+2024-09-10 21:48:29,402 - src.scrapers.carulla - INFO - Product not added: CENTRAL|ESTUFA A GAS 20 GABINETE GRIS CENTRALES CCC20GTGXN|965.900
+2024-09-10 21:48:29,402 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CONTROL INALAMBRICO RECARGABLE PARA ANDROID IOS PC, TV, TV BOX, ETC. CELULARES HASTA DE 8 CM DE ANCHO|37.800
+2024-09-10 21:48:29,403 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CABLE LIGHTNING 8 PINES IPHONE IPOD E IPAD CERTIFICADO TIPO C GENERICO|14.692
+2024-09-10 21:48:29,403 - src.scrapers.carulla - INFO - Product not added: CENTRAL|KIT CARGA Y JUEGA XBOX ONE X BATERIA + CABLE 2.7 MTS|35.233
+2024-09-10 21:48:29,403 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CONTROL INALAMBRICO RECARGABLE DUALSHOCK PS3 AZUL|32.899
+2024-09-10 21:48:29,404 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CONTROL INALAMBRICO RECARGABLE PRO CONTROLLER NINTENDO SWITCH Y PC NEGRO|271.999
+2024-09-10 21:48:29,404 - src.scrapers.carulla - INFO - Product not added: CENTRAL|KIT CARGA Y JUEGA XBOX ONE X BATERIA + CABLE 2.7 MTS|89.977
+2024-09-10 21:48:29,405 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CABLE LIGHTNING 8 PINES IPHONE IPOD E IPAD CERTIFICADO BLANCO|17.900
+2024-09-10 21:48:29,405 - src.scrapers.carulla - INFO - Product not added: CENTRAL|METOCARBAMOL IBUPROFENO MK TAB CAJ 30 UN|47.150
+2024-09-10 21:48:29,405 - src.scrapers.carulla - INFO - Product not added: CENTRAL|IBUPROFENO GENFAR TAB REC 800 MG ORAL CJA 50 UN|20.900
+2024-09-10 21:48:29,406 - src.scrapers.carulla - INFO - Product not added: CENTRAL|IBUPROFENO MK CAP ORAL CAJ 30 UN|35.250
+2024-09-10 21:48:29,406 - src.scrapers.carulla - INFO - Product not added: CENTRAL|SERTRALINA COLMED TAB REC 100 MG CAJ 10 UN|68.100
+2024-09-10 21:48:56,150 - src.scrapers.carulla - INFO - Product not added: SOL|CHOCOLATE SOL 50% MENOS AZUCAR (320  GR)|14.900
+2024-09-10 21:48:56,151 - src.scrapers.carulla - INFO - Product not added: SOL|CHOCOLATE SOL PASTA (500  GR)|16.200
+2024-09-10 21:48:56,152 - src.scrapers.carulla - INFO - Product not added: SOL|CHOCOLATE SOL 0% AZUCAR (125  GR)|12.100
+2024-09-10 21:48:56,152 - src.scrapers.carulla - INFO - Product not added: SOL|CHOCOLATE SOL CLAVOS Y CANELA (500  GR)|17.400
+2024-09-10 21:48:56,152 - src.scrapers.carulla - INFO - Product not added: SOL|CHOCOLATE SOL PASTA (750  GR)|29.100
+2024-09-10 21:49:08,713 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO TINTO TRES MEDALLAS  (750  ML)|32.076
+2024-09-10 21:49:08,714 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO TINTO TRES MEDALLAS  (750  ML)|32.076
+2024-09-10 21:49:08,714 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO BLANCO TRES MEDALLAS SAUVIGNON BLANC (750  ML)|32.010
+2024-09-10 21:49:08,715 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO BLANCO TRES MEDALLAS  (750  ML)|35.640
+2024-09-10 21:49:08,715 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO TINTO TRES MEDALLAS  (750  ML)|32.010
+2024-09-10 21:49:08,715 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO ROSADO TRES MEDALLAS BLEND (750  ML)|32.010
+2024-09-10 21:49:08,716 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|GRANOLA UN, DOS, TRES POR MI PISTACHO CHOCOLATE AVENA NUECE (400 GR)|36.100
+2024-09-10 21:49:08,716 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|GRANOLA  UN, DOS, TRES POR MI CHOCOLATE BLANCO AVENA NUECES (400 GR)|47.500
+2024-09-10 21:49:21,464 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR GILLETTE MACH 3 SENSITIVE + 2 REPUESTOS (1  UND)|35.000
+2024-09-10 21:49:21,465 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR GILLETTE MACH 3 AL RAS 3 HOJAS REPUESTOS (4  UND)|39.840
+2024-09-10 21:49:21,466 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR GILLETTE MACH 3 SENSITIVE REPUESTOS (6  UND)|63.700
+2024-09-10 21:49:21,466 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR GILLETTE MACH 3 ALOE SENSITIVE REPUESTOS (4  UND)|49.840
+2024-09-10 21:49:21,467 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|RASURADORA RECARGABLE MACH 3 AFEITAR CARBONO X4 UND  (4  UND)|47.840
+2024-09-10 21:49:21,467 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR GILLETTE MACH 3 AL RAS 3 HOJAS REPUESTOS (2  UND)|30.200
+2024-09-10 21:49:21,468 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR MACH 3 PIEL SENSIBLE (1  UND)|31.200
+2024-09-10 21:49:21,468 - src.scrapers.carulla - INFO - Olimpica CERVEZA scraped
+2024-09-10 21:49:21,469 - src.scrapers.carulla - INFO - Scraping Carulla
+2024-09-10 21:49:32,190 - src.scrapers.carulla - ERROR - Error finding element PONY MALTA: 'in <string>' requires string as left operand, not list
+2024-09-10 21:49:45,498 - src.scrapers.carulla - ERROR - Error finding element MALTA LEONA: 'in <string>' requires string as left operand, not list
+2024-09-10 21:49:55,891 - src.scrapers.carulla - ERROR - Error finding element COLA Y POLA: 'in <string>' requires string as left operand, not list
+2024-09-10 21:50:04,703 - src.scrapers.carulla - ERROR - Error finding element COLA & POLA: 'in <string>' requires string as left operand, not list
+2024-09-10 21:50:13,830 - src.scrapers.carulla - ERROR - Error finding element NATU MALTA: 'in <string>' requires string as left operand, not list
+2024-09-10 21:50:13,830 - src.scrapers.carulla - INFO - Olimpica OTROS scraped
+2024-09-10 21:50:16,291 - settings.settings - INFO - Finished
+2024-09-10 21:52:14,176 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 21:52:14,887 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:52:14,922 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:52:14,958 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 21:52:16,271 - src.scrapers.carulla - INFO - Scraping Carulla
+2024-09-10 21:54:10,740 - src.scrapers.carulla - ERROR - Error finding element PONY MALTA: 
+2024-09-10 21:54:22,505 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 21:54:23,116 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:54:23,147 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:54:23,179 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 21:54:24,235 - src.scrapers.olimpica - INFO - Scraping Olimpica
+2024-09-10 21:55:04,104 - src.scrapers.olimpica - INFO - Product not added: COLA Y POLA|REFAJO COLA & POLA EN LATA 330 ML X6 UNDS|15.500
+2024-09-10 21:55:25,931 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 200 ML X6 UNDS|8.350
+2024-09-10 21:55:25,932 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 330 ML X6 UNDS|13.790
+2024-09-10 21:55:25,932 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 1,5 LT|5.090
+2024-09-10 21:55:25,932 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEB PONY MALTA PET 1 L|3.950
+2024-09-10 21:55:25,933 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA MALTA LEONA EN BOTELLA PET 400 ML X6 UNDS|8.900
+2024-09-10 21:55:25,933 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEB PONY MALTA LATA 6X330 ML|12.600
+2024-09-10 21:55:25,933 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 200 ML|1.500
+2024-09-10 21:55:25,934 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 330 ML|2.500
+2024-09-10 21:55:25,934 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 330 ML X6 UNDS|14.800
+2024-09-10 21:55:25,934 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|MILO NUGGETS TROZOS CON MALTA CUBIERTOS SABOR CHOCOLATE X 40G|3.940
+2024-09-10 21:55:25,935 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|SINGLETON DUFFTOWN 12 ANOS WHISKY DE MALTA ESCOCES 700 ML|167.090
+2024-09-10 21:55:25,935 - src.scrapers.olimpica - ERROR - Error finding element NATU MALTA: 'NoneType' object has no attribute 'text'
+2024-09-10 21:55:25,935 - src.scrapers.olimpica - INFO - Olimpica OTROS scraped
+2024-09-10 21:55:28,101 - settings.settings - INFO - Finished
+2024-09-10 21:56:30,014 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 21:56:30,614 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:56:30,641 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 21:56:30,679 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 21:56:31,719 - src.scrapers.olimpica - INFO - Scraping Olimpica
+2024-09-10 21:57:03,059 - src.scrapers.olimpica - INFO - Product not added: AZTECA|TORTILLA AZTECA TRADICIONAL BURRITO/QUESADILLA 360 G X12 UNDS|9.590
+2024-09-10 21:57:03,060 - src.scrapers.olimpica - INFO - Product not added: AZTECA|FRIJOLES AZTECA REFRITOS 300 G|6.075
+2024-09-10 21:57:03,061 - src.scrapers.olimpica - INFO - Product not added: AZTECA|NACHO AZTECA MEGA CHEESE BBQ MIX 180 G|6.870
+2024-09-10 21:57:03,061 - src.scrapers.olimpica - INFO - Product not added: AZTECA|TORTILLA AZTECA TRADICIONAL BURRITO/QUESADILLA 580 G X8 UNDS|11.690
+2024-09-10 21:57:03,061 - src.scrapers.olimpica - INFO - Product not added: AZTECA|CHILE AZTECA CON CARNE 300 G|7.200
+2024-09-10 21:57:03,062 - src.scrapers.olimpica - INFO - Product not added: AZTECA|TORTILLA AZTECA FINAS HIERBAS 310 G X8 UNDS|9.090
+2024-09-10 21:57:03,063 - src.scrapers.olimpica - INFO - Product not added: AZTECA|SALSA AZTECA CHIPOTLE HONEY DULCE Y SUAVE 167 G|6.187
+2024-09-10 21:57:03,063 - src.scrapers.olimpica - INFO - Product not added: AZTECA|NACHOTE AZTECA JALAPENO NO PICANTE 180 G|6.870
+2024-09-10 21:57:15,078 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA 6X330 ML|19.000
+2024-09-10 21:57:15,079 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|PROTECTOR LIGHTS BY TENA EXTRA LARGO X50 UNDS|14.552
+2024-09-10 21:57:15,079 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT EN LATA 269 ML X6 UNDS|12.000
+2024-09-10 21:57:15,079 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA 269ML  X6|12.000
+2024-09-10 21:57:15,080 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|FLOR DE JAMAICA NATURAL LIGHT 45 G|8.780
+2024-09-10 21:57:15,080 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|CONDIMENTO NATURAL LIGHT CURCUMA 35 G|3.350
+2024-09-10 21:57:15,080 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|LINAZA NATURAL LIGHT  60 G|3.450
+2024-09-10 21:57:15,081 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|PROTECTOR FEMENINO TENA DISCREET LARGO ALAS X 50 UND|12.880
+2024-09-10 21:57:15,081 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|MORINGA NATURAL LIGHT 15 G|3.700
+2024-09-10 21:57:15,081 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|PROTECTOR LIGHTS BY TENA NORMAL X50 UNDS|8.952
+2024-09-10 21:57:15,082 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|SET PROTECCION LIGHTYEAR TALLA S (52-55)|98.955
+2024-09-10 21:57:15,082 - src.scrapers.olimpica - INFO - Product not added: BUSCH LIGHT|VELA MAGIC LIGHT NUMERO PAQUETE ESPECIAL 1|2.360
+2024-09-10 21:57:47,876 - src.scrapers.olimpica - INFO - Product not added: COSTENITA|CERVEZA COSTENA BACANA EN LATA 330 ML X6 UNDS|16.800
+2024-09-10 21:58:06,695 - src.scrapers.olimpica - ERROR - Error finding element PILSEN: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DED933+25811]
+	(No symbol) [0x00D7E314]
+	(No symbol) [0x00C72523]
+	(No symbol) [0x00CB7483]
+	(No symbol) [0x00CB765B]
+	(No symbol) [0x00CF6BA2]
+	(No symbol) [0x00CDAD74]
+	(No symbol) [0x00CF46F0]
+	(No symbol) [0x00CDAAC6]
+	(No symbol) [0x00CABEFD]
+	(No symbol) [0x00CAC8FD]
+	GetHandleVerifier [0x010BF143+2981091]
+	GetHandleVerifier [0x01112FF9+3324825]
+	GetHandleVerifier [0x00E7B32F+605903]
+	GetHandleVerifier [0x00E82CBC+637020]
+	(No symbol) [0x00D86F4D]
+	(No symbol) [0x00D83DD8]
+	(No symbol) [0x00D83F75]
+	(No symbol) [0x00D76406]
+	BaseThreadInitThunk [0x76BE7BA9+25]
+	RtlInitializeExceptionChain [0x7798C10B+107]
+	RtlClearBits [0x7798C08F+191]
+
+2024-09-10 21:59:05,517 - src.scrapers.olimpica - INFO - Product not added: CORONA|CHOCOLATE DE MESA CORONA PASTILLA 500 G X16 UNDS|11.912
+2024-09-10 21:59:05,518 - src.scrapers.olimpica - INFO - Product not added: CORONA|VAJILLA REDONDA CALA CORONA TURQUESA VITROCERAMICA DE  16 PIEZAS 4 PUESTOS|89.900
+2024-09-10 21:59:05,519 - src.scrapers.olimpica - INFO - Product not added: CORONA|OLLA ARROCERA CORONA 1L L89885|99.900
+2024-09-10 21:59:05,519 - src.scrapers.olimpica - INFO - Product not added: CORONA|VAJILLA CORONA ASHLEY 4 PUESTOS 12 PIEZAS|84.900
+2024-09-10 21:59:05,520 - src.scrapers.olimpica - INFO - Product not added: CORONA|SANDWICHERA IDEAL DESAYUNA RICO Y RAPIDO|108.900
+2024-09-10 21:59:05,520 - src.scrapers.olimpica - INFO - Product not added: CORONA|CHOCOLATE DE MESA CORONA CLAVOS/CANELA PASTILLA 500 G X16 UNDS|11.272
+2024-09-10 21:59:05,520 - src.scrapers.olimpica - INFO - Product not added: CORONA|CHOCOLATE DE MESA CORONA 250 G X10 UNDS|6.712
+2024-09-10 21:59:05,521 - src.scrapers.olimpica - INFO - Product not added: CORONA|CHIPS CORONA DE CHOLOLATE 250 G|13.690
+2024-09-10 21:59:15,641 - src.scrapers.olimpica - INFO - Product not added: CORONITA|CERVEZA CORONA EXTRA 269ML X6|18.900
+2024-09-10 21:59:15,642 - src.scrapers.olimpica - INFO - Product not added: CORONITA|CERVEZA CORONA EXTRA 269ML X6|18.900
+2024-09-10 21:59:15,642 - src.scrapers.olimpica - INFO - Product not added: CORONITA|CERVEZA CORONA EXTRA EN LATA 269 ML|3.000
+2024-09-10 21:59:26,844 - src.scrapers.olimpica - INFO - Product not added: STELLA|COCHE MINU V2 STELLA - GRIS CLARO - UPPABABY|2.449.930
+2024-09-10 21:59:57,234 - src.scrapers.olimpica - ERROR - Error finding element MODELO: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DED933+25811]
+	(No symbol) [0x00D7E314]
+	(No symbol) [0x00C72523]
+	(No symbol) [0x00CB7483]
+	(No symbol) [0x00CB765B]
+	(No symbol) [0x00CF6BA2]
+	(No symbol) [0x00CDAD74]
+	(No symbol) [0x00CF46F0]
+	(No symbol) [0x00CDAAC6]
+	(No symbol) [0x00CABEFD]
+	(No symbol) [0x00CAC8FD]
+	GetHandleVerifier [0x010BF143+2981091]
+	GetHandleVerifier [0x01112FF9+3324825]
+	GetHandleVerifier [0x00E7B32F+605903]
+	GetHandleVerifier [0x00E82CBC+637020]
+	(No symbol) [0x00D86F4D]
+	(No symbol) [0x00D83DD8]
+	(No symbol) [0x00D83F75]
+	(No symbol) [0x00D76406]
+	BaseThreadInitThunk [0x76BE7BA9+25]
+	RtlInitializeExceptionChain [0x7798C10B+107]
+	RtlClearBits [0x7798C08F+191]
+
+2024-09-10 22:00:19,962 - src.scrapers.olimpica - ERROR - Error finding element BECKS: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DED933+25811]
+	(No symbol) [0x00D7E314]
+	(No symbol) [0x00C72523]
+	(No symbol) [0x00CB7483]
+	(No symbol) [0x00CB765B]
+	(No symbol) [0x00CF6BA2]
+	(No symbol) [0x00CDAD74]
+	(No symbol) [0x00CF46F0]
+	(No symbol) [0x00CDAAC6]
+	(No symbol) [0x00CABEFD]
+	(No symbol) [0x00CAC8FD]
+	GetHandleVerifier [0x010BF143+2981091]
+	GetHandleVerifier [0x01112FF9+3324825]
+	GetHandleVerifier [0x00E7B32F+605903]
+	GetHandleVerifier [0x00E82CBC+637020]
+	(No symbol) [0x00D86F4D]
+	(No symbol) [0x00D83DD8]
+	(No symbol) [0x00D83F75]
+	(No symbol) [0x00D76406]
+	BaseThreadInitThunk [0x76BE7BA9+25]
+	RtlInitializeExceptionChain [0x7798C10B+107]
+	RtlClearBits [0x7798C08F+191]
+
+2024-09-10 22:00:40,398 - src.scrapers.olimpica - ERROR - Error finding element ANDINA: 'NoneType' object has no attribute 'text'
+2024-09-10 22:01:15,029 - src.scrapers.olimpica - INFO - Product not added: PRIMA|CAFETERA AUTENTICO OSTER PLATEADA PRIMA LATTE 12 TAZAS 2121965.0|885.900
+2024-09-10 22:01:15,029 - src.scrapers.olimpica - INFO - Product not added: PRIMA|BOLSA PARA AGUA CALIENTE PRIMA PREMIUM SIN ACCESORIO 2 LT|27.500
+2024-09-10 22:01:27,645 - src.scrapers.olimpica - INFO - Product not added: CENTRAL|GABINETE SUPERIOR VEGA, BLANCO Y WENGUE, INCLUYE ENTREPANO MOVIL CENTRAL Y DOS PUERTAS DE VIDRIO|647.900
+2024-09-10 22:01:27,645 - src.scrapers.olimpica - INFO - Product not added: CENTRAL|KTC ESPEJO ACERO INOX CONVEXO 8 ½” TORNILLO CENTRAL Y PLATINA L|69.900
+2024-09-10 22:01:27,646 - src.scrapers.olimpica - INFO - Product not added: CENTRAL|GABINETE SUPERIOR VEGA, MIEL Y BLANCO, , INCLUYE ENTREPANO MOVIL CENTRAL Y DOS PUERTAS DE VIDRIO|668.900
+2024-09-10 22:01:27,646 - src.scrapers.olimpica - INFO - Product not added: CENTRAL|BRASIER COPA CON LAZITO CENTRAL ST RINA|38.900
+2024-09-10 22:01:40,704 - src.scrapers.olimpica - ERROR - Error finding element HEINEKEN: 'NoneType' object has no attribute 'text'
+2024-09-10 22:01:50,751 - src.scrapers.olimpica - INFO - Product not added: SOL|CHOCOLATE DE MESA SOL CON AZUCAR PASTILLA 500 G X16 UNDS|11.512
+2024-09-10 22:02:03,334 - src.scrapers.olimpica - INFO - Product not added: TRES CORDILLERAS|CERVEZA 3 CORDILLERAS MESTIZA 330ML X4 OF|19.600
+2024-09-10 22:02:03,335 - src.scrapers.olimpica - INFO - Product not added: TRES CORDILLERAS|CERVEZA 3 CORDILLERAS MESTIZ 330ML X4|19.590
+2024-09-10 22:02:03,335 - src.scrapers.olimpica - INFO - Product not added: TRES CORDILLERAS|CERVEZA 3 CORDILLERAS NEGRA 330ML X4|19.190
+2024-09-10 22:02:03,335 - src.scrapers.olimpica - INFO - Product not added: TRES CORDILLERAS|CERVEZA 3 CORDILLERAS NEGRA 330ML X4 OF|19.060
+2024-09-10 22:02:03,336 - src.scrapers.olimpica - ERROR - Error finding element TRES CORDILLERAS: 'NoneType' object has no attribute 'text'
+2024-09-10 22:02:23,080 - src.scrapers.olimpica - ERROR - Error finding element 3 CORDILLERAS: 'NoneType' object has no attribute 'text'
+2024-09-10 22:02:23,081 - src.scrapers.olimpica - INFO - Olimpica CERVEZA scraped
+2024-09-10 22:02:23,081 - src.scrapers.olimpica - INFO - Scraping Olimpica
+2024-09-10 22:02:48,574 - src.scrapers.olimpica - INFO - Product not added: COLA Y POLA|REFAJO COLA & POLA EN LATA 330 ML X6 UNDS|15.500
+2024-09-10 22:03:04,655 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 200 ML X6 UNDS|8.350
+2024-09-10 22:03:04,655 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 330 ML X6 UNDS|13.790
+2024-09-10 22:03:04,655 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 1,5 LT|5.090
+2024-09-10 22:03:04,656 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEB PONY MALTA PET 1 L|3.950
+2024-09-10 22:03:04,656 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA MALTA LEONA EN BOTELLA PET 400 ML X6 UNDS|8.900
+2024-09-10 22:03:04,656 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEB PONY MALTA LATA 6X330 ML|12.600
+2024-09-10 22:03:04,657 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 200 ML|1.500
+2024-09-10 22:03:04,657 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 330 ML|2.500
+2024-09-10 22:03:04,658 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA EN BOTELLA PET 330 ML X6 UNDS|14.800
+2024-09-10 22:03:04,658 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|MILO NUGGETS TROZOS CON MALTA CUBIERTOS SABOR CHOCOLATE X 40G|3.940
+2024-09-10 22:03:04,658 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|SINGLETON DUFFTOWN 12 ANOS WHISKY DE MALTA ESCOCES 700 ML|167.090
+2024-09-10 22:03:04,658 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|SINGLETON DUFFTOWN 12 ANOS WHISKY DE MALTA ESCOCES 700 ML|171.400
+2024-09-10 22:03:04,659 - src.scrapers.olimpica - INFO - Product not added: NATU MALTA|WHISKY GLENMORANGIE MALTA SCOTCH 750 ML|213.050
+2024-09-10 22:03:04,659 - src.scrapers.olimpica - ERROR - Error finding element NATU MALTA: 'NoneType' object has no attribute 'text'
+2024-09-10 22:03:04,659 - src.scrapers.olimpica - INFO - Olimpica OTROS scraped
+2024-09-10 22:03:06,948 - settings.settings - INFO - Finished
+2024-09-10 22:03:25,025 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 22:03:25,628 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 22:03:25,656 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 22:03:25,685 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 22:03:26,729 - src.scrapers.carulla - INFO - Scraping Carulla CERVEZA
+2024-09-10 22:07:40,349 - src.scrapers.carulla - ERROR - Error finding element AGUILA: 
+2024-09-10 22:08:02,023 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 22:08:02,633 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 22:08:02,675 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 22:08:02,711 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 22:08:03,755 - src.scrapers.carulla - INFO - Scraping Carulla CERVEZA
+2024-09-10 22:08:24,835 - src.scrapers.carulla - INFO - Product not added: AUSTEN|SENTIDO Y SENSIBILIDAD, AUSTEN, JANE|54.000
+2024-09-10 22:08:24,835 - src.scrapers.carulla - INFO - Product not added: AUSTEN|OVESTIN ESTRIOL 5MG OVU VAGINAL CAJ 15 OVU 1 U|56.700
+2024-09-10 22:08:24,836 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 22:08:24,836 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 22:08:24,837 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 22:08:24,837 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 22:08:24,837 - src.scrapers.carulla - INFO - Product not added: AUSTEN|TENIS CUSTER HOMBRE MODA AA0410M|89.990
+2024-09-10 22:08:24,838 - src.scrapers.carulla - INFO - Product not added: AUSTEN|TENIS CUSTER HOMBRE MODA AA0410M|89.990
+2024-09-10 22:08:24,838 - src.scrapers.carulla - INFO - Product not added: AUSTEN|CAMISETA POLO PARA HOMBRE  CUSTER  00566|29.990
+2024-09-10 22:08:24,839 - src.scrapers.carulla - INFO - Product not added: AUSTEN|CAMISETA POLO PARA HOMBRE  CUSTER  00566|29.990
+2024-09-10 22:08:24,839 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 22:08:24,839 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 22:08:24,840 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 22:08:24,840 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 22:08:24,840 - src.scrapers.carulla - INFO - Product not added: AUSTEN|BERMUDA CARGO PARA HOMBRE  CUSTER  73124|54.990
+2024-09-10 22:08:24,841 - src.scrapers.carulla - INFO - Product not added: AUSTEN|CAMISETA POLO PARA HOMBRE  CUSTER  00566|29.990
+2024-09-10 22:08:38,422 - src.scrapers.carulla - INFO - Product not added: AZTECA|FRIJOL REFRITO AZTECA X 300G AZTECA 300  GR|7.480
+2024-09-10 22:08:38,423 - src.scrapers.carulla - INFO - Product not added: AZTECA|NACHOS AZTECA  (180  GR)|7.650
+2024-09-10 22:08:38,423 - src.scrapers.carulla - INFO - Product not added: AZTECA|FRIJOLES NEGROS AZTECA 300  GR|6.715
+2024-09-10 22:08:38,423 - src.scrapers.carulla - INFO - Product not added: AZTECA|QUESO CHEDDAR DOY PACK AZTECA 200  GR|9.945
+2024-09-10 22:08:38,424 - src.scrapers.carulla - INFO - Product not added: AZTECA|JALAPENOS AZTECA  (220  GR)|8.755
+2024-09-10 22:08:38,424 - src.scrapers.carulla - INFO - Product not added: AZTECA|CHILE CON CARNE AZTECA X 300G AZTECA 300  GR|9.605
+2024-09-10 22:08:38,424 - src.scrapers.carulla - INFO - Product not added: AZTECA|TORTILLAS AZTECA HARINA INTEGRAL X 8 (250  GR)|7.600
+2024-09-10 22:08:38,425 - src.scrapers.carulla - INFO - Product not added: AZTECA|NACHOS AZTECA  (500 GR)|12.155
+2024-09-10 22:08:38,426 - src.scrapers.carulla - INFO - Product not added: AZTECA|TORTILLA   AZTECA  (240  GR)|8.480
+2024-09-10 22:08:38,426 - src.scrapers.carulla - INFO - Product not added: AZTECA|SALSA AZTECA SALSA (220  GR)|10.370
+2024-09-10 22:08:38,426 - src.scrapers.carulla - INFO - Product not added: AZTECA|CONCHA PARA TACOS AZTECA  (150  GR)|17.760
+2024-09-10 22:08:38,427 - src.scrapers.carulla - INFO - Product not added: AZTECA|CARNE DE RES EN SALSA AZTECA 300 GR|17.935
+2024-09-10 22:08:38,427 - src.scrapers.carulla - INFO - Product not added: AZTECA|SALSA AZTECA SALSA (220  GR)|10.370
+2024-09-10 22:08:38,428 - src.scrapers.carulla - INFO - Product not added: AZTECA|TOSTADAS AZTECA  (145  GR)|20.000
+2024-09-10 22:08:38,428 - src.scrapers.carulla - INFO - Product not added: AZTECA|POLLO SALSA AZTECA 280 GR|16.405
+2024-09-10 22:08:38,428 - src.scrapers.carulla - INFO - Product not added: AZTECA|ENSALADA MEXICANA AZTECA 300  GR|6.970
+2024-09-10 22:08:38,429 - src.scrapers.carulla - INFO - Product not added: AZTECA|TORTILLA   AZTECA  (580  GR)|13.200
+2024-09-10 22:08:38,429 - src.scrapers.carulla - INFO - Product not added: AZTECA|CERDO SALSA BBQ AZTECA 300 GR|15.980
+2024-09-10 22:08:38,430 - src.scrapers.carulla - INFO - Product not added: AZTECA|PASABOCAS AZTECA  (180  GR)|9.800
+2024-09-10 22:08:49,537 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA LIGHT SIXPACK AGUILA LIGHT 1980 ML|14.775
+2024-09-10 22:08:49,538 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA X6UND 269ML (1614  ML)|13.400
+2024-09-10 22:08:49,538 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA X6UND 330ML (1980  ML)|17.000
+2024-09-10 22:08:49,539 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA X6UND 269 (1614  ML)|9.150
+2024-09-10 22:08:49,539 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT BOTELLA (250  ML)|1.900
+2024-09-10 22:08:49,540 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (330  ML)|3.400
+2024-09-10 22:08:49,540 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LIGHT (2838  ML)|21.100
+2024-09-10 22:08:49,541 - src.scrapers.carulla - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT  (1860  ML)|15.200
+2024-09-10 22:09:01,296 - src.scrapers.carulla - INFO - Product not added: COSTENA|BUTIFARRA COSTENA PORCHI 300 GR|12.900
+2024-09-10 22:09:01,297 - src.scrapers.carulla - INFO - Product not added: COSTENA|MAZORCA REGIONAL COSTENA|8.909
+2024-09-10 22:09:17,940 - src.scrapers.carulla - INFO - Product not added: BACANA|BANANO   1  UND|720
+2024-09-10 22:09:17,941 - src.scrapers.carulla - INFO - Product not added: BACANA|BOTANA SNACK PERRO ADUL PEDIGREE 225  GR|8.325
+2024-09-10 22:09:17,942 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT EN SPRAY DRY BALANCE SPORT SPF 50 (170  ML)|51.000
+2024-09-10 22:09:17,942 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR FACIAL BANANA BOAT GENTLE PROTECT SENSTIVE SPF50 (60  ML)|33.300
+2024-09-10 22:09:17,942 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT DRY BALANCE SPORT SPF 50 (180  ML)|52.500
+2024-09-10 22:09:17,943 - src.scrapers.carulla - INFO - Product not added: BACANA|BRONCEADOR BANANA BOAT EXTRACTO ZANAHORIA Y ACEITE DE COCO (236  ML)|42.600
+2024-09-10 22:09:17,943 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ROLL ON KIDS SPORT SPF 50 (75  ML)|28.770
+2024-09-10 22:09:17,944 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ADAVANCED PROTECTION SPF 100 (118  ML)|50.200
+2024-09-10 22:09:17,944 - src.scrapers.carulla - INFO - Product not added: BACANA|BOTANA PERROS CACHO RAZA PEDIGREE 100  GR|4.950
+2024-09-10 22:09:17,945 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ADVANCED PROTECTION KIDS (118  ML)|42.000
+2024-09-10 22:09:17,945 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT AQUA PROTECT SPF 50 (236  GR)|53.300
+2024-09-10 22:09:17,945 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ROLL ON ADVANCED SPORT SPF 50 (75  ML)|28.350
+2024-09-10 22:09:17,946 - src.scrapers.carulla - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT MINERAL SPORT SPF 50 (180  ML)|56.100
+2024-09-10 22:09:17,946 - src.scrapers.carulla - INFO - Product not added: BACANA|ADEREZO MAYONESA BACHACA 250 ML|14.200
+2024-09-10 22:09:38,695 - src.scrapers.carulla - INFO - Product not added: COSTENITA|CERVEZA SIXPACK CERVEZA COSTENA BACANA 1980 ML|18.000
+2024-09-10 22:09:38,696 - src.scrapers.carulla - INFO - Product not added: COSTENITA|CERVEZA CERVEZA COSTENA BACANA LATA (330  ML)|3.000
+2024-09-10 22:09:38,696 - src.scrapers.carulla - INFO - Product not added: COSTENITA|CERVEZA COSTENA LATA X 6 UND 330ML (1980  ML)|11.500
+2024-09-10 22:09:38,697 - src.scrapers.carulla - INFO - Product not added: COSTENITA|CERVEZA COSTENA LATA (330  ML)|1.910
+2024-09-10 22:09:38,698 - src.scrapers.carulla - INFO - Product not added: COSTENITA|BUTIFARRA COSTENA PORCHI 300 GR|12.900
+2024-09-10 22:09:38,698 - src.scrapers.carulla - INFO - Product not added: COSTENITA|MAZORCA REGIONAL COSTENA|8.909
+2024-09-10 22:10:12,042 - src.scrapers.carulla - INFO - Product not added: REDDS|VINO TINTO APOTHIC RED CABERNET SAUVIGNON (750  ML)|50.330
+2024-09-10 22:10:12,042 - src.scrapers.carulla - INFO - Product not added: REDDS|BEBIDA ENERGIZANTE RED BULL LATA X4UND 250ML (1000  ML)|27.700
+2024-09-10 22:10:12,043 - src.scrapers.carulla - INFO - Product not added: REDDS|VINO TINTO APOTHIC RED RED BLEND (750  ML)|50.330
+2024-09-10 22:10:12,043 - src.scrapers.carulla - INFO - Product not added: REDDS|BEBIDA ENERGIZANTE RED BULL SIN AZUCAR LATA X4UND 250ML (1000  ML)|26.800
+2024-09-10 22:10:12,044 - src.scrapers.carulla - INFO - Product not added: REDDS|BEBIDA ENERGIZANTE RED BULL SIN AZUCAR LATA (250  ML)|5.950
+2024-09-10 22:10:12,044 - src.scrapers.carulla - INFO - Product not added: REDDS|BEBIDA ENERGIZANTE RED BULL LATA (250  ML)|7.000
+2024-09-10 22:10:12,045 - src.scrapers.carulla - INFO - Product not added: REDDS|BEBIDA ENERGIZANTE RED BULL LATA (355  ML)|9.900
+2024-09-10 22:10:12,045 - src.scrapers.carulla - INFO - Product not added: REDDS|BEBIDA ENERGIZANTE RED BULL SANDIA LATA (250  ML)|5.950
+2024-09-10 22:10:12,046 - src.scrapers.carulla - INFO - Product not added: REDDS|VINO APOTHIC RED  (750  ML)|50.330
+2024-09-10 22:10:12,046 - src.scrapers.carulla - INFO - Product not added: REDDS|BEBIDA ENERGIZANTE RED BULL SANDIA LATA X4UND 250ML (1000  ML)|27.700
+2024-09-10 22:10:12,047 - src.scrapers.carulla - INFO - Product not added: REDDS|RED. LIBRO DE ARTE Y PODER PANDA, DISNEY|14.925
+2024-09-10 22:10:52,533 - src.scrapers.carulla - INFO - Product not added: CORONA|CHOCOLATE CORONA CON AZUCAR X16 PASTILLAS (500  GR)|15.500
+2024-09-10 22:10:52,534 - src.scrapers.carulla - INFO - Product not added: CORONA|CHOCOLATE DE MESA CORONA DELICATTO (142  GR)|9.800
+2024-09-10 22:10:52,535 - src.scrapers.carulla - INFO - Product not added: CORONA|CHOCOLATE CORONA CLAVOS Y CANELA (500  GR)|16.200
+2024-09-10 22:10:52,535 - src.scrapers.carulla - INFO - Product not added: CORONA|CHOCOLATE ENDULZADO CON STEVIA CORONA 166.4 GR|14.400
+2024-09-10 22:10:52,536 - src.scrapers.carulla - INFO - Product not added: CORONA|CHOCOLATE CORONA CON AZUCAR X20 PASTILLAS (500  GR)|17.500
+2024-09-10 22:11:02,437 - src.scrapers.carulla - INFO - Product not added: CORONITA|CHOCOLATE CORONA CON AZUCAR X16 PASTILLAS (500  GR)|15.500
+2024-09-10 22:11:02,438 - src.scrapers.carulla - INFO - Product not added: CORONITA|CERVEZA CORONA BOTELLA X6UND 330ML (1980  ML)|21.760
+2024-09-10 22:11:02,438 - src.scrapers.carulla - INFO - Product not added: CORONITA|CERVEZA CORONA LATA X6UND 269ML (1614  ML)|15.520
+2024-09-10 22:11:02,438 - src.scrapers.carulla - INFO - Product not added: CORONITA|CHOCOLATE DE MESA CORONA DELICATTO (142  GR)|9.800
+2024-09-10 22:11:02,440 - src.scrapers.carulla - INFO - Product not added: CORONITA|GALLETAS MORENITAS CUBIERTA CHOCOLATE (210  GR)|16.200
+2024-09-10 22:11:02,440 - src.scrapers.carulla - INFO - Product not added: CORONITA|CHOCOLATE CORONA CLAVOS Y CANELA (500  GR)|16.200
+2024-09-10 22:11:02,440 - src.scrapers.carulla - INFO - Product not added: CORONITA|CHOCOLATE ENDULZADO CON STEVIA CORONA 166.4 GR|14.400
+2024-09-10 22:11:21,684 - src.scrapers.carulla - ERROR - Error finding element STELLA: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DED933+25811]
+	(No symbol) [0x00D7E314]
+	(No symbol) [0x00C72523]
+	(No symbol) [0x00CB7483]
+	(No symbol) [0x00CB765B]
+	(No symbol) [0x00CF6BA2]
+	(No symbol) [0x00CDAD74]
+	(No symbol) [0x00CF46F0]
+	(No symbol) [0x00CDAAC6]
+	(No symbol) [0x00CABEFD]
+	(No symbol) [0x00CAC8FD]
+	GetHandleVerifier [0x010BF143+2981091]
+	GetHandleVerifier [0x01112FF9+3324825]
+	GetHandleVerifier [0x00E7B32F+605903]
+	GetHandleVerifier [0x00E82CBC+637020]
+	(No symbol) [0x00D86F4D]
+	(No symbol) [0x00D83DD8]
+	(No symbol) [0x00D83F75]
+	(No symbol) [0x00D76406]
+	BaseThreadInitThunk [0x76BE7BA9+25]
+	RtlInitializeExceptionChain [0x7798C10B+107]
+	RtlClearBits [0x7798C08F+191]
+
+2024-09-10 22:11:31,863 - src.scrapers.carulla - INFO - Product not added: MICHELOB|AMOR EN LOS TIEMPOS DEL COLERA, OBAMA, MICHELLE|40.000
+2024-09-10 22:11:55,766 - src.scrapers.carulla - INFO - Product not added: BECKS|BACK PACK/MORRAL KINDER DISNEY FROZEN  146740|79.900
+2024-09-10 22:11:55,766 - src.scrapers.carulla - INFO - Product not added: BECKS|BENKS W11 15W ICE SPEED COOLING CARGADOR INALAMBRICO MAGNETICO|99.000
+2024-09-10 22:11:55,767 - src.scrapers.carulla - INFO - Product not added: BECKS|MASAJEADOR DE CUELLO Y ESPALDA ALIVIO DE DOLOR INFRAROJO|35.898
+2024-09-10 22:11:55,768 - src.scrapers.carulla - INFO - Product not added: BECKS|COSTILLA DE CERDO  BABY BACK|22.950
+2024-09-10 22:11:55,768 - src.scrapers.carulla - INFO - Product not added: BECKS|BABY BACK RIBS|29.700
+2024-09-10 22:11:55,769 - src.scrapers.carulla - INFO - Product not added: BECKS|COSTILLA DE CERDO BABY BACK POMONA FRESCO|34.230
+2024-09-10 22:11:55,769 - src.scrapers.carulla - INFO - Product not added: BECKS|BABY BACK RIBS ENTERO COSTILLAS PRACTICERDO FRESCO|38.000
+2024-09-10 22:11:55,770 - src.scrapers.carulla - INFO - Product not added: BECKS|EDUCAR SIN MIEDO, DRA BECKY KENNEDY|69.000
+2024-09-10 22:11:55,770 - src.scrapers.carulla - INFO - Product not added: BECKS|MORRAL KINDER BACK PACK CARS  146806|79.900
+2024-09-10 22:11:55,771 - src.scrapers.carulla - INFO - Product not added: BECKS|JUEGO DE CAMA BECKY COLNOTEX 74061|79.990
+2024-09-10 22:11:55,771 - src.scrapers.carulla - INFO - Product not added: BECKS|MORRAL PRIMARIA BACK PACK CARS  146808|139.000
+2024-09-10 22:11:55,771 - src.scrapers.carulla - INFO - Product not added: BECKS|MORRAL KINDER BACK PACK AVENGERS  146816|79.900
+2024-09-10 22:11:55,771 - src.scrapers.carulla - INFO - Product not added: BECKS|MORRAL BACK PACK MICKEY MOUSE  127621|89.900
+2024-09-10 22:11:55,772 - src.scrapers.carulla - INFO - Product not added: BECKS|MORRAL JUVENIL BACK PACK MINNIE  127619|89.900
+2024-09-10 22:11:55,772 - src.scrapers.carulla - INFO - Product not added: BECKS|TOP HIGH NECK LEONISA SPORT 195403|89.990
+2024-09-10 22:11:55,772 - src.scrapers.carulla - INFO - Product not added: BECKS|CREMA REAFIRMANTE SMART CLINICAL REPAIR LIFTING FACE + NECK - CLINIQUE|371.000
+2024-09-10 22:12:06,558 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY CAJICA MIEL  LATA X4UND 269ML (1076  ML)|9.800
+2024-09-10 22:12:06,559 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY CAJICA MIEL BOTELLA X4UND 330ML (1320  ML)|12.600
+2024-09-10 22:12:06,559 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY ROSE LATA X4UND 330ML (1076  ML)|11.340
+2024-09-10 22:12:06,559 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY ROSE BOTELLA X4UND 330ML (1320  ML)|14.140
+2024-09-10 22:12:06,560 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY MONSERRATE ROJA BOTELLA X4UND 330ML (1320  ML)|14.000
+2024-09-10 22:12:06,560 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY LAGER BOTELLA X6UND 330ML (1980  ML)|16.800
+2024-09-10 22:12:06,561 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY CAJICA MIEL LATA (269  ML)|2.170
+2024-09-10 22:12:06,561 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY ROSE (269  ML)|2.870
+2024-09-10 22:12:06,561 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY ROSE BOTELLA (330  ML)|3.570
+2024-09-10 22:12:06,562 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY CAJICA MIEL BOTELLA (330  ML)|3.220
+2024-09-10 22:12:06,562 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL BOGOTA BEER COMPANY MONSERRATE ROJA BOTELLA (330  ML)|3.220
+2024-09-10 22:12:06,563 - src.scrapers.carulla - INFO - Product not added: BBC|TOMATE CHERRY ROSE  500  GR|10.320
+2024-09-10 22:12:06,563 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL 3CORDILLERAS ROSE BOTELLA X6UND 300ML (1800  ML)|20.400
+2024-09-10 22:12:06,563 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL 3CORDILLERAS ROSE LATA X6UND 269ML (1614  ML)|22.000
+2024-09-10 22:12:06,564 - src.scrapers.carulla - INFO - Product not added: BBC|VINO ROSADO LAS MORAS SYRAH ROSE (750  ML)|48.375
+2024-09-10 22:12:06,564 - src.scrapers.carulla - INFO - Product not added: BBC|APERITIVO JP CHENET FIZZY ROSE  X 4UND LATA (1000  ML)|44.000
+2024-09-10 22:12:06,565 - src.scrapers.carulla - INFO - Product not added: BBC|APERITIVO JP CHENET FIZZY ROSE LATA (250  ML)|11.200
+2024-09-10 22:12:06,565 - src.scrapers.carulla - INFO - Product not added: BBC|CERVEZA ARTESANAL 3CORDILLERAS ROSE LATA (269  ML)|3.800
+2024-09-10 22:12:06,565 - src.scrapers.carulla - INFO - Product not added: BBC|TOMATE CHERRY ROSE GRANEL|18.080
+2024-09-10 22:12:06,566 - src.scrapers.carulla - INFO - Product not added: BBC|APERITIVO LIT HARD SELTZER NO VINICO ROSE LATA (269  ML)|8.300
+2024-09-10 22:12:06,566 - src.scrapers.carulla - INFO - Product not added: BBC|GEL BANO ROSE RASP GREEN CHOICE GENERATION  (1000  ML)|15.100
+2024-09-10 22:12:19,108 - src.scrapers.carulla - INFO - Product not added: ANDINA|ANDINA REFAJO LATA ANDINA LATA (310  ML)|2.500
+2024-09-10 22:12:19,109 - src.scrapers.carulla - INFO - Product not added: ANDINA|ANDINA REFAJO SIXPACK 310 ML ANDINA SIXPACK (1860  ML)|15.200
+2024-09-10 22:12:38,320 - src.scrapers.carulla - ERROR - Error finding element TECATE: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DED933+25811]
+	(No symbol) [0x00D7E314]
+	(No symbol) [0x00C72523]
+	(No symbol) [0x00CB7483]
+	(No symbol) [0x00CB765B]
+	(No symbol) [0x00CF6BA2]
+	(No symbol) [0x00CDAD74]
+	(No symbol) [0x00CF46F0]
+	(No symbol) [0x00CDAAC6]
+	(No symbol) [0x00CABEFD]
+	(No symbol) [0x00CAC8FD]
+	GetHandleVerifier [0x010BF143+2981091]
+	GetHandleVerifier [0x01112FF9+3324825]
+	GetHandleVerifier [0x00E7B32F+605903]
+	GetHandleVerifier [0x00E82CBC+637020]
+	(No symbol) [0x00D86F4D]
+	(No symbol) [0x00D83DD8]
+	(No symbol) [0x00D83F75]
+	(No symbol) [0x00D76406]
+	BaseThreadInitThunk [0x76BE7BA9+25]
+	RtlInitializeExceptionChain [0x7798C10B+107]
+	RtlClearBits [0x7798C08F+191]
+
+2024-09-10 22:13:01,547 - src.scrapers.carulla - INFO - Product not added: PRIMA|COCHE TRAVEL SYSTEM PRIMA ROSA BEBESIT SL461AP|696.228
+2024-09-10 22:13:01,548 - src.scrapers.carulla - INFO - Product not added: PRIMA|TRAVEL SYSTEM PRIMA BLACK BEBESIT SL461ABK|696.228
+2024-09-10 22:13:01,548 - src.scrapers.carulla - INFO - Product not added: PRIMA|COCHE PRIMA BLACK BEBESIT SL452BK|497.286
+2024-09-10 22:13:12,318 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CONTROL PS3 + CABLE + FORRO + GRIPS BLANCO|58.000
+2024-09-10 22:13:12,319 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CONSOLA RETRO SUPER MINI 620 JUEGOS NEW|45.999
+2024-09-10 22:13:12,319 - src.scrapers.carulla - INFO - Product not added: CENTRAL|ESTUFA A GAS 20 GABINETE GRIS CENTRALES CCC20GTGXN|965.900
+2024-09-10 22:13:12,320 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CONTROL INALAMBRICO RECARGABLE PARA ANDROID IOS PC, TV, TV BOX, ETC. CELULARES HASTA DE 8 CM DE ANCHO|37.800
+2024-09-10 22:13:12,320 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CABLE LIGHTNING 8 PINES IPHONE IPOD E IPAD CERTIFICADO TIPO C GENERICO|14.692
+2024-09-10 22:13:12,320 - src.scrapers.carulla - INFO - Product not added: CENTRAL|KIT CARGA Y JUEGA XBOX ONE X BATERIA + CABLE 2.7 MTS|35.233
+2024-09-10 22:13:12,321 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CONTROL INALAMBRICO RECARGABLE DUALSHOCK PS3 AZUL|32.899
+2024-09-10 22:13:12,321 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CONTROL INALAMBRICO RECARGABLE PRO CONTROLLER NINTENDO SWITCH Y PC NEGRO|271.999
+2024-09-10 22:13:12,321 - src.scrapers.carulla - INFO - Product not added: CENTRAL|KIT CARGA Y JUEGA XBOX ONE X BATERIA + CABLE 2.7 MTS|89.977
+2024-09-10 22:13:12,322 - src.scrapers.carulla - INFO - Product not added: CENTRAL|CABLE LIGHTNING 8 PINES IPHONE IPOD E IPAD CERTIFICADO BLANCO|17.900
+2024-09-10 22:13:12,322 - src.scrapers.carulla - INFO - Product not added: CENTRAL|METOCARBAMOL IBUPROFENO MK TAB CAJ 30 UN|47.150
+2024-09-10 22:13:12,322 - src.scrapers.carulla - INFO - Product not added: CENTRAL|IBUPROFENO GENFAR TAB REC 800 MG ORAL CJA 50 UN|20.900
+2024-09-10 22:13:12,323 - src.scrapers.carulla - INFO - Product not added: CENTRAL|IBUPROFENO MK CAP ORAL CAJ 30 UN|35.250
+2024-09-10 22:13:12,323 - src.scrapers.carulla - INFO - Product not added: CENTRAL|SERTRALINA COLMED TAB REC 100 MG CAJ 10 UN|68.100
+2024-09-10 22:13:12,324 - src.scrapers.carulla - INFO - Product not added: CENTRAL|SERTRALINA MK TAB 100 MG ORAL CAJA 30 UN|241.950
+2024-09-10 22:13:12,324 - src.scrapers.carulla - INFO - Product not added: CENTRAL|SERTRALINA COLMED TAB 50 MG ORAL CAJ 10 UN|49.600
+2024-09-10 22:13:12,324 - src.scrapers.carulla - INFO - Product not added: CENTRAL|SERTRALINA MK TAB REC 50 MG ORAL CAJA 30 UN|120.200
+2024-09-10 22:13:12,325 - src.scrapers.carulla - INFO - Product not added: CENTRAL|PAROXETINA MK TAB 20 MG ORAL CAJA 30 UN|118.350
+2024-09-10 22:13:12,325 - src.scrapers.carulla - INFO - Product not added: CENTRAL|NEO ZENTIUS TAB REC 10 MG ORAL CAJA 30 UN|94.320
+2024-09-10 22:13:36,279 - src.scrapers.carulla - INFO - Product not added: SOL|CHOCOLATE SOL 50% MENOS AZUCAR (320  GR)|14.900
+2024-09-10 22:13:36,279 - src.scrapers.carulla - INFO - Product not added: SOL|CHOCOLATE SOL PASTA (500  GR)|16.200
+2024-09-10 22:13:36,280 - src.scrapers.carulla - INFO - Product not added: SOL|CHOCOLATE SOL 0% AZUCAR (125  GR)|12.100
+2024-09-10 22:13:36,280 - src.scrapers.carulla - INFO - Product not added: SOL|CHOCOLATE SOL CLAVOS Y CANELA (500  GR)|17.400
+2024-09-10 22:13:36,281 - src.scrapers.carulla - INFO - Product not added: SOL|CHOCOLATE SOL PASTA (750  GR)|29.100
+2024-09-10 22:13:47,268 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO TINTO TRES MEDALLAS  (750  ML)|32.076
+2024-09-10 22:13:47,269 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO TINTO TRES MEDALLAS  (750  ML)|32.076
+2024-09-10 22:13:47,269 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO BLANCO TRES MEDALLAS SAUVIGNON BLANC (750  ML)|32.010
+2024-09-10 22:13:47,270 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO BLANCO TRES MEDALLAS  (750  ML)|35.640
+2024-09-10 22:13:47,270 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO TINTO TRES MEDALLAS  (750  ML)|32.010
+2024-09-10 22:13:47,270 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|VINO ROSADO TRES MEDALLAS BLEND (750  ML)|32.010
+2024-09-10 22:13:47,271 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|GRANOLA UN, DOS, TRES POR MI PISTACHO CHOCOLATE AVENA NUECE (400 GR)|36.100
+2024-09-10 22:13:47,271 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|GRANOLA  UN, DOS, TRES POR MI CHOCOLATE BLANCO AVENA NUECES (400 GR)|47.500
+2024-09-10 22:13:47,271 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|TRES LECHES AREQUIPE POMONA 720  GR|27.120
+2024-09-10 22:13:47,273 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|TRES LECHES DE CAFE  1360 GR|51.120
+2024-09-10 22:13:47,273 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|GRANOLA UN, DOS, TRES POR MI CHOCOLATE BASE AVENA (400 GR)|36.100
+2024-09-10 22:13:47,273 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|TRES ASESINOS, KOTARO ISAKA|79.000
+2024-09-10 22:13:47,274 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|TRES LECHES DE AREQUIPE Y RON  1350 GR|43.920
+2024-09-10 22:13:47,274 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|TRES LECHES MILOS POMONA 1100  GR|50.320
+2024-09-10 22:13:47,275 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|TRES LECHES QUESO CARAMELO*12 POMONA 1100  GR|50.320
+2024-09-10 22:13:47,275 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|TRES LICRAS ARRIBA DE LA RODILLA MUJER RUNNING ALGODON THIN HAPPY|69.900
+2024-09-10 22:13:47,275 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|TRES LICRAS CORTAS MUJER RUNNING ALGODON BOLSILLO CELULAR THIN HAPPY|59.900
+2024-09-10 22:13:47,276 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|TRES LICRAS 3-4 MUJER ALGODON BOLSILLO CELULAR THIN HAPPY|79.900
+2024-09-10 22:13:47,276 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|CERVEZA 3CORDILLERAS CERVEZA 3 CORDILLERAS (300  ML)|3.400
+2024-09-10 22:13:47,276 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|PONQUE BIMBO CASERO TRES LECHES (220  GR)|8.400
+2024-09-10 22:13:47,277 - src.scrapers.carulla - INFO - Product not added: TRES CORDILLERAS|HELADO CREM HELADO ARTESANAL TRES LECHES (70  GR)|3.000
+2024-09-10 22:13:59,538 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR GILLETTE MACH 3 SENSITIVE + 2 REPUESTOS (1  UND)|35.000
+2024-09-10 22:13:59,538 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR GILLETTE MACH 3 AL RAS 3 HOJAS REPUESTOS (4  UND)|39.840
+2024-09-10 22:13:59,539 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR GILLETTE MACH 3 SENSITIVE REPUESTOS (6  UND)|63.700
+2024-09-10 22:13:59,539 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR GILLETTE MACH 3 ALOE SENSITIVE REPUESTOS (4  UND)|49.840
+2024-09-10 22:13:59,540 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|RASURADORA RECARGABLE MACH 3 AFEITAR CARBONO X4 UND  (4  UND)|47.840
+2024-09-10 22:13:59,540 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR GILLETTE MACH 3 AL RAS 3 HOJAS REPUESTOS (2  UND)|30.200
+2024-09-10 22:13:59,540 - src.scrapers.carulla - INFO - Product not added: 3 CORDILLERAS|MAQUINA DE AFEITAR MACH 3 PIEL SENSIBLE (1  UND)|31.200
+2024-09-10 22:13:59,540 - src.scrapers.carulla - INFO - Carulla CERVEZA scraped
+2024-09-10 22:13:59,542 - src.scrapers.carulla - INFO - Scraping Carulla OTROS
+2024-09-10 22:14:21,907 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA MEDIANA TRIP  AZUL SWISSPASS  TRIP|369.900
+2024-09-10 22:14:21,907 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA MEDIANA TRIP  AZUL SWISSPASS  TRIP|369.900
+2024-09-10 22:14:21,908 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA DE CABINA AMERICAN TOURISTER  132885|299.000
+2024-09-10 22:14:21,909 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA  ARKITECT  AH9218|118.993
+2024-09-10 22:14:21,909 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA  ARKITECT  AH9218|118.993
+2024-09-10 22:14:21,909 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA PEQUENA ARKITECT  AH201|139.993
+2024-09-10 22:14:21,909 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA FRAN PEQUENA AMERICAN TOURISTER  1328851041|299.000
+2024-09-10 22:14:21,911 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA GRANDE  AMERICAN TOURISTER  132887|399.000
+2024-09-10 22:14:21,911 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA GRANDE  AMERICAN TOURISTER  132887|399.000
+2024-09-10 22:14:21,912 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA GRANDE TRIP AZUL SWISSPASS  TRIP|449.900
+2024-09-10 22:14:21,912 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA LAY PEQUENA AMERICAN TOURISTER  1333171694|399.000
+2024-09-10 22:14:21,912 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA MEDIANA AMERICAN TOURISTER  132886|359.000
+2024-09-10 22:14:21,912 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA MEDIANA AMERICAN TOURISTER  132886|359.000
+2024-09-10 22:14:21,912 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA OASIS MEDIANA AMERICAN TOURISTER  1328891041|359.000
+2024-09-10 22:14:21,912 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA LONA FIJI PEQUENA AMERICAN TOURISTER  1203251596|499.000
+2024-09-10 22:14:21,913 - src.scrapers.carulla - INFO - Product not added: MALTA LEONA|MALETA DE CABINA LONA EXCEL EXPLORA  EXCEL|188.900
+2024-09-10 22:14:44,513 - src.scrapers.carulla - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA LATA X6UND 330ML (1980  ML)|9.600
+2024-09-10 22:14:44,514 - src.scrapers.carulla - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA PET (1500  ML)|3.300
+2024-09-10 22:14:44,514 - src.scrapers.carulla - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA SIXPACK LIMA LIMON (1980  ML)|9.120
+2024-09-10 22:14:44,514 - src.scrapers.carulla - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA LATA 330ML (330  ML)|1.620
+2024-09-10 22:14:44,515 - src.scrapers.carulla - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA  (9000  ML)|18.540
+2024-09-10 22:14:44,515 - src.scrapers.carulla - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA LIMA LIMON (330  ML)|1.560
+2024-09-10 22:14:44,516 - src.scrapers.carulla - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X6UND 250ML (1500  ML)|12.835
+2024-09-10 22:14:44,516 - src.scrapers.carulla - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X 2UND 1.5L (3000  ML)|9.860
+2024-09-10 22:14:56,422 - src.scrapers.carulla - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA X6UND 200ML (1200  ML)|9.300
+2024-09-10 22:14:56,423 - src.scrapers.carulla - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA (1000  ML)|4.000
+2024-09-10 22:14:56,423 - src.scrapers.carulla - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA X6UND 330ML (1980  ML)|15.600
+2024-09-10 22:14:56,424 - src.scrapers.carulla - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA FAMILIAR (1500  ML)|5.300
+2024-09-10 22:14:56,424 - src.scrapers.carulla - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA (200  ML)|1.600
+2024-09-10 22:14:56,425 - src.scrapers.carulla - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA FAMILIAR (2000  ML)|6.900
+2024-09-10 22:14:56,425 - src.scrapers.carulla - INFO - Carulla OTROS scraped
+2024-09-10 22:14:58,894 - settings.settings - INFO - Finished
+2024-09-10 22:19:35,907 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 22:19:36,531 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 22:19:36,569 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 22:19:36,659 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 22:19:37,699 - src.scrapers.exito - INFO - Scraping Exito CERVEZA
+2024-09-10 22:19:47,664 - src.scrapers.exito - INFO - Product not added: AGUILA|Cerveza Light Sixpack AGUILA LIGHT 1980 ml|13.312
+2024-09-10 22:19:47,664 - src.scrapers.exito - INFO - Product not added: AGUILA|Cerveza Lata Sixpack AGUILA 1980 ml|14.400
+2024-09-10 22:19:47,665 - src.scrapers.exito - INFO - Product not added: AGUILA|Cerveza AGUILA 0.0 Alcohol Lata x6und 330ml (1980  ml)|10.455
+2024-09-10 22:19:47,665 - src.scrapers.exito - INFO - Product not added: AGUILA|Cerveza AGUILA Lata (473  ml)|2.630
+2024-09-10 22:19:47,665 - src.scrapers.exito - INFO - Product not added: AGUILA|Cerveza AGUILA LIGHT Lata x6und 269 (1614  ml)|8.437
+2024-09-10 22:19:47,665 - src.scrapers.exito - INFO - Product not added: AGUILA|Cerveza AGUILA 0.0 Alcohol Lata (330  ml)|1.910
+2024-09-10 22:19:47,665 - src.scrapers.exito - INFO - Product not added: AGUILA|Cerveza AGUILA Lata (330  ml)|3.000
+2024-09-10 22:19:47,666 - src.scrapers.exito - INFO - Product not added: AGUILA|Cerveza AGUILA LIGHT Lata (269  ml)|1.980
+2024-09-10 22:19:47,666 - src.scrapers.exito - INFO - Product not added: AGUILA|Cerveza AGUILA LIGHT Lata (473  ml)|2.650
+2024-09-10 22:19:47,666 - src.scrapers.exito - INFO - Product not added: AGUILA|Cerveza AGUILA LIGHT light (2838  ml)|20.800
+2024-09-10 22:19:47,666 - src.scrapers.exito - INFO - Product not added: AGUILA|Cerveza AGUILA LIGHT Lata (330  ml)|3.300
+2024-09-10 22:19:47,666 - src.scrapers.exito - INFO - Product not added: AGUILA|Agua tónica SCHWEPPES Botella vidrio (300  ml)|3.150
+2024-09-10 22:19:47,666 - src.scrapers.exito - INFO - Product not added: AGUILA|Agua tónica CANADA DRY Sin Calorías x 6 und 300 ml (1800  ml)|13.000
+2024-09-10 22:19:47,667 - src.scrapers.exito - INFO - Product not added: AGUILA|Agua tónica HATSU Hibiscus y arándanos x 4und 207ml (828  ml)|23.850
+2024-09-10 22:19:47,667 - src.scrapers.exito - INFO - Product not added: AGUILA|Agua tónica MIL 976 Cero calorías x 4 und 200ml (828  ml)|24.700
+2024-09-10 22:19:47,667 - src.scrapers.exito - INFO - Product not added: AGUILA|Agua tónica SCHWEPPES Lata (269  ml)|2.640
+2024-09-10 22:19:47,667 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:19:57,713 - src.scrapers.exito - INFO - Product not added: AUSTEN|Sentido Y Sensibilidad, Austen, Jane|54.000
+2024-09-10 22:19:57,713 - src.scrapers.exito - INFO - Product not added: AUSTEN|Orgullo Y Prejuicio, Austen, Jane|55.000
+2024-09-10 22:19:57,713 - src.scrapers.exito - INFO - Product not added: AUSTEN|Orgullo Y Prejuicio (Coleccion Peng, Austen, Jane|45.000
+2024-09-10 22:19:57,713 - src.scrapers.exito - INFO - Product not added: AUSTEN|Silla Para Oficina Ejecutiva Austen Negra|335.900
+2024-09-10 22:19:57,713 - src.scrapers.exito - INFO - Product not added: AUSTEN|Silla Para Oficina Ejecutiva Austen|239.900
+2024-09-10 22:19:57,713 - src.scrapers.exito - INFO - Product not added: AUSTEN|Bermuda Basica Para Hombre  CUSTER  73123|54.990
+2024-09-10 22:19:57,713 - src.scrapers.exito - INFO - Product not added: AUSTEN|Bermuda Basica Para Hombre  CUSTER  73123|54.990
+2024-09-10 22:19:57,714 - src.scrapers.exito - INFO - Product not added: AUSTEN|Bermuda Basica Para Hombre  CUSTER  73123|54.990
+2024-09-10 22:19:57,714 - src.scrapers.exito - INFO - Product not added: AUSTEN|Bermuda Basica Para Hombre  CUSTER  73123|54.990
+2024-09-10 22:19:57,714 - src.scrapers.exito - INFO - Product not added: AUSTEN|Pantalon Chino Para Hombre  CUSTER  00900|59.990
+2024-09-10 22:19:57,714 - src.scrapers.exito - INFO - Product not added: AUSTEN|Pantalon Chino Para Hombre  CUSTER  00900|59.990
+2024-09-10 22:19:57,714 - src.scrapers.exito - INFO - Product not added: AUSTEN|Pantalon Chino Para Hombre  CUSTER  00900|59.990
+2024-09-10 22:19:57,715 - src.scrapers.exito - INFO - Product not added: AUSTEN|Pantalon Chino Para Hombre  CUSTER  00900|59.990
+2024-09-10 22:19:57,715 - src.scrapers.exito - INFO - Product not added: AUSTEN|Zapato para Hombre CUSTER LG21205|109.990
+2024-09-10 22:19:57,715 - src.scrapers.exito - INFO - Product not added: AUSTEN|Zapato para Hombre CUSTER LG21205|109.990
+2024-09-10 22:19:57,715 - src.scrapers.exito - INFO - Product not added: AUSTEN|Zapato para Hombre CUSTER LG21205|109.990
+2024-09-10 22:19:57,715 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:20:05,906 - src.scrapers.exito - INFO - Product not added: AZTECA|Frijol Refrito Azteca x 300g AZTECA 300  gr|9.850
+2024-09-10 22:20:05,907 - src.scrapers.exito - INFO - Product not added: AZTECA|Queso Cheddar Doy Pack AZTECA 200  gr|15.200
+2024-09-10 22:20:05,907 - src.scrapers.exito - INFO - Product not added: AZTECA|Tortilla   AZTECA  (240  gr)|7.650
+2024-09-10 22:20:05,908 - src.scrapers.exito - INFO - Product not added: AZTECA|Frijoles Antioqueños AZTECA 300  gr|8.460
+2024-09-10 22:20:05,908 - src.scrapers.exito - INFO - Product not added: AZTECA|Nachos AZTECA  (180  gr)|8.010
+2024-09-10 22:20:05,908 - src.scrapers.exito - INFO - Product not added: AZTECA|Chile con carne Azteca x 300g AZTECA 300  gr|13.150
+2024-09-10 22:20:05,908 - src.scrapers.exito - INFO - Product not added: AZTECA|Tortilla   AZTECA  (580  gr)|13.150
+2024-09-10 22:20:05,909 - src.scrapers.exito - INFO - Product not added: AZTECA|Frijoles Negros AZTECA 300  gr|7.770
+2024-09-10 22:20:05,909 - src.scrapers.exito - INFO - Product not added: AZTECA|Jalapeños AZTECA  (220  gr)|10.150
+2024-09-10 22:20:05,909 - src.scrapers.exito - INFO - Product not added: AZTECA|Tortillas AZTECA MAIZ SUPER NACHOS QUESO (180  gr)|8.500
+2024-09-10 22:20:05,909 - src.scrapers.exito - INFO - Product not added: AZTECA|Salsa AZTECA Salsa (220  gr)|14.550
+2024-09-10 22:20:05,910 - src.scrapers.exito - INFO - Product not added: AZTECA|Tostadas AZTECA  (145  gr)|25.200
+2024-09-10 22:20:05,910 - src.scrapers.exito - INFO - Product not added: AZTECA|Tortillas  AZTECA MAIZ SUPER NACHOS QUESO PICANT (180  gr)|8.500
+2024-09-10 22:20:05,910 - src.scrapers.exito - INFO - Product not added: AZTECA|Tortillas AZTECA Harina Integral x 8 (250  gr)|8.050
+2024-09-10 22:20:05,910 - src.scrapers.exito - INFO - Product not added: AZTECA|Concha para Tacos AZTECA  (150  gr)|22.250
+2024-09-10 22:20:05,910 - src.scrapers.exito - INFO - Product not added: AZTECA|Salsa AZTECA Salsa (220  gr)|14.550
+2024-09-10 22:20:05,910 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:20:14,881 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza Light Sixpack AGUILA LIGHT 1980 ml|13.312
+2024-09-10 22:20:14,882 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza AGUILA LIGHT Lata x6und 269 (1614  ml)|8.437
+2024-09-10 22:20:14,882 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza CERVEZA ANDINA LIGHT Light Botella (250  ml)|1.820
+2024-09-10 22:20:14,882 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza AGUILA LIGHT Lata (269  ml)|1.980
+2024-09-10 22:20:14,882 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza CERVEZA ANDINA LIGHT  (1860  ml)|15.000
+2024-09-10 22:20:14,883 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza CERVEZA ANDINA LIGHT Light Lata (269  ml)|2.200
+2024-09-10 22:20:14,883 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza CERVEZA ANDINA LIGHT Light Lata (330  ml)|2.920
+2024-09-10 22:20:14,883 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza AGUILA LIGHT Lata (473  ml)|2.650
+2024-09-10 22:20:14,883 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza CERVEZA ANDINA LIGHT Light Lata x6und 269ml (1614  ml)|13.200
+2024-09-10 22:20:14,883 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza AGUILA LIGHT light (2838  ml)|20.800
+2024-09-10 22:20:14,884 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza AGUILA LIGHT Lata (330  ml)|3.300
+2024-09-10 22:20:14,884 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Light Dgtion+Vidasana PURINA DOG CHOW 2000  gr|50.000
+2024-09-10 22:20:14,884 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Audifonos Diadema Gamer Microfono Gm 017|48.800
+2024-09-10 22:20:14,884 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Instantaneo Light Frutos Rojos LIGHT YA 10 gr|1.240
+2024-09-10 22:20:14,884 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Azucar Bca Light Tetra Rex IN CAUCA LIGHT 850 gr|7.200
+2024-09-10 22:20:14,885 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|Cerveza CERVEZA ANDINA LIGHT Light (310  ml)|2.500
+2024-09-10 22:20:14,885 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:20:23,305 - src.scrapers.exito - INFO - Product not added: COSTENA|Cerveza CERVEZA COSTEÑA BACANA Lata (330  ml)|3.000
+2024-09-10 22:20:23,305 - src.scrapers.exito - INFO - Product not added: COSTENA|Cerveza COSTENA lata x 6 und 330ml (1980  ml)|11.500
+2024-09-10 22:20:23,305 - src.scrapers.exito - INFO - Product not added: COSTENA|Cerveza COSTENA Lata (330  ml)|1.910
+2024-09-10 22:20:23,306 - src.scrapers.exito - INFO - Product not added: COSTENA|Destapador Botella Cerveza Costeña Con Iman Bar Bebidas Decoración|9.990
+2024-09-10 22:20:23,306 - src.scrapers.exito - INFO - Product not added: COSTENA|Hermosas Sillas Hamacas Color Costeña Artesanal|150.000
+2024-09-10 22:20:23,306 - src.scrapers.exito - INFO - Product not added: COSTENA|MAZORCA REGIONAL COSTENA|7.811
+2024-09-10 22:20:23,306 - src.scrapers.exito - INFO - Product not added: COSTENA|AGUARDIENTE Aguardiente COSTEÑO SIN AZUCAR (375  ml)|21.450
+2024-09-10 22:20:23,306 - src.scrapers.exito - INFO - Product not added: COSTENA|AGUARDIENTE Aguardiente COSTEÑO SIN AZUCAR (750  ml)|41.100
+2024-09-10 22:20:23,306 - src.scrapers.exito - INFO - Product not added: COSTENA|Bóxer De Ajuste Perfecto 012640|39.990
+2024-09-10 22:20:23,307 - src.scrapers.exito - INFO - Product not added: COSTENA|Bóxer De Ajuste Perfecto 012640|39.990
+2024-09-10 22:20:23,307 - src.scrapers.exito - INFO - Product not added: COSTENA|Bóxer De Ajuste Perfecto 012640|39.990
+2024-09-10 22:20:23,307 - src.scrapers.exito - INFO - Product not added: COSTENA|Queso Costeño Bloque   (1  und)|17.675
+2024-09-10 22:20:23,307 - src.scrapers.exito - INFO - Product not added: COSTENA|Queso LA MARIA Costeño En Bloque (400  gr)|17.750
+2024-09-10 22:20:23,307 - src.scrapers.exito - INFO - Product not added: COSTENA|Suero costeño ALQUERIA Original pasteurizado (400  gr)|10.600
+2024-09-10 22:20:23,307 - src.scrapers.exito - INFO - Product not added: COSTENA|Cortina Blackout De Ojal Lona Beige 265 Cm|124.900
+2024-09-10 22:20:23,308 - src.scrapers.exito - INFO - Product not added: COSTENA|Suero costeño ALQUERIA Original pasteurizado (200  gr)|5.030
+2024-09-10 22:20:23,308 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:20:33,313 - src.scrapers.exito - ERROR - Error finding element BACANA: 'str' object has no attribute 'append'
+2024-09-10 22:20:43,688 - src.scrapers.exito - INFO - Product not added: COSTENITA|Cerveza CERVEZA COSTEÑA BACANA Lata (330  ml)|3.000
+2024-09-10 22:20:43,688 - src.scrapers.exito - INFO - Product not added: COSTENITA|Cerveza COSTENA lata x 6 und 330ml (1980  ml)|11.500
+2024-09-10 22:20:43,688 - src.scrapers.exito - INFO - Product not added: COSTENITA|Cerveza COSTENA Lata (330  ml)|1.910
+2024-09-10 22:20:43,689 - src.scrapers.exito - INFO - Product not added: COSTENITA|MAZORCA REGIONAL COSTENA|7.811
+2024-09-10 22:20:43,689 - src.scrapers.exito - INFO - Product not added: COSTENITA|Destapador Botella Cerveza Costeña Con Iman Bar Bebidas Decoración|9.990
+2024-09-10 22:20:43,689 - src.scrapers.exito - INFO - Product not added: COSTENITA|Hermosas Sillas Hamacas Color Costeña Artesanal|150.000
+2024-09-10 22:20:43,689 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:20:57,263 - src.scrapers.exito - INFO - Product not added: PILSEN|Cerveza sixpack lata PILSEN 1980 ml|18.450
+2024-09-10 22:20:57,264 - src.scrapers.exito - INFO - Product not added: PILSEN|Cerveza PILSEN Lata (330  ml)|3.150
+2024-09-10 22:20:57,264 - src.scrapers.exito - INFO - Product not added: PILSEN|Destapador Botella Cerveza Pilsen Con Iman Bar Bebidas Decoración|9.990
+2024-09-10 22:20:57,265 - src.scrapers.exito - INFO - Product not added: PILSEN|Balón Basketball Baloncesto Wilson Drive Nba #7|103.990
+2024-09-10 22:20:57,265 - src.scrapers.exito - INFO - Product not added: PILSEN|Tubo De Pelotas Bolas De Tenis Wilson Pelotas Championship Regular Duty|37.990
+2024-09-10 22:20:57,265 - src.scrapers.exito - INFO - Product not added: PILSEN|Pantaloneta Deportiva Short Wilson French 79514 Hombre Gym|71.990
+2024-09-10 22:20:57,265 - src.scrapers.exito - INFO - Product not added: PILSEN|Pantaloneta Deportiva Short Wilson French 79514 Hombre Gym|88.990
+2024-09-10 22:20:57,265 - src.scrapers.exito - INFO - Product not added: PILSEN|Pantaloneta Deportiva Short Wilson French 79514 Hombre Gym|88.990
+2024-09-10 22:20:57,266 - src.scrapers.exito - INFO - Product not added: PILSEN|Pantaloneta Deportiva Short Wilson French 79514 Hombre Gym|71.990
+2024-09-10 22:20:57,266 - src.scrapers.exito - INFO - Product not added: PILSEN|Balon De Basket Wilson Nba Authentic Indoor Outdoor Baloncesto #7|191.990
+2024-09-10 22:20:57,266 - src.scrapers.exito - INFO - Product not added: PILSEN|Balon Basket NBA Chicago Tyde WILSON WTB1500XBCHI|135.930
+2024-09-10 22:20:57,266 - src.scrapers.exito - INFO - Product not added: PILSEN|Pantaloneta Deportiva Short Wilson Micro 5511 Hombre Crossfit|71.990
+2024-09-10 22:20:57,266 - src.scrapers.exito - INFO - Product not added: PILSEN|Pantaloneta Deportiva Short Wilson Micro 5511 Hombre Crossfit|71.990
+2024-09-10 22:20:57,267 - src.scrapers.exito - INFO - Product not added: PILSEN|Pantaloneta Deportiva Short Wilson Micro 5511 Hombre Crossfit|71.990
+2024-09-10 22:20:57,267 - src.scrapers.exito - INFO - Product not added: PILSEN|Balon Basket NBA Lackers WILSON WTB1300XBLAL|135.930
+2024-09-10 22:20:57,267 - src.scrapers.exito - INFO - Product not added: PILSEN|Raqueta De Tenis Profesional Wilson Clash 98 V2.0 Grip 2|1.419.990
+2024-09-10 22:20:57,267 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:21:07,914 - src.scrapers.exito - INFO - Product not added: POKER|Cerveza Sixpack Lata POKER 1980 ml|18.000
+2024-09-10 22:21:07,914 - src.scrapers.exito - INFO - Product not added: POKER|Cerveza POKER Lata (473  ml)|3.500
+2024-09-10 22:21:07,914 - src.scrapers.exito - INFO - Product not added: POKER|Cerveza POKER Lata (330  ml)|3.000
+2024-09-10 22:21:07,915 - src.scrapers.exito - INFO - Product not added: POKER|Cerveza POKER x 6 (2838  ml)|21.000
+2024-09-10 22:21:07,915 - src.scrapers.exito - INFO - Product not added: POKER|Poker   RONDA|18.392
+2024-09-10 22:21:07,915 - src.scrapers.exito - INFO - Product not added: POKER|Poker Royal  MULTIVARIEDADES|39.990
+2024-09-10 22:21:07,915 - src.scrapers.exito - INFO - Product not added: POKER|Juego De Poker Cartas 100% Plastificadas Black Edition 2 Barajas|32.900
+2024-09-10 22:21:07,916 - src.scrapers.exito - INFO - Product not added: POKER|Cartas Baraja Poker|13.900
+2024-09-10 22:21:07,916 - src.scrapers.exito - INFO - Product not added: POKER|Baraja Naipes Juego Cartas Plastico Poker Tradicional|18.900
+2024-09-10 22:21:07,916 - src.scrapers.exito - INFO - Product not added: POKER|Baraja Trucada Blank Face Azul Bicycle Cara Blanca Poker Magia|59.990
+2024-09-10 22:21:07,916 - src.scrapers.exito - INFO - Product not added: POKER|Baraja Trucada Blank Face Rojo Bicycle Cara Blanca Poker Magia|59.990
+2024-09-10 22:21:07,916 - src.scrapers.exito - INFO - Product not added: POKER|Baraja Trucada Solo 2 Picas Roja Bicycle Naipes Poker Magia|59.990
+2024-09-10 22:21:07,916 - src.scrapers.exito - INFO - Product not added: POKER|Baraja Trucada Svengali Azul Bicycle Naipes Poker Magia Repetidas|79.990
+2024-09-10 22:21:07,917 - src.scrapers.exito - INFO - Product not added: POKER|Baraja Trucada Solo J Diamantes Rojos Bicycle Poker Magia|59.990
+2024-09-10 22:21:07,917 - src.scrapers.exito - INFO - Product not added: POKER|Baraja Trucada Mental Photography Rojo Bicycle Naipes Poker Magia|84.990
+2024-09-10 22:21:07,917 - src.scrapers.exito - INFO - Product not added: POKER|Baraja Trucada Doble Blank Bicycle Poker Magia Solo Blanco|59.990
+2024-09-10 22:21:07,917 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:21:18,914 - src.scrapers.exito - INFO - Product not added: REDDS|Cerveza REDDS Lata x6und 269ml (1614  ml)|18.450
+2024-09-10 22:21:18,915 - src.scrapers.exito - INFO - Product not added: REDDS|Cerveza REDDS Lata (269  ml)|3.080
+2024-09-10 22:21:18,915 - src.scrapers.exito - INFO - Product not added: REDDS|Disco De Vinilo Third Eye, Redd Kross|173.550
+2024-09-10 22:21:18,916 - src.scrapers.exito - INFO - Product not added: REDDS|Disco De Vinilo Hot Issue, Redd Kross|121.550
+2024-09-10 22:21:18,916 - src.scrapers.exito - INFO - Product not added: REDDS|Bebida Energizante RED BULL Lata (250  ml)|7.700
+2024-09-10 22:21:18,916 - src.scrapers.exito - INFO - Product not added: REDDS|Bebida Energizante RED BULL Lata (355  ml)|9.900
+2024-09-10 22:21:18,916 - src.scrapers.exito - INFO - Product not added: REDDS|Bebida Energizante RED BULL Lata x4und 250ml (1000  ml)|27.700
+2024-09-10 22:21:18,917 - src.scrapers.exito - INFO - Product not added: REDDS|Bebida Energizante RED BULL Sin Azúcar Lata x4und 250ml (1000  ml)|26.800
+2024-09-10 22:21:18,917 - src.scrapers.exito - INFO - Product not added: REDDS|Vino Tinto APOTHIC RED Cabernet Sauvignon (750  ml)|71.900
+2024-09-10 22:21:18,917 - src.scrapers.exito - INFO - Product not added: REDDS|Bebida Energizante RED BULL Coco Edition Lata (250  ml)|7.700
+2024-09-10 22:21:18,917 - src.scrapers.exito - INFO - Product not added: REDDS|Bebida Energizante RED BULL Sandía Lata x4und 250ml (1000  ml)|27.700
+2024-09-10 22:21:18,918 - src.scrapers.exito - INFO - Product not added: REDDS|Bebida Energizante RED BULL Sin Azúcar Lata (250  ml)|7.550
+2024-09-10 22:21:18,918 - src.scrapers.exito - INFO - Product not added: REDDS|Bebida Energizante RED BULL Dragón Lata x4und 250ml (1000 ml)|27.700
+2024-09-10 22:21:18,918 - src.scrapers.exito - INFO - Product not added: REDDS|Bebida Energizante RED BULL Durazno Fresa Lata (250 ml)|6.930
+2024-09-10 22:21:18,918 - src.scrapers.exito - INFO - Product not added: REDDS|Bebida Energizante RED BULL Sandía Lata (250  ml)|6.930
+2024-09-10 22:21:18,918 - src.scrapers.exito - INFO - Product not added: REDDS|Piedra Pomez Natural RED LAC 1  und|2.050
+2024-09-10 22:21:18,918 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:21:28,192 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Cerveza X 6 LATA DORADA CLUB COLOMBIA 1980 ml|19.100
+2024-09-10 22:21:28,192 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Cerveza X 6 LATA ROJA CLUB COLOMBIA 1980 ml|15.500
+2024-09-10 22:21:28,193 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Cerveza CLUB COLOMBIA Negra Lata x6und 330ml (1980  ml)|21.000
+2024-09-10 22:21:28,193 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Cerveza CLUB COLOMBIA Dorada Botella x6und 330 ml (1980  ml)|18.800
+2024-09-10 22:21:28,193 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Cerveza CLUB COLOMBIA Dorada Lata (330  ml)|3.190
+2024-09-10 22:21:28,193 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Cerveza CLUB COLOMBIA Latón Cerveza (2838  ml)|24.000
+2024-09-10 22:21:28,194 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Cerveza CLUB COLOMBIA Negra Lata (330  ml)|3.500
+2024-09-10 22:21:28,194 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Cerveza CLUB COLOMBIA Latón Cerveza (473  ml)|4.000
+2024-09-10 22:21:28,194 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Cerveza CLUB COLOMBIA  (1980  ml)|18.800
+2024-09-10 22:21:28,194 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Cerveza CLUB COLOMBIA Roja Lata (330  ml)|3.420
+2024-09-10 22:21:28,194 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Cerveza CLUB COLOMBIA Dorada Botella (330  ml)|3.210
+2024-09-10 22:21:28,195 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Destapador Botella Cerveza Club Colombia Con Iman Bar Bebidas Decoración|9.990
+2024-09-10 22:21:28,195 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Pantoprazol Sandoz Tab Cub Ent 40 Mg Caja 28|66.300
+2024-09-10 22:21:28,195 - src.scrapers.exito - INFO - Product not added: CLUB COLOMBIA|Colypan Trimebutina 200Mg Tab Cub Oral Caj 30 Tab 1 U|143.000
+2024-09-10 22:21:28,195 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:21:38,852 - src.scrapers.exito - INFO - Product not added: BUDWEISER|Cerveza LATA 6 UND BUDWEISER 1614 ml|16.900
+2024-09-10 22:21:38,853 - src.scrapers.exito - INFO - Product not added: BUDWEISER|Cerveza BUDWEISER Lata x24 und 269ml (6456  ml)|64.200
+2024-09-10 22:21:38,853 - src.scrapers.exito - INFO - Product not added: BUDWEISER|Cerveza BUDWEISER Lata (269  ml)|2.820
+2024-09-10 22:21:38,854 - src.scrapers.exito - INFO - Product not added: BUDWEISER|Destapador Botella Cerveza Budweisser Con Iman Bar Bebidas Decoración|9.990
+2024-09-10 22:21:38,854 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:21:46,518 - src.scrapers.exito - INFO - Product not added: CORONA|Cerveza SIXPACK CORONITA CORONA 1260 ml|13.360
+2024-09-10 22:21:46,519 - src.scrapers.exito - INFO - Product not added: CORONA|Chocolate CORONA Con azúcar x16 pastillas (500  gr)|15.500
+2024-09-10 22:21:46,519 - src.scrapers.exito - INFO - Product not added: CORONA|Cerveza CORONA Botella x6und 330ml (1980  ml)|18.880
+2024-09-10 22:21:46,519 - src.scrapers.exito - INFO - Product not added: CORONA|Chocolate CORONA Vainilla pastillas (500  gr)|15.500
+2024-09-10 22:21:46,519 - src.scrapers.exito - INFO - Product not added: CORONA|Chocolate Endulzado Con Stevia CORONA 166.4 gr|13.350
+2024-09-10 22:21:46,520 - src.scrapers.exito - INFO - Product not added: CORONA|Cocoa CORONA Baja en grasa (230  gr)|16.000
+2024-09-10 22:21:46,520 - src.scrapers.exito - INFO - Product not added: CORONA|Corona CORONA Instantáneo (500  gr)|17.450
+2024-09-10 22:21:46,520 - src.scrapers.exito - INFO - Product not added: CORONA|Cerveza CORONA Lata x6und 269ml (1614  ml)|15.920
+2024-09-10 22:21:46,520 - src.scrapers.exito - INFO - Product not added: CORONA|Chocolate CORONA Con azúcar pastillas (250  gr)|8.730
+2024-09-10 22:21:46,520 - src.scrapers.exito - INFO - Product not added: CORONA|Cocoa CORONA Baja en grasa (100  gr)|8.900
+2024-09-10 22:21:46,520 - src.scrapers.exito - INFO - Product not added: CORONA|Chocolate De Mesa CORONA DELICATTO (142  gr)|10.000
+2024-09-10 22:21:46,521 - src.scrapers.exito - INFO - Product not added: CORONA|Chocolate CORONA Clavos Y Canela (500  gr)|14.650
+2024-09-10 22:21:46,521 - src.scrapers.exito - INFO - Product not added: CORONA|VAJILLA 416 ALICE CORONA VL127F0401|96.990
+2024-09-10 22:21:46,521 - src.scrapers.exito - INFO - Product not added: CORONA|VAJILLA CARIBE BLANCO 4/16 CORONA VL11000403|104.990
+2024-09-10 22:21:46,521 - src.scrapers.exito - INFO - Product not added: CORONA|Chocolate CORONA Con azúcar (250  gr)|8.550
+2024-09-10 22:21:46,521 - src.scrapers.exito - INFO - Product not added: CORONA|Vajilla 16 piezas Laos CORONA VL107H040116|145.990
+2024-09-10 22:21:46,521 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:21:57,711 - src.scrapers.exito - INFO - Product not added: CORONITA|Cerveza SIXPACK CORONITA CORONA 1260 ml|13.360
+2024-09-10 22:21:57,712 - src.scrapers.exito - INFO - Product not added: CORONITA|Velita Coronitas Met Doradas X SEMPERTEX 30003721|9.990
+2024-09-10 22:21:57,712 - src.scrapers.exito - INFO - Product not added: CORONITA|Juego 2 Grageas Sprinkles Coronitas Doradas X 56G|39.900
+2024-09-10 22:21:57,712 - src.scrapers.exito - INFO - Product not added: CORONITA|Molde De Silicona Coronitas X3 Cavidades|29.900
+2024-09-10 22:21:57,712 - src.scrapers.exito - INFO - Product not added: CORONITA|Chocolate CORONA Con azúcar x16 pastillas (500  gr)|15.500
+2024-09-10 22:21:57,712 - src.scrapers.exito - INFO - Product not added: CORONITA|Cerveza CORONA Botella x6und 330ml (1980  ml)|18.880
+2024-09-10 22:21:57,712 - src.scrapers.exito - INFO - Product not added: CORONITA|Chocolate CORONA Vainilla pastillas (500  gr)|15.500
+2024-09-10 22:21:57,713 - src.scrapers.exito - INFO - Product not added: CORONITA|Chocolate Endulzado Con Stevia CORONA 166.4 gr|13.350
+2024-09-10 22:21:57,713 - src.scrapers.exito - INFO - Product not added: CORONITA|Cocoa CORONA Baja en grasa (230  gr)|16.000
+2024-09-10 22:21:57,713 - src.scrapers.exito - INFO - Product not added: CORONITA|Corona CORONA Instantáneo (500  gr)|17.450
+2024-09-10 22:21:57,713 - src.scrapers.exito - INFO - Product not added: CORONITA|Cerveza CORONA Lata x6und 269ml (1614  ml)|15.920
+2024-09-10 22:21:57,713 - src.scrapers.exito - INFO - Product not added: CORONITA|Chocolate CORONA Con azúcar pastillas (250  gr)|8.730
+2024-09-10 22:21:57,713 - src.scrapers.exito - INFO - Product not added: CORONITA|Colonia Rosada Bebés ARRURRU 800 ml|69.500
+2024-09-10 22:21:57,714 - src.scrapers.exito - INFO - Product not added: CORONITA|Cocoa CORONA Baja en grasa (100  gr)|8.900
+2024-09-10 22:21:57,714 - src.scrapers.exito - INFO - Product not added: CORONITA|Chocolate De Mesa CORONA DELICATTO (142  gr)|10.000
+2024-09-10 22:21:57,714 - src.scrapers.exito - INFO - Product not added: CORONITA|Huevos LA CODORNITA  (24  und)|5.850
+2024-09-10 22:21:57,714 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:22:29,344 - src.scrapers.exito - INFO - Product not added: STELLA|Cerveza STELLA ARTOIS Botella x6und 300ml (1800  ml)|19.560
+2024-09-10 22:22:29,344 - src.scrapers.exito - INFO - Product not added: STELLA|Cerveza STELLA ARTOIS Local Lata x6und 269ml (1614  ml)|16.720
+2024-09-10 22:22:29,344 - src.scrapers.exito - INFO - Product not added: STELLA|Cerveza Belgica Sixpack STELLA ARTOIS 1980 ml|23.760
+2024-09-10 22:22:29,344 - src.scrapers.exito - INFO - Product not added: STELLA|Cerveza STELLA ARTOIS Local Lata (269  ml)|2.792
+2024-09-10 22:22:29,344 - src.scrapers.exito - INFO - Product not added: STELLA|Cerveza STELLA ARTOIS Botella (300  ml)|3.256
+2024-09-10 22:22:29,345 - src.scrapers.exito - INFO - Product not added: STELLA|Cerveza en botella STELLA ARTOIS  (330  ml)|3.960
+2024-09-10 22:22:29,345 - src.scrapers.exito - INFO - Product not added: STELLA|Riñonera / Manoslibres Miel|59.000
+2024-09-10 22:22:29,345 - src.scrapers.exito - INFO - Product not added: STELLA|Manos Libres Celular Color Miel|56.000
+2024-09-10 22:22:29,345 - src.scrapers.exito - INFO - Product not added: STELLA|Cosmetiquera / Organizador|29.000
+2024-09-10 22:22:29,346 - src.scrapers.exito - INFO - Product not added: STELLA|Coche Minu V2 Stella UPPABABY VIUP9563|2.449.930
+2024-09-10 22:22:29,346 - src.scrapers.exito - INFO - Product not added: STELLA|Guantes ALPINESTAR Stella Smx1 V2 Air|335.900
+2024-09-10 22:22:29,346 - src.scrapers.exito - INFO - Product not added: STELLA|Jersey ALPINESTAR Stella Fluid Chaser|165.900
+2024-09-10 22:22:29,346 - src.scrapers.exito - INFO - Product not added: STELLA|Tenis Casuales Blanco-Fucsia Bubblegummers Stella Niña|63.920
+2024-09-10 22:22:29,347 - src.scrapers.exito - INFO - Product not added: STELLA|Top Magic Negro  Stella|30.000
+2024-09-10 22:22:29,347 - src.scrapers.exito - INFO - Product not added: STELLA|Top Magic Marfil Stella|49.900
+2024-09-10 22:22:29,347 - src.scrapers.exito - INFO - Product not added: STELLA|Spadrilla Plataforma Beige para mujer Stella|179.900
+2024-09-10 22:22:29,347 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:22:51,261 - src.scrapers.exito - ERROR - Error finding element MICHELOB: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00DED933+25811]
+	(No symbol) [0x00D7E314]
+	(No symbol) [0x00C72523]
+	(No symbol) [0x00CB7483]
+	(No symbol) [0x00CB765B]
+	(No symbol) [0x00CF6BA2]
+	(No symbol) [0x00CDAD74]
+	(No symbol) [0x00CF46F0]
+	(No symbol) [0x00CDAAC6]
+	(No symbol) [0x00CABEFD]
+	(No symbol) [0x00CAC8FD]
+	GetHandleVerifier [0x010BF143+2981091]
+	GetHandleVerifier [0x01112FF9+3324825]
+	GetHandleVerifier [0x00E7B32F+605903]
+	GetHandleVerifier [0x00E82CBC+637020]
+	(No symbol) [0x00D86F4D]
+	(No symbol) [0x00D83DD8]
+	(No symbol) [0x00D83F75]
+	(No symbol) [0x00D76406]
+	BaseThreadInitThunk [0x76BE7BA9+25]
+	RtlInitializeExceptionChain [0x7798C10B+107]
+	RtlClearBits [0x7798C08F+191]
+
+2024-09-10 22:23:02,632 - src.scrapers.exito - INFO - Product not added: MODELO|Cerveza MODELO Especial Botella x6und 355ml (2130  ml)|40.350
+2024-09-10 22:23:02,632 - src.scrapers.exito - INFO - Product not added: MODELO|Cerveza MODELO Especial Botella (355  ml)|6.720
+2024-09-10 22:23:02,632 - src.scrapers.exito - INFO - Product not added: MODELO|Modelo Sm800 Calentador Electrico Paso 5 15 Litros Bifasico/Trifasico|1.279.900
+2024-09-10 22:23:02,633 - src.scrapers.exito - INFO - Product not added: MODELO|Modelo Sm400 Calentador Electrico Paso 5 9 Litros Bifasico|997.900
+2024-09-10 22:23:02,633 - src.scrapers.exito - INFO - Product not added: MODELO|modelo CASIO. MTP 1374D 2A Multifunción. 3 contadores. wr 50|239.900
+2024-09-10 22:23:02,633 - src.scrapers.exito - INFO - Product not added: MODELO|Modelo Anatómico El Estomago|102.900
+2024-09-10 22:23:02,633 - src.scrapers.exito - INFO - Product not added: MODELO|Modelo Anatomico La Rana|143.300
+2024-09-10 22:23:02,633 - src.scrapers.exito - INFO - Product not added: MODELO|Modelo Anatomico La Cabeza|143.300
+2024-09-10 22:23:02,633 - src.scrapers.exito - INFO - Product not added: MODELO|Modelo Anatómico Del Cerdo|143.300
+2024-09-10 22:23:02,634 - src.scrapers.exito - INFO - Product not added: MODELO|Modelo Anatómico Cuerpo De La Mujer|413.300
+2024-09-10 22:23:02,634 - src.scrapers.exito - INFO - Product not added: MODELO|Xiaomi Modelo Mi Portable Photo Printer|285.900
+2024-09-10 22:23:02,634 - src.scrapers.exito - INFO - Product not added: MODELO|Consola Switch Oled Modelo Splatoon 3 Edicion Especial|1.289.900
+2024-09-10 22:23:02,634 - src.scrapers.exito - INFO - Product not added: MODELO|Audifonos Inalambricos Sport Bluetooth Conduccion Osea Modelo 1|30.300
+2024-09-10 22:23:02,634 - src.scrapers.exito - INFO - Product not added: MODELO|Afeitadora Electrica Shaver Dos Rodillos Modelo 2|38.100
+2024-09-10 22:23:02,634 - src.scrapers.exito - INFO - Product not added: MODELO|Consola Nintendo Switch Modelo Oled Blanca|1.169.900
+2024-09-10 22:23:02,635 - src.scrapers.exito - INFO - Product not added: MODELO|Impresora Térmica Pos Para Facturación De 80 Mm Xprinter Modelo Xp A160h|285.000
+2024-09-10 22:23:02,635 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:23:16,546 - src.scrapers.exito - INFO - Product not added: BECKS|Radio Vintage Fm / Am Parlante Bluetooth Mp3 Recargable|194.545
+2024-09-10 22:23:16,546 - src.scrapers.exito - INFO - Product not added: BECKS|Radio Reproductor Beck Play R 062Usb Am/Fm|62.900
+2024-09-10 22:23:16,546 - src.scrapers.exito - INFO - Product not added: BECKS|Hub Multipuertos Usb 2.0 3.0 Beck Play|27.900
+2024-09-10 22:23:16,547 - src.scrapers.exito - INFO - Product not added: BECKS|Disco Vinilo Guero Beck|220.540
+2024-09-10 22:23:16,547 - src.scrapers.exito - INFO - Product not added: BECKS|Disco Vinilo Odelay, Beck|207.540
+2024-09-10 22:23:16,548 - src.scrapers.exito - INFO - Product not added: BECKS|Disco De Vinilo Morning Phase, Beck|229.540
+2024-09-10 22:23:16,548 - src.scrapers.exito - INFO - Product not added: BECKS|Beek Steak  Fresco|32.500
+2024-09-10 22:23:16,548 - src.scrapers.exito - INFO - Product not added: BECKS|Masajeador De Cuello Y Espalda Alivio De Dolor Infrarojo|35.898
+2024-09-10 22:23:16,548 - src.scrapers.exito - INFO - Product not added: BECKS|Procesador De Alimentos Picatodo Eléctrico Rebanador|74.900
+2024-09-10 22:23:16,549 - src.scrapers.exito - INFO - Product not added: BECKS|BACK PACK/MORRAL KINDER DISNEY FROZEN  146740|79.900
+2024-09-10 22:23:16,549 - src.scrapers.exito - INFO - Product not added: BECKS|Disco Vinilo This Is Christmas Tasha Layton Limited Edition|160.550
+2024-09-10 22:23:16,549 - src.scrapers.exito - INFO - Product not added: BECKS|Punto Ecológico De 20L Con 2 Puestos, Pedal, Caneca,Papelera|177.000
+2024-09-10 22:23:16,549 - src.scrapers.exito - INFO - Product not added: BECKS|Dispositivo De Estiramiento De Espalda Y Soporte Lumbar|232.900
+2024-09-10 22:23:16,550 - src.scrapers.exito - INFO - Product not added: BECKS|Tech Deck Patinetas BOING TOYS|19.990
+2024-09-10 22:23:16,550 - src.scrapers.exito - INFO - Product not added: BECKS|Brasier Doble Realce Con Escote Profundo En Espalda Sexy Back 091040|99.990
+2024-09-10 22:23:16,550 - src.scrapers.exito - INFO - Product not added: BECKS|Brasier Doble Realce Con Escote Profundo En Espalda Sexy Back 091040|109.990
+2024-09-10 22:23:16,550 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:23:27,346 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal BOGOTA BEER COMPANY Cajicá Miel  Lata x4und 269ml (1076  ml)|14.000
+2024-09-10 22:23:27,346 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal BOGOTA BEER COMPANY Cajicá Miel Botella x4und 330ml (1320  ml)|18.400
+2024-09-10 22:23:27,346 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal BOGOTA BEER COMPANY Monserrate Roja Botella x4und 330ml (1320  ml)|20.000
+2024-09-10 22:23:27,347 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal BOGOTA BEER COMPANY Rosé Lata x4und 330ml (1076  ml)|16.000
+2024-09-10 22:23:27,347 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal BOGOTA BEER COMPANY Rosé Botella x4und 330ml (1320  ml)|20.000
+2024-09-10 22:23:27,347 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal BOGOTA BEER COMPANY Lager Botella x6und 330ml (1980  ml)|24.000
+2024-09-10 22:23:27,347 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal BOGOTA BEER COMPANY Rosé (269  ml)|4.000
+2024-09-10 22:23:27,348 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal BOGOTA BEER COMPANY Cajicá Miel Botella (330  ml)|4.600
+2024-09-10 22:23:27,348 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal BOGOTA BEER COMPANY Rosé Botella (330  ml)|5.000
+2024-09-10 22:23:27,348 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal BOGOTA BEER COMPANY Cajicá Miel Lata (269  ml)|3.500
+2024-09-10 22:23:27,348 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal BOGOTA BEER COMPANY Monserrate Roja Botella (330  ml)|4.820
+2024-09-10 22:23:27,348 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal 3CORDILLERAS Rosé Botella x6und 300ml (1800  ml)|20.400
+2024-09-10 22:23:27,348 - src.scrapers.exito - INFO - Product not added: BBC|Control Para Ps4 Dualshock 4 2Da Generación Alternativo Rose Gold|67.600
+2024-09-10 22:23:27,349 - src.scrapers.exito - INFO - Product not added: BBC|Cerveza Artesanal 3CORDILLERAS Rosé Lata x6und 269ml (1614  ml)|20.600
+2024-09-10 22:23:27,349 - src.scrapers.exito - INFO - Product not added: BBC|Cubiertos Metallic Rose Gold  338364|18.495
+2024-09-10 22:23:27,349 - src.scrapers.exito - INFO - Product not added: BBC|TOMATE CHERRY ROSE  500  gr|8.820
+2024-09-10 22:23:27,349 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:23:40,987 - src.scrapers.exito - INFO - Product not added: ANDINA|Cerveza ANDINA Dorada Lata (330  ml)|2.240
+2024-09-10 22:23:40,989 - src.scrapers.exito - INFO - Product not added: ANDINA|Cerveza ANDINA Dorada Lata x6und 269ml (1614  ml)|13.200
+2024-09-10 22:23:40,989 - src.scrapers.exito - INFO - Product not added: ANDINA|Cerveza ANDINA Dorada Lata x6und 330ml (1980  ml)|17.500
+2024-09-10 22:23:40,989 - src.scrapers.exito - INFO - Product not added: ANDINA|Cerveza ANDINA  (1860  ml)|15.000
+2024-09-10 22:23:40,989 - src.scrapers.exito - ERROR - Error finding element ANDINA: 'str' object has no attribute 'append'
+2024-09-10 22:23:51,665 - src.scrapers.exito - INFO - Product not added: TECATE|Cerveza TECATE Lata (330  ml)|64.900
+2024-09-10 22:23:51,666 - src.scrapers.exito - INFO - Product not added: TECATE|TOMATE CHONTO FRESCAMPO 1000  gr|4.260
+2024-09-10 22:23:51,666 - src.scrapers.exito - INFO - Product not added: TECATE|Tomate Chonto  1 und|441
+2024-09-10 22:23:51,666 - src.scrapers.exito - INFO - Product not added: TECATE|Salsa De Tomate FRUCO Doy Pack (400  gr)|8.820
+2024-09-10 22:23:51,666 - src.scrapers.exito - INFO - Product not added: TECATE|Pasabocas FRITO LAY Mega Lonchera Surtida x22 (586  gr)|24.200
+2024-09-10 22:23:51,667 - src.scrapers.exito - INFO - Product not added: TECATE|TOMATE ARBOL FRESCAMPO 1000  gr|5.010
+2024-09-10 22:23:51,667 - src.scrapers.exito - INFO - Product not added: TECATE|TOMATE CHERRY  500  gr|7.714
+2024-09-10 22:23:51,667 - src.scrapers.exito - INFO - Product not added: TECATE|Salsa EKONO  (500  gr)|5.690
+2024-09-10 22:23:51,667 - src.scrapers.exito - INFO - Product not added: TECATE|Salsa De Tomate FRUCO Frasco (1000  gr)|23.100
+2024-09-10 22:23:51,668 - src.scrapers.exito - INFO - Product not added: TECATE|Salsa MAGGI bolognesa (50  gr)|4.380
+2024-09-10 22:23:51,668 - src.scrapers.exito - INFO - Product not added: TECATE|Salsa LA CONSTANCIA Tomate (1000  gr)|15.150
+2024-09-10 22:23:51,668 - src.scrapers.exito - INFO - Product not added: TECATE|Salsa De Tomate FRUCO Doy Pack (600  gr)|10.440
+2024-09-10 22:23:51,668 - src.scrapers.exito - INFO - Product not added: TECATE|Salsa FRESCAMPO  (155  ml)|1.550
+2024-09-10 22:23:51,668 - src.scrapers.exito - INFO - Product not added: TECATE|Tomate Larga Vida  1 und|1.260
+2024-09-10 22:23:51,669 - src.scrapers.exito - INFO - Product not added: TECATE|TOMATE UVALINA  500  gr|9.240
+2024-09-10 22:23:51,669 - src.scrapers.exito - INFO - Product not added: TECATE|Pasabocas FRITO LAY Lonchera Surtida x12und (271  gr)|12.100
+2024-09-10 22:23:51,669 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:24:05,340 - src.scrapers.exito - INFO - Product not added: MILLER|Cerveza MILLER  (1860  ml)|18.700
+2024-09-10 22:24:05,340 - src.scrapers.exito - INFO - Product not added: MILLER|Cerveza MILLER  (310  ml)|3.110
+2024-09-10 22:24:05,340 - src.scrapers.exito - INFO - Product not added: MILLER|Protector De Codos Para Diferentes Ejercicios Fisicos|197.900
+2024-09-10 22:24:05,341 - src.scrapers.exito - INFO - Product not added: MILLER|Protector De Compresión Para Cuidado De Los Codos|197.900
+2024-09-10 22:24:05,341 - src.scrapers.exito - INFO - Product not added: MILLER|Bandolera negra para mujer miller|189.900
+2024-09-10 22:24:05,341 - src.scrapers.exito - INFO - Product not added: MILLER|Disco Vinilo Swimming, Mac Miller|229.540
+2024-09-10 22:24:05,341 - src.scrapers.exito - INFO - Product not added: MILLER|Disco Vinilo Mac Miller, Circles|237.550
+2024-09-10 22:24:05,343 - src.scrapers.exito - INFO - Product not added: MILLER|Disco Vinilo Fly Like An Eagle, Steve Miller|186.550
+2024-09-10 22:24:05,343 - src.scrapers.exito - INFO - Product not added: MILLER|Disco De Vinilo Surviving The Suburbs, Tor Miller|168.550
+2024-09-10 22:24:05,343 - src.scrapers.exito - INFO - Product not added: MILLER|Disco De Vinilo American English, Tor Miller|194.550
+2024-09-10 22:24:05,343 - src.scrapers.exito - INFO - Product not added: MILLER|Sofá Miller 3 Puestos Arena|2.385.900
+2024-09-10 22:24:05,343 - src.scrapers.exito - INFO - Product not added: MILLER|Sofá Miller 3 Puestos Grafito|2.385.900
+2024-09-10 22:24:05,343 - src.scrapers.exito - INFO - Product not added: MILLER|Jamón de cerdo KOLLER 100% libre de gluten|18.532
+2024-09-10 22:24:05,344 - src.scrapers.exito - INFO - Product not added: MILLER|Jamón de cerdo KOLLER Tajado (210  gr)|12.250
+2024-09-10 22:24:05,344 - src.scrapers.exito - INFO - Product not added: MILLER|Salchicha KOLLER Coctel|16.779
+2024-09-10 22:24:05,344 - src.scrapers.exito - INFO - Product not added: MILLER|Jamón de cerdo KOLLER Porcionado en tienda|12.600
+2024-09-10 22:24:05,344 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:24:22,025 - src.scrapers.exito - INFO - Product not added: PRIMA|Coche Prima Black BEBESIT SL452BK|497.286
+2024-09-10 22:24:22,025 - src.scrapers.exito - INFO - Product not added: PRIMA|Coche Travel System Prima Rosa BEBESIT SL461AP|696.228
+2024-09-10 22:24:22,026 - src.scrapers.exito - INFO - Product not added: PRIMA|Travel System Prima Black BEBESIT SL461ABK|696.228
+2024-09-10 22:24:22,026 - src.scrapers.exito - INFO - Product not added: PRIMA|Colores pers niña x12 prima PRIMAVERA|15.990
+2024-09-10 22:24:22,026 - src.scrapers.exito - INFO - Product not added: PRIMA|Tijeras Personajes Niño Prima PRIMAVERA|4.990
+2024-09-10 22:24:22,026 - src.scrapers.exito - INFO - Product not added: PRIMA|Tijeras Personajes Niña Prima PRIMAVERA|4.990
+2024-09-10 22:24:22,026 - src.scrapers.exito - INFO - Product not added: PRIMA|Colores pers niño x12 prima PRIMAVERA|15.990
+2024-09-10 22:24:22,027 - src.scrapers.exito - INFO - Product not added: PRIMA|Carpeta Plast. Liga&nbsp;Niño Prima PRIMAVERA|8.990
+2024-09-10 22:24:22,027 - src.scrapers.exito - INFO - Product not added: PRIMA|Tijeras Para Cortar Tela Cuero Y Materias Primas Color Plata|226.900
+2024-09-10 22:24:22,027 - src.scrapers.exito - INFO - Product not added: PRIMA|Hamburguesa De Res Del Primo Foods con Cebolla (1  und)|52.500
+2024-09-10 22:24:22,027 - src.scrapers.exito - INFO - Product not added: PRIMA|Costilla de Cerdo Del Primo Foods de Cerdo BBQ Whisky (900  gr)|82.500
+2024-09-10 22:24:22,027 - src.scrapers.exito - INFO - Product not added: PRIMA|Hamburguesa De Res Del Primo Foods con Queso Mozarella (520  gr)|52.500
+2024-09-10 22:24:22,027 - src.scrapers.exito - INFO - Product not added: PRIMA|Pulled Pork BBQ Del Primo Foods Fresco (1  und)|50.500
+2024-09-10 22:24:22,028 - src.scrapers.exito - INFO - Product not added: PRIMA|Hamburguesa De Res Del Primo Foods con Queso Cheddar (1  und)|49.000
+2024-09-10 22:24:22,028 - src.scrapers.exito - INFO - Product not added: PRIMA|Costilla Cerdo Bourbon Whisky  Del Primo Foods 600  gr|70.500
+2024-09-10 22:24:22,028 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:24:29,627 - src.scrapers.exito - INFO - Product not added: CENTRAL|Cerveza LA CENTRAL Light Lata x8und 330ml (1980  ml)|11.500
+2024-09-10 22:24:29,627 - src.scrapers.exito - INFO - Product not added: CENTRAL|Control Inalámbrico Recargable Pro Controller Nintendo Switch Y Pc Negro|119.900
+2024-09-10 22:24:29,627 - src.scrapers.exito - INFO - Product not added: CENTRAL|Protector Pantalla Vidrio Templado Nintendo Switch Oled 9H Glass|17.394
+2024-09-10 22:24:29,628 - src.scrapers.exito - INFO - Product not added: CENTRAL|Control Inalambrico Recargable Para Android Ios Pc, Tv, Tv Box, Etc. Celulares Hasta De 8 Cm De Ancho|37.800
+2024-09-10 22:24:29,628 - src.scrapers.exito - INFO - Product not added: CENTRAL|Control Inalambrico Recargable Dualshock Ps3 Azul|32.899
+2024-09-10 22:24:29,628 - src.scrapers.exito - INFO - Product not added: CENTRAL|Cargador De Pared Ac Adaptador Nintendo Switch Dock Negro|48.900
+2024-09-10 22:24:29,628 - src.scrapers.exito - INFO - Product not added: CENTRAL|Central Eléctrica Portátil Anker 521 Generador Solar De 256 Wh (Panel Solar Opcional) Con Batería Lifepo4 Central|1.320.000
+2024-09-10 22:24:29,628 - src.scrapers.exito - INFO - Product not added: CENTRAL|Control Inalámbrico Recargable Pro Controller Nintendo Switch Y Pc Smash|119.600
+2024-09-10 22:24:29,628 - src.scrapers.exito - INFO - Product not added: CENTRAL|Convertidor Adaptador Micro Usb A Tipo C Otg|16.953
+2024-09-10 22:24:29,629 - src.scrapers.exito - INFO - Product not added: CENTRAL|Cerveza LA CENTRAL Lata (330  ml)|1.920
+2024-09-10 22:24:29,629 - src.scrapers.exito - INFO - Product not added: CENTRAL|Cable Lightning 8 Pines Iphone Ipod E Ipad Certificado Tipo C Generico|14.691
+2024-09-10 22:24:29,629 - src.scrapers.exito - INFO - Product not added: CENTRAL|Control Inalámbrico Nintendo Switch Monster Hunter|118.600
+2024-09-10 22:24:29,629 - src.scrapers.exito - INFO - Product not added: CENTRAL|Control Alambrico Play2 Dual Shock 2 Ps2 Negro|18.500
+2024-09-10 22:24:29,629 - src.scrapers.exito - INFO - Product not added: CENTRAL|Cable De Datos Y Carga Control Ps4 Ps4 Negro|14.024
+2024-09-10 22:24:29,630 - src.scrapers.exito - INFO - Product not added: CENTRAL|Cable De Datos Y Carga 1.8 Mts Control Ps3 Play3|9.900
+2024-09-10 22:24:29,630 - src.scrapers.exito - INFO - Product not added: CENTRAL|Tarjeta De Memoria Memory Card 8Mb Ps2 Ps2|20.000
+2024-09-10 22:24:29,630 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:24:36,875 - src.scrapers.exito - INFO - Product not added: HEINEKEN|Cerveza HEINEKEN  (1860  ml)|18.000
+2024-09-10 22:24:36,876 - src.scrapers.exito - INFO - Product not added: HEINEKEN|Cerveza HEINEKEN Botella x6un 330ml (1980  ml)|23.190
+2024-09-10 22:24:36,876 - src.scrapers.exito - INFO - Product not added: HEINEKEN|Cerveza HEINEKEN 0.0 Alcohol Botella x6und 250ml (1500  ml)|19.800
+2024-09-10 22:24:36,876 - src.scrapers.exito - INFO - Product not added: HEINEKEN|Cerveza HEINEKEN  (2838  ml)|24.000
+2024-09-10 22:24:36,876 - src.scrapers.exito - INFO - Product not added: HEINEKEN|Cerveza HEINEKEN  (473  ml)|4.000
+2024-09-10 22:24:36,876 - src.scrapers.exito - INFO - Product not added: HEINEKEN|Cerveza HEINEKEN Botella x6und 250ml (1500  ml)|18.900
+2024-09-10 22:24:36,877 - src.scrapers.exito - INFO - Product not added: HEINEKEN|Cerveza HEINEKEN 0.0 Alcohol Lata (250  ml)|2.690
+2024-09-10 22:24:36,877 - src.scrapers.exito - INFO - Product not added: HEINEKEN|Cerveza HEINEKEN  (310  ml)|3.120
+2024-09-10 22:24:36,877 - src.scrapers.exito - INFO - Product not added: HEINEKEN|Cerveza HEINEKEN Botella (330  ml)|3.870
+2024-09-10 22:24:36,877 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:24:44,777 - src.scrapers.exito - INFO - Product not added: SOL|Chocolate SOL Pasta (500  gr)|14.800
+2024-09-10 22:24:44,778 - src.scrapers.exito - INFO - Product not added: SOL|Chocolate SOL 50% menos azúcar (320  gr)|14.900
+2024-09-10 22:24:44,778 - src.scrapers.exito - INFO - Product not added: SOL|Vino Tinto SIETE SOLES Cabernet Sauvignon (750  ml)|25.000
+2024-09-10 22:24:44,778 - src.scrapers.exito - INFO - Product not added: SOL|Vino Tinto SIETE SOLES Merlot (750  ml)|22.900
+2024-09-10 22:24:44,778 - src.scrapers.exito - INFO - Product not added: SOL|Fosforo ecologico hogar madera EL SOL PACKX2|7.990
+2024-09-10 22:24:44,779 - src.scrapers.exito - INFO - Product not added: SOL|Chocolate SOL Tradicional (500  gr)|15.900
+2024-09-10 22:24:44,779 - src.scrapers.exito - INFO - Product not added: SOL|Fosforos hogar EL SOL SIN REF|3.910
+2024-09-10 22:24:44,779 - src.scrapers.exito - INFO - Product not added: SOL|Chocolate SOL 0% Azucar (125  gr)|11.000
+2024-09-10 22:24:44,779 - src.scrapers.exito - INFO - Product not added: SOL|Cerveza SOL Cerveza Botella Unidad (250  ml)|2.280
+2024-09-10 22:24:44,779 - src.scrapers.exito - INFO - Product not added: SOL|Vino SIETE SOLES  (750  ml)|25.000
+2024-09-10 22:24:44,780 - src.scrapers.exito - INFO - Product not added: SOL|Vino Tinto SIETE SOLES Carmenere (750  ml)|22.900
+2024-09-10 22:24:44,780 - src.scrapers.exito - INFO - Product not added: SOL|Cerveza SOL  (1860  ml)|18.700
+2024-09-10 22:24:44,780 - src.scrapers.exito - INFO - Product not added: SOL|Vino Rosado SIETE SOLES  (750  ml)|22.900
+2024-09-10 22:24:44,780 - src.scrapers.exito - INFO - Product not added: SOL|pastillas SOL COCOA MENOS AZUCAR (320  gr)|12.050
+2024-09-10 22:24:44,780 - src.scrapers.exito - INFO - Product not added: SOL|Cerveza SOL Botella x6und 330ml (1980  ml)|24.750
+2024-09-10 22:24:44,780 - src.scrapers.exito - INFO - Product not added: SOL|Cerveza SOL Lata (269  ml)|2.410
+2024-09-10 22:24:44,780 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:24:52,126 - src.scrapers.exito - INFO - Product not added: TRES CORDILLERAS|Rodillera Deportiva Con Soporte Rótula Gel Ortopédica Talla S|51.790
+2024-09-10 22:24:52,126 - src.scrapers.exito - INFO - Product not added: TRES CORDILLERAS|Rodillera Deportiva Con Soporte Rótula Gel Ortopédica Talla L|51.790
+2024-09-10 22:24:52,126 - src.scrapers.exito - INFO - Product not added: TRES CORDILLERAS|Rodillera Ortopédica Con Soporte De Rotula K6 Nivel 2 Talla S|73.890
+2024-09-10 22:24:52,127 - src.scrapers.exito - INFO - Product not added: TRES CORDILLERAS|Rodillera Deportiva Con Soporte Rótula Gel Ortopédica Talla Xl|51.790
+2024-09-10 22:24:52,127 - src.scrapers.exito - INFO - Product not added: TRES CORDILLERAS|Rodillera Deportiva Con Soporte Rótula Gel Ortopédica Talla M|51.790
+2024-09-10 22:24:52,127 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:25:00,050 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Cerveza 3CORDILLERAS Cerveza 3 Cordilleras (300  ml)|3.400
+2024-09-10 22:25:00,051 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Máquina De Afeitar Gillette MACH 3 Aloe Sensitive Repuestos (8  und)|69.000
+2024-09-10 22:25:00,051 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Gel De Afeitar Gillette MACH 3 Sensitive Piel Sensible (400  ml)|48.100
+2024-09-10 22:25:00,051 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Máquina De Afeitar Gillette MACH 3 Sensitive + 2 Repuestos (1  und)|29.950
+2024-09-10 22:25:00,051 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Máquina De Afeitar Gillette MACH 3 Sensitive Repuestos (6  und)|63.000
+2024-09-10 22:25:00,052 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Máquina De Afeitar Gillette MACH 3 Carbón Activado Repuestos (2  und)|29.900
+2024-09-10 22:25:00,052 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Máquina De Afeitar Gillette MACH 3 Carbón Activado (1  und)|30.500
+2024-09-10 22:25:00,052 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Máquina De Afeitar Gillette MACH 3 Sensitive Repuestos (1  und)|49.150
+2024-09-10 22:25:00,052 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Máquina De Afeitar Gillette MACH 3 Al Ras 3 Hojas Repuestos (4  und)|39.737
+2024-09-10 22:25:00,053 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Rasuradora Recargable MACH 3 Afeitar Carbono X4 Und  (4  und)|56.800
+2024-09-10 22:25:00,054 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Gel De Afeitar Gillette MACH 3 Barba Extra Comfort (72  ml)|12.950
+2024-09-10 22:25:00,054 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Máquina De Afeitar Gillette MACH 3 Sensitive AquaGrip + 2 Respuestos (1  und)|22.900
+2024-09-10 22:25:00,054 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Defensas Multivitamínicos BION 3  con Minerales y Probióticos (30  und)|51.700
+2024-09-10 22:25:00,054 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Máquina De Afeitar Gillette MACH 3 Barras De Gel Repuestos (2  und)|30.650
+2024-09-10 22:25:00,054 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Máquina De Afeitar Gillette MACH 3 Hojas Afiladas + 2 Repuestos (2  und)|28.500
+2024-09-10 22:25:00,055 - src.scrapers.exito - INFO - Product not added: 3 CORDILLERAS|Máquina De Afeitar Gillette MACH 3 Al Ras 3 Hojas Repuestos (6  und)|63.900
+2024-09-10 22:25:00,055 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 22:25:00,055 - src.scrapers.exito - INFO - Scraping Exito OTROS
+2024-09-10 22:25:07,610 - src.scrapers.exito - INFO - Product not added: PONY MALTA|Maleta Bolso Juguete Mascota Unicornio Pony + Accesorios|69.900
+2024-09-10 22:25:07,610 - src.scrapers.exito - INFO - Product not added: PONY MALTA|Maleta Kf Concept Beta Azul Kf13.087 20L|519.900
+2024-09-10 22:25:07,610 - src.scrapers.exito - INFO - Product not added: PONY MALTA|Set tenis de mesa Ping Pong con raquetas + Malla + pelotas|73.095
+2024-09-10 22:25:07,611 - src.scrapers.exito - INFO - Exito OTROS scraped
+2024-09-10 22:25:16,990 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Malta LEONA Botella x6und 400ml (2400  ml)|11.100
+2024-09-10 22:25:16,990 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Malta LEONA Botella (400 ml)|1.930
+2024-09-10 22:25:16,991 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta Lona  ARKITECT  AH9218|118.993
+2024-09-10 22:25:16,991 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta Lona  ARKITECT  AH9218|118.993
+2024-09-10 22:25:16,991 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta De Viaje Grande Lona Excel EXPLORA  EXCEL|257.900
+2024-09-10 22:25:16,991 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta De Viaje Grande Lona Excel EXPLORA  EXCEL|257.900
+2024-09-10 22:25:16,992 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta De Viaje Grande Lona Excel EXPLORA  EXCEL|257.900
+2024-09-10 22:25:16,992 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta De Viaje Grande Lona Excel EXPLORA  EXCEL|257.900
+2024-09-10 22:25:16,992 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta En Lona ARKITECT  16194|104.993
+2024-09-10 22:25:16,992 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta En Lona ARKITECT  16194|104.993
+2024-09-10 22:25:16,992 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta De Cabina Lona Excel EXPLORA  EXCEL|188.900
+2024-09-10 22:25:16,992 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta De Cabina Lona Excel EXPLORA  EXCEL|188.900
+2024-09-10 22:25:16,992 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta De Cabina Lona Excel EXPLORA  EXCEL|188.900
+2024-09-10 22:25:16,993 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta De Cabina Lona Excel EXPLORA  EXCEL|188.900
+2024-09-10 22:25:16,993 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta Lona De Cabina AMERICAN TOURISTER  132885|299.000
+2024-09-10 22:25:16,993 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|Maleta Lona De Cabina AMERICAN TOURISTER  132885|299.000
+2024-09-10 22:25:16,993 - src.scrapers.exito - INFO - Exito OTROS scraped
+2024-09-10 22:25:24,457 - src.scrapers.exito - ERROR - Error finding element COLA Y POLA: 'str' object has no attribute 'append'
+2024-09-10 22:25:31,761 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa Coca Cola ZERO x 2und 1.5L (3000  ml)|7.980
+2024-09-10 22:25:31,762 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa COCA COLA Original x6und 250ml (1500  ml)|9.520
+2024-09-10 22:25:31,762 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa COCA COLA Original (2500  ml)|6.919
+2024-09-10 22:25:31,762 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Refajo COLA Y POLA Lata x6und 330ml (1980  ml)|9.300
+2024-09-10 22:25:31,762 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa  COCA COLA Original x 3und 1.5L (4500  ml)|12.707
+2024-09-10 22:25:31,763 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa COCA COLA Original + Quatro x 2und 3L (6000  ml)|11.985
+2024-09-10 22:25:31,763 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa COCA COLA Original x2und 2.5L (5000  ml)|11.645
+2024-09-10 22:25:31,763 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa COCA COLA Original x 2und 3L (6000  ml)|13.800
+2024-09-10 22:25:31,763 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa COCA COLA Original x 2und 1.5L (3000  ml)|9.690
+2024-09-10 22:25:31,763 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa COCA COLA Original + Sprite x 2und 3L (6000  ml)|12.707
+2024-09-10 22:25:31,764 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa COCA COLA Original (1500  ml)|5.193
+2024-09-10 22:25:31,764 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Refajo COLA Y POLA Pet (1500  ml)|2.862
+2024-09-10 22:25:31,764 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa COCA COLA Original x 18und 235ml (4230  ml)|30.000
+2024-09-10 22:25:31,764 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Refajo COLA Y POLA Lata 330ml (330  ml)|1.554
+2024-09-10 22:25:31,764 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa COCA COLA Original (400  ml)|2.456
+2024-09-10 22:25:31,765 - src.scrapers.exito - INFO - Product not added: COLA & POLA|Gaseosa COCA COLA Original lata x 6und 235ml (1410  ml)|12.622
+2024-09-10 22:25:31,765 - src.scrapers.exito - INFO - Exito OTROS scraped
+2024-09-10 22:25:39,324 - src.scrapers.exito - INFO - Product not added: NATU MALTA|Malta PONY MALTA Botella x6und 200ml (1200  ml)|7.420
+2024-09-10 22:25:39,325 - src.scrapers.exito - INFO - Product not added: NATU MALTA|Malta PONY MALTA Botella Familiar (1500  ml)|5.130
+2024-09-10 22:25:39,325 - src.scrapers.exito - INFO - Product not added: NATU MALTA|Malta PONY MALTA Botella x6und 330ml (1980  ml)|15.000
+2024-09-10 22:25:39,325 - src.scrapers.exito - INFO - Product not added: NATU MALTA|Malta PONY MALTA Botella (1000  ml)|3.760
+2024-09-10 22:25:39,326 - src.scrapers.exito - INFO - Product not added: NATU MALTA|Malta LEONA Botella x6und 400ml (2400  ml)|11.100
+2024-09-10 22:25:39,326 - src.scrapers.exito - ERROR - Error finding element NATU MALTA: 'str' object has no attribute 'append'
+2024-09-10 22:25:41,543 - settings.settings - INFO - Finished
+2024-09-10 23:05:26,526 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 23:05:27,179 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:05:27,225 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:05:27,253 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 23:05:28,306 - src.scrapers.exito - INFO - Scraping Exito CERVEZA
+2024-09-10 23:08:13,477 - src.scrapers.exito - ERROR - Error finding element AGUILA: 
+2024-09-10 23:08:21,957 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 23:08:22,550 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:08:22,579 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:08:22,604 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 23:08:23,648 - src.scrapers.exito - INFO - Scraping Exito CERVEZA
+2024-09-10 23:08:33,752 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA SCHWEPPES BOTELLA VIDRIO (300  ML)|3.150
+2024-09-10 23:08:33,753 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA CANADA DRY SIN CALORIAS X 6 UND 300 ML (1800  ML)|13.000
+2024-09-10 23:08:33,754 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA HATSU HIBISCUS Y ARANDANOS X 4UND 207ML (828  ML)|23.850
+2024-09-10 23:08:33,754 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA MIL 976 CERO CALORIAS X 4 UND 200ML (828  ML)|24.700
+2024-09-10 23:08:33,754 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA SCHWEPPES LATA (269  ML)|2.640
+2024-09-10 23:08:33,754 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 23:08:41,893 - src.scrapers.exito - INFO - Product not added: AUSTEN|SENTIDO Y SENSIBILIDAD, AUSTEN, JANE|54.000
+2024-09-10 23:08:41,894 - src.scrapers.exito - INFO - Product not added: AUSTEN|ORGULLO Y PREJUICIO, AUSTEN, JANE|55.000
+2024-09-10 23:08:41,894 - src.scrapers.exito - INFO - Product not added: AUSTEN|ORGULLO Y PREJUICIO (COLECCION PENG, AUSTEN, JANE|45.000
+2024-09-10 23:08:41,894 - src.scrapers.exito - INFO - Product not added: AUSTEN|SILLA PARA OFICINA EJECUTIVA AUSTEN NEGRA|335.900
+2024-09-10 23:08:41,894 - src.scrapers.exito - INFO - Product not added: AUSTEN|SILLA PARA OFICINA EJECUTIVA AUSTEN|239.900
+2024-09-10 23:08:41,895 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:08:41,895 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:08:41,895 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:08:41,895 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:08:41,895 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:08:41,896 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:08:41,896 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:08:41,896 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:08:41,896 - src.scrapers.exito - INFO - Product not added: AUSTEN|ZAPATO PARA HOMBRE CUSTER LG21205|109.990
+2024-09-10 23:08:41,896 - src.scrapers.exito - INFO - Product not added: AUSTEN|ZAPATO PARA HOMBRE CUSTER LG21205|109.990
+2024-09-10 23:08:41,896 - src.scrapers.exito - INFO - Product not added: AUSTEN|ZAPATO PARA HOMBRE CUSTER LG21205|109.990
+2024-09-10 23:08:41,896 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 23:08:52,942 - src.scrapers.exito - INFO - Product not added: AZTECA|FRIJOL REFRITO AZTECA X 300G AZTECA 300  GR|9.850
+2024-09-10 23:08:52,942 - src.scrapers.exito - INFO - Product not added: AZTECA|QUESO CHEDDAR DOY PACK AZTECA 200  GR|15.200
+2024-09-10 23:08:52,942 - src.scrapers.exito - INFO - Product not added: AZTECA|TORTILLA   AZTECA  (240  GR)|7.650
+2024-09-10 23:08:52,942 - src.scrapers.exito - INFO - Product not added: AZTECA|FRIJOLES ANTIOQUENOS AZTECA 300  GR|8.460
+2024-09-10 23:08:52,942 - src.scrapers.exito - INFO - Product not added: AZTECA|NACHOS AZTECA  (180  GR)|8.010
+2024-09-10 23:08:52,943 - src.scrapers.exito - INFO - Product not added: AZTECA|CHILE CON CARNE AZTECA X 300G AZTECA 300  GR|13.150
+2024-09-10 23:08:52,943 - src.scrapers.exito - INFO - Product not added: AZTECA|TORTILLA   AZTECA  (580  GR)|13.150
+2024-09-10 23:08:52,943 - src.scrapers.exito - INFO - Product not added: AZTECA|FRIJOLES NEGROS AZTECA 300  GR|7.770
+2024-09-10 23:08:52,943 - src.scrapers.exito - INFO - Product not added: AZTECA|JALAPENOS AZTECA  (220  GR)|10.150
+2024-09-10 23:08:52,944 - src.scrapers.exito - INFO - Product not added: AZTECA|TORTILLAS AZTECA MAIZ SUPER NACHOS QUESO (180  GR)|8.500
+2024-09-10 23:08:52,944 - src.scrapers.exito - INFO - Product not added: AZTECA|SALSA AZTECA SALSA (220  GR)|14.550
+2024-09-10 23:08:52,944 - src.scrapers.exito - INFO - Product not added: AZTECA|TOSTADAS AZTECA  (145  GR)|25.200
+2024-09-10 23:08:52,944 - src.scrapers.exito - INFO - Product not added: AZTECA|TORTILLAS  AZTECA MAIZ SUPER NACHOS QUESO PICANT (180  GR)|8.500
+2024-09-10 23:08:52,944 - src.scrapers.exito - INFO - Product not added: AZTECA|TORTILLAS AZTECA HARINA INTEGRAL X 8 (250  GR)|8.050
+2024-09-10 23:08:52,944 - src.scrapers.exito - INFO - Product not added: AZTECA|CONCHA PARA TACOS AZTECA  (150  GR)|22.250
+2024-09-10 23:08:52,945 - src.scrapers.exito - INFO - Product not added: AZTECA|SALSA AZTECA SALSA (220  GR)|14.550
+2024-09-10 23:08:52,945 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 23:09:01,252 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA LIGHT SIXPACK AGUILA LIGHT 1980 ML|13.312
+2024-09-10 23:09:01,253 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA X6UND 269 (1614  ML)|8.437
+2024-09-10 23:09:01,254 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT BOTELLA (250  ML)|1.820
+2024-09-10 23:09:01,254 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (269  ML)|1.980
+2024-09-10 23:09:01,254 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT  (1860  ML)|15.000
+2024-09-10 23:09:01,254 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA (269  ML)|2.200
+2024-09-10 23:09:01,254 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA (330  ML)|2.920
+2024-09-10 23:09:01,254 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (473  ML)|2.650
+2024-09-10 23:09:01,255 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA X6UND 269ML (1614  ML)|13.200
+2024-09-10 23:09:01,255 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LIGHT (2838  ML)|20.800
+2024-09-10 23:09:01,255 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (330  ML)|3.300
+2024-09-10 23:09:01,255 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|LIGHT DGTION+VIDASANA PURINA DOG CHOW 2000  GR|50.000
+2024-09-10 23:09:01,255 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|AUDIFONOS DIADEMA GAMER MICROFONO GM 017|48.800
+2024-09-10 23:09:01,255 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|INSTANTANEO LIGHT FRUTOS ROJOS LIGHT YA 10 GR|1.240
+2024-09-10 23:09:01,256 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|AZUCAR BCA LIGHT TETRA REX IN CAUCA LIGHT 850 GR|7.200
+2024-09-10 23:09:01,256 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT (310  ML)|2.500
+2024-09-10 23:09:01,256 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 23:09:11,123 - src.scrapers.exito - ERROR - Error finding element COSTEÑA: 'str' object has no attribute 'append'
+2024-09-10 23:09:19,822 - src.scrapers.exito - ERROR - Error finding element BACANA: 'str' object has no attribute 'append'
+2024-09-10 23:09:19,822 - src.scrapers.exito - INFO - Scraping Exito OTROS
+2024-09-10 23:09:31,181 - src.scrapers.exito - INFO - Product not added: PONY MALTA|MALETA BOLSO JUGUETE MASCOTA UNICORNIO PONY + ACCESORIOS|69.900
+2024-09-10 23:09:31,181 - src.scrapers.exito - INFO - Product not added: PONY MALTA|MALETA KF CONCEPT BETA AZUL KF13.087 20L|519.900
+2024-09-10 23:09:31,181 - src.scrapers.exito - INFO - Product not added: PONY MALTA|SET TENIS DE MESA PING PONG CON RAQUETAS + MALLA + PELOTAS|73.095
+2024-09-10 23:09:31,181 - src.scrapers.exito - INFO - Exito OTROS scraped
+2024-09-10 23:09:42,063 - src.scrapers.exito - ERROR - Error finding element MALTA LEONA: 'str' object has no attribute 'append'
+2024-09-10 23:09:52,880 - src.scrapers.exito - ERROR - Error finding element COLA Y POLA: 'str' object has no attribute 'append'
+2024-09-10 23:10:00,602 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ZERO X 2UND 1.5L (3000  ML)|7.980
+2024-09-10 23:10:00,602 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X6UND 250ML (1500  ML)|9.520
+2024-09-10 23:10:00,602 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL (2500  ML)|6.919
+2024-09-10 23:10:00,603 - src.scrapers.exito - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA LATA X6UND 330ML (1980  ML)|9.300
+2024-09-10 23:10:00,603 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA  COCA COLA ORIGINAL X 3UND 1.5L (4500  ML)|12.707
+2024-09-10 23:10:00,603 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL + QUATRO X 2UND 3L (6000  ML)|11.985
+2024-09-10 23:10:00,604 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X2UND 2.5L (5000  ML)|11.645
+2024-09-10 23:10:00,605 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X 2UND 3L (6000  ML)|13.800
+2024-09-10 23:10:00,605 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X 2UND 1.5L (3000  ML)|9.690
+2024-09-10 23:10:00,605 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL + SPRITE X 2UND 3L (6000  ML)|12.707
+2024-09-10 23:10:00,605 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL (1500  ML)|5.193
+2024-09-10 23:10:00,606 - src.scrapers.exito - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA PET (1500  ML)|2.862
+2024-09-10 23:10:00,606 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X 18UND 235ML (4230  ML)|30.000
+2024-09-10 23:10:00,606 - src.scrapers.exito - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA LATA 330ML (330  ML)|1.554
+2024-09-10 23:10:00,606 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL (400  ML)|2.456
+2024-09-10 23:10:00,607 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL LATA X 6UND 235ML (1410  ML)|12.622
+2024-09-10 23:10:00,607 - src.scrapers.exito - INFO - Exito OTROS scraped
+2024-09-10 23:10:08,306 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA X6UND 200ML (1200  ML)|7.420
+2024-09-10 23:10:08,306 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA FAMILIAR (1500  ML)|5.130
+2024-09-10 23:10:08,307 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA X6UND 330ML (1980  ML)|15.000
+2024-09-10 23:10:08,307 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA (1000  ML)|3.760
+2024-09-10 23:10:08,307 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA LEONA BOTELLA X6UND 400ML (2400  ML)|11.100
+2024-09-10 23:10:08,307 - src.scrapers.exito - ERROR - Error finding element NATU MALTA: 'str' object has no attribute 'append'
+2024-09-10 23:10:10,479 - settings.settings - INFO - Finished
+2024-09-10 23:11:06,434 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 23:11:07,052 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:11:07,088 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:11:07,114 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 23:11:08,146 - src.scrapers.exito - INFO - Scraping Exito CERVEZA
+2024-09-10 23:14:46,178 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA SCHWEPPES BOTELLA VIDRIO (300  ML)|3.150
+2024-09-10 23:14:46,570 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA CANADA DRY SIN CALORIAS X 6 UND 300 ML (1800  ML)|13.000
+2024-09-10 23:14:46,946 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA HATSU HIBISCUS Y ARANDANOS X 4UND 207ML (828  ML)|23.850
+2024-09-10 23:14:47,378 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA MIL 976 CERO CALORIAS X 4 UND 200ML (828  ML)|24.700
+2024-09-10 23:14:47,739 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA SCHWEPPES LATA (269  ML)|2.640
+2024-09-10 23:14:47,739 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 23:15:19,130 - src.scrapers.exito - INFO - Product not added: AUSTEN|SENTIDO Y SENSIBILIDAD, AUSTEN, JANE|54.000
+2024-09-10 23:15:24,466 - src.scrapers.exito - INFO - Product not added: AUSTEN|ORGULLO Y PREJUICIO, AUSTEN, JANE|55.000
+2024-09-10 23:15:28,378 - src.scrapers.exito - INFO - Product not added: AUSTEN|ORGULLO Y PREJUICIO (COLECCION PENG, AUSTEN, JANE|45.000
+2024-09-10 23:15:31,979 - src.scrapers.exito - INFO - Product not added: AUSTEN|SILLA PARA OFICINA EJECUTIVA AUSTEN NEGRA|335.900
+2024-09-10 23:15:38,930 - src.scrapers.exito - INFO - Product not added: AUSTEN|SILLA PARA OFICINA EJECUTIVA AUSTEN|239.900
+2024-09-10 23:15:39,443 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:15:40,010 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:15:40,683 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:15:41,266 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:15:41,809 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:15:42,498 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:15:42,946 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:15:43,386 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:15:43,842 - src.scrapers.exito - INFO - Product not added: AUSTEN|ZAPATO PARA HOMBRE CUSTER LG21205|109.990
+2024-09-10 23:15:44,290 - src.scrapers.exito - INFO - Product not added: AUSTEN|ZAPATO PARA HOMBRE CUSTER LG21205|109.990
+2024-09-10 23:15:44,794 - src.scrapers.exito - INFO - Product not added: AUSTEN|ZAPATO PARA HOMBRE CUSTER LG21205|109.990
+2024-09-10 23:15:44,794 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 23:16:18,171 - src.scrapers.exito - ERROR - Error finding element AZTECA: 
+2024-09-10 23:16:37,345 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 23:16:37,934 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:16:37,995 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:16:38,019 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 23:16:39,080 - src.scrapers.exito - INFO - Scraping Exito CERVEZA
+2024-09-10 23:16:47,257 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 23:16:47,848 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:16:47,893 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:16:47,918 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 23:16:48,973 - src.scrapers.exito - INFO - Scraping Exito CERVEZA
+2024-09-10 23:16:58,389 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA SCHWEPPES BOTELLA VIDRIO (300  ML)|3.150
+2024-09-10 23:16:58,390 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA CANADA DRY SIN CALORIAS X 6 UND 300 ML (1800  ML)|13.000
+2024-09-10 23:16:58,390 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA HATSU HIBISCUS Y ARANDANOS X 4UND 207ML (828  ML)|23.850
+2024-09-10 23:16:58,390 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA MIL 976 CERO CALORIAS X 4 UND 200ML (828  ML)|24.700
+2024-09-10 23:16:58,391 - src.scrapers.exito - INFO - Product not added: AGUILA|AGUA TONICA SCHWEPPES LATA (269  ML)|2.640
+2024-09-10 23:17:05,701 - src.scrapers.exito - INFO - Product not added: AUSTEN|SENTIDO Y SENSIBILIDAD, AUSTEN, JANE|54.000
+2024-09-10 23:17:05,701 - src.scrapers.exito - INFO - Product not added: AUSTEN|ORGULLO Y PREJUICIO, AUSTEN, JANE|55.000
+2024-09-10 23:17:05,702 - src.scrapers.exito - INFO - Product not added: AUSTEN|ORGULLO Y PREJUICIO (COLECCION PENG, AUSTEN, JANE|45.000
+2024-09-10 23:17:05,703 - src.scrapers.exito - INFO - Product not added: AUSTEN|SILLA PARA OFICINA EJECUTIVA AUSTEN NEGRA|335.900
+2024-09-10 23:17:05,703 - src.scrapers.exito - INFO - Product not added: AUSTEN|SILLA PARA OFICINA EJECUTIVA AUSTEN|239.900
+2024-09-10 23:17:05,703 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:17:05,703 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:17:05,703 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:17:05,704 - src.scrapers.exito - INFO - Product not added: AUSTEN|BERMUDA BASICA PARA HOMBRE  CUSTER  73123|54.990
+2024-09-10 23:17:05,704 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:17:05,704 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:17:05,704 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:17:05,704 - src.scrapers.exito - INFO - Product not added: AUSTEN|PANTALON CHINO PARA HOMBRE  CUSTER  00900|59.990
+2024-09-10 23:17:05,705 - src.scrapers.exito - INFO - Product not added: AUSTEN|ZAPATO PARA HOMBRE CUSTER LG21205|109.990
+2024-09-10 23:17:05,705 - src.scrapers.exito - INFO - Product not added: AUSTEN|ZAPATO PARA HOMBRE CUSTER LG21205|109.990
+2024-09-10 23:17:05,705 - src.scrapers.exito - INFO - Product not added: AUSTEN|ZAPATO PARA HOMBRE CUSTER LG21205|109.990
+2024-09-10 23:17:15,217 - src.scrapers.exito - INFO - Product not added: AZTECA|FRIJOL REFRITO AZTECA X 300G AZTECA 300  GR|9.850
+2024-09-10 23:17:15,218 - src.scrapers.exito - INFO - Product not added: AZTECA|QUESO CHEDDAR DOY PACK AZTECA 200  GR|15.200
+2024-09-10 23:17:15,218 - src.scrapers.exito - INFO - Product not added: AZTECA|TORTILLA   AZTECA  (240  GR)|7.650
+2024-09-10 23:17:15,219 - src.scrapers.exito - INFO - Product not added: AZTECA|FRIJOLES ANTIOQUENOS AZTECA 300  GR|8.460
+2024-09-10 23:17:15,219 - src.scrapers.exito - INFO - Product not added: AZTECA|NACHOS AZTECA  (180  GR)|8.010
+2024-09-10 23:17:15,219 - src.scrapers.exito - INFO - Product not added: AZTECA|CHILE CON CARNE AZTECA X 300G AZTECA 300  GR|13.150
+2024-09-10 23:17:15,219 - src.scrapers.exito - INFO - Product not added: AZTECA|TORTILLA   AZTECA  (580  GR)|13.150
+2024-09-10 23:17:15,220 - src.scrapers.exito - INFO - Product not added: AZTECA|FRIJOLES NEGROS AZTECA 300  GR|7.770
+2024-09-10 23:17:15,220 - src.scrapers.exito - INFO - Product not added: AZTECA|JALAPENOS AZTECA  (220  GR)|10.150
+2024-09-10 23:17:15,220 - src.scrapers.exito - INFO - Product not added: AZTECA|TORTILLAS AZTECA MAIZ SUPER NACHOS QUESO (180  GR)|8.500
+2024-09-10 23:17:15,220 - src.scrapers.exito - INFO - Product not added: AZTECA|SALSA AZTECA SALSA (220  GR)|14.550
+2024-09-10 23:17:15,220 - src.scrapers.exito - INFO - Product not added: AZTECA|TOSTADAS AZTECA  (145  GR)|25.200
+2024-09-10 23:17:15,221 - src.scrapers.exito - INFO - Product not added: AZTECA|TORTILLAS  AZTECA MAIZ SUPER NACHOS QUESO PICANT (180  GR)|8.500
+2024-09-10 23:17:15,221 - src.scrapers.exito - INFO - Product not added: AZTECA|TORTILLAS AZTECA HARINA INTEGRAL X 8 (250  GR)|8.050
+2024-09-10 23:17:15,221 - src.scrapers.exito - INFO - Product not added: AZTECA|CONCHA PARA TACOS AZTECA  (150  GR)|22.250
+2024-09-10 23:17:15,221 - src.scrapers.exito - INFO - Product not added: AZTECA|SALSA AZTECA SALSA (220  GR)|14.550
+2024-09-10 23:17:22,698 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA LIGHT SIXPACK AGUILA LIGHT 1980 ML|13.312
+2024-09-10 23:17:22,699 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA X6UND 269 (1614  ML)|8.437
+2024-09-10 23:17:22,699 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT BOTELLA (250  ML)|1.820
+2024-09-10 23:17:22,699 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (269  ML)|1.980
+2024-09-10 23:17:22,699 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT  (1860  ML)|15.000
+2024-09-10 23:17:22,700 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA (269  ML)|2.200
+2024-09-10 23:17:22,700 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA (330  ML)|2.920
+2024-09-10 23:17:22,700 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (473  ML)|2.650
+2024-09-10 23:17:22,700 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT LATA X6UND 269ML (1614  ML)|13.200
+2024-09-10 23:17:22,701 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LIGHT (2838  ML)|20.800
+2024-09-10 23:17:22,701 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA (330  ML)|3.300
+2024-09-10 23:17:22,701 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|LIGHT DGTION+VIDASANA PURINA DOG CHOW 2000  GR|50.000
+2024-09-10 23:17:22,701 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|AUDIFONOS DIADEMA GAMER MICROFONO GM 017|48.800
+2024-09-10 23:17:22,701 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|INSTANTANEO LIGHT FRUTOS ROJOS LIGHT YA 10 GR|1.240
+2024-09-10 23:17:22,702 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|AZUCAR BCA LIGHT TETRA REX IN CAUCA LIGHT 850 GR|7.200
+2024-09-10 23:17:22,702 - src.scrapers.exito - INFO - Product not added: BUSCH LIGHT|CERVEZA CERVEZA ANDINA LIGHT LIGHT (310  ML)|2.500
+2024-09-10 23:17:30,354 - src.scrapers.exito - INFO - Product not added: COSTENA|HERMOSAS SILLAS HAMACAS COLOR COSTENA ARTESANAL|150.000
+2024-09-10 23:17:30,355 - src.scrapers.exito - INFO - Product not added: COSTENA|MAZORCA REGIONAL COSTENA|7.811
+2024-09-10 23:17:30,355 - src.scrapers.exito - INFO - Product not added: COSTENA|AGUARDIENTE AGUARDIENTE COSTENO SIN AZUCAR (375  ML)|21.450
+2024-09-10 23:17:30,356 - src.scrapers.exito - INFO - Product not added: COSTENA|AGUARDIENTE AGUARDIENTE COSTENO SIN AZUCAR (750  ML)|41.100
+2024-09-10 23:17:30,356 - src.scrapers.exito - INFO - Product not added: COSTENA|BOXER DE AJUSTE PERFECTO 012640|39.990
+2024-09-10 23:17:30,356 - src.scrapers.exito - INFO - Product not added: COSTENA|BOXER DE AJUSTE PERFECTO 012640|39.990
+2024-09-10 23:17:30,356 - src.scrapers.exito - INFO - Product not added: COSTENA|BOXER DE AJUSTE PERFECTO 012640|39.990
+2024-09-10 23:17:30,356 - src.scrapers.exito - INFO - Product not added: COSTENA|QUESO COSTENO BLOQUE   (1  UND)|17.675
+2024-09-10 23:17:30,357 - src.scrapers.exito - INFO - Product not added: COSTENA|QUESO LA MARIA COSTENO EN BLOQUE (400  GR)|17.750
+2024-09-10 23:17:30,357 - src.scrapers.exito - INFO - Product not added: COSTENA|SUERO COSTENO ALQUERIA ORIGINAL PASTEURIZADO (400  GR)|10.600
+2024-09-10 23:17:30,357 - src.scrapers.exito - INFO - Product not added: COSTENA|CORTINA BLACKOUT DE OJAL LONA BEIGE 265 CM|124.900
+2024-09-10 23:17:30,357 - src.scrapers.exito - INFO - Product not added: COSTENA|SUERO COSTENO ALQUERIA ORIGINAL PASTEURIZADO (200  GR)|5.030
+2024-09-10 23:17:39,081 - src.scrapers.exito - INFO - Product not added: BACANA|BANANO   1  UND|588
+2024-09-10 23:17:39,082 - src.scrapers.exito - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT AQUA PROTECT SPF 50 (236  GR)|41.920
+2024-09-10 23:17:39,082 - src.scrapers.exito - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ADVANCED PROTECTION KIDS (118  ML)|48.850
+2024-09-10 23:17:39,082 - src.scrapers.exito - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT ADAVANCED PROTECTION SPF 100 (118  ML)|48.200
+2024-09-10 23:17:39,082 - src.scrapers.exito - INFO - Product not added: BACANA|BALANZA PESA BASCULA GRAMERA DIGITAL CAPACIDAD DE 40KG|136.500
+2024-09-10 23:17:39,083 - src.scrapers.exito - INFO - Product not added: BACANA|BARANDA DE SEGURIDAD BEBE 150 CM ZEPPELIN|173.900
+2024-09-10 23:17:39,083 - src.scrapers.exito - INFO - Product not added: BACANA|BRONCEADOR BANANA BOAT EXTRACTO ZANAHORIA Y ACEITE DE COCO (236  ML)|32.920
+2024-09-10 23:17:39,083 - src.scrapers.exito - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT DRY BALANCE SPORT SPF 50 (180  ML)|40.800
+2024-09-10 23:17:39,083 - src.scrapers.exito - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT EN SPRAY DRY BALANCE SPORT SPF 50 (170  ML)|49.500
+2024-09-10 23:17:39,083 - src.scrapers.exito - INFO - Product not added: BACANA|BALANZA GRAMERA BASCULA COCINA DIGITAL CAPACIDAD 10 KG|16.599
+2024-09-10 23:17:39,084 - src.scrapers.exito - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT EN BARRA KIDS SPF 50 (14.2  ML)|24.800
+2024-09-10 23:17:39,084 - src.scrapers.exito - INFO - Product not added: BACANA|BRONCEADOR BANANA BOAT EXTRACTO ZANAHORIA Y ACEITE DE COCO (236  ML)|42.200
+2024-09-10 23:17:39,084 - src.scrapers.exito - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT MINERAL KIDS SPF 50 (180  ML)|44.400
+2024-09-10 23:17:39,084 - src.scrapers.exito - INFO - Product not added: BACANA|BALANZA PESA BASCULA PERSONAL BLUETOOTH DIGITAL|28.500
+2024-09-10 23:17:39,084 - src.scrapers.exito - INFO - Product not added: BACANA|PROTECTOR SOLAR BANANA BOAT EN BARRA SPORT SPF 50 (1  UND)|34.600
+2024-09-10 23:17:39,084 - src.scrapers.exito - INFO - Exito CERVEZA scraped
+2024-09-10 23:17:39,085 - src.scrapers.exito - INFO - Scraping Exito OTROS
+2024-09-10 23:17:47,558 - src.scrapers.exito - INFO - Product not added: PONY MALTA|MALETA BOLSO JUGUETE MASCOTA UNICORNIO PONY + ACCESORIOS|69.900
+2024-09-10 23:17:47,559 - src.scrapers.exito - INFO - Product not added: PONY MALTA|MALETA KF CONCEPT BETA AZUL KF13.087 20L|519.900
+2024-09-10 23:17:47,559 - src.scrapers.exito - INFO - Product not added: PONY MALTA|SET TENIS DE MESA PING PONG CON RAQUETAS + MALLA + PELOTAS|73.095
+2024-09-10 23:17:55,449 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA LONA  ARKITECT  AH9218|118.993
+2024-09-10 23:17:55,449 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA LONA  ARKITECT  AH9218|118.993
+2024-09-10 23:17:55,450 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA DE VIAJE GRANDE LONA EXCEL EXPLORA  EXCEL|257.900
+2024-09-10 23:17:55,450 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA DE VIAJE GRANDE LONA EXCEL EXPLORA  EXCEL|257.900
+2024-09-10 23:17:55,450 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA DE VIAJE GRANDE LONA EXCEL EXPLORA  EXCEL|257.900
+2024-09-10 23:17:55,450 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA DE VIAJE GRANDE LONA EXCEL EXPLORA  EXCEL|257.900
+2024-09-10 23:17:55,450 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA EN LONA ARKITECT  16194|104.993
+2024-09-10 23:17:55,451 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA EN LONA ARKITECT  16194|104.993
+2024-09-10 23:17:55,451 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA DE CABINA LONA EXCEL EXPLORA  EXCEL|188.900
+2024-09-10 23:17:55,451 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA DE CABINA LONA EXCEL EXPLORA  EXCEL|188.900
+2024-09-10 23:17:55,451 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA DE CABINA LONA EXCEL EXPLORA  EXCEL|188.900
+2024-09-10 23:17:55,451 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA DE CABINA LONA EXCEL EXPLORA  EXCEL|188.900
+2024-09-10 23:17:55,452 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA LONA DE CABINA AMERICAN TOURISTER  132885|299.000
+2024-09-10 23:17:55,452 - src.scrapers.exito - INFO - Product not added: MALTA LEONA|MALETA LONA DE CABINA AMERICAN TOURISTER  132885|299.000
+2024-09-10 23:18:08,713 - src.scrapers.exito - INFO - Product not added: COLA Y POLA|GASEOSA  COCA COLA ORIGINAL X 3UND 1.5L (4500  ML)|12.707
+2024-09-10 23:18:08,714 - src.scrapers.exito - INFO - Product not added: COLA Y POLA|GASEOSA COCA COLA ORIGINAL + QUATRO X 2UND 3L (6000  ML)|11.985
+2024-09-10 23:18:08,714 - src.scrapers.exito - INFO - Product not added: COLA Y POLA|GASEOSA COCA COLA ORIGINAL X2UND 2.5L (5000  ML)|11.645
+2024-09-10 23:18:08,714 - src.scrapers.exito - INFO - Product not added: COLA Y POLA|GASEOSA COCA COLA ORIGINAL X6UND 250ML (1500  ML)|9.520
+2024-09-10 23:18:08,714 - src.scrapers.exito - INFO - Product not added: COLA Y POLA|GASEOSA COCA COLA ORIGINAL X 2UND 3L (6000  ML)|13.800
+2024-09-10 23:18:08,715 - src.scrapers.exito - INFO - Product not added: COLA Y POLA|GASEOSA COCA COLA ORIGINAL X 2UND 1.5L (3000  ML)|9.690
+2024-09-10 23:18:08,715 - src.scrapers.exito - INFO - Product not added: COLA Y POLA|GASEOSA COCA COLA ORIGINAL + SPRITE X 2UND 3L (6000  ML)|12.707
+2024-09-10 23:18:08,715 - src.scrapers.exito - INFO - Product not added: COLA Y POLA|GASEOSA COCA COLA ORIGINAL (1500  ML)|5.193
+2024-09-10 23:18:08,715 - src.scrapers.exito - INFO - Product not added: COLA Y POLA|GASEOSA COCA COLA ORIGINAL X 18UND 235ML (4230  ML)|30.000
+2024-09-10 23:18:08,715 - src.scrapers.exito - INFO - Product not added: COLA Y POLA|GASEOSA COCA COLA ORIGINAL (400  ML)|2.456
+2024-09-10 23:18:17,178 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ZERO X 2UND 1.5L (3000  ML)|7.980
+2024-09-10 23:18:17,179 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X6UND 250ML (1500  ML)|9.520
+2024-09-10 23:18:17,179 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL (2500  ML)|6.919
+2024-09-10 23:18:17,179 - src.scrapers.exito - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA LATA X6UND 330ML (1980  ML)|9.300
+2024-09-10 23:18:17,180 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA  COCA COLA ORIGINAL X 3UND 1.5L (4500  ML)|12.707
+2024-09-10 23:18:17,180 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL + QUATRO X 2UND 3L (6000  ML)|11.985
+2024-09-10 23:18:17,180 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X2UND 2.5L (5000  ML)|11.645
+2024-09-10 23:18:17,180 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X 2UND 3L (6000  ML)|13.800
+2024-09-10 23:18:17,181 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X 2UND 1.5L (3000  ML)|9.690
+2024-09-10 23:18:17,181 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL + SPRITE X 2UND 3L (6000  ML)|12.707
+2024-09-10 23:18:17,181 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL (1500  ML)|5.193
+2024-09-10 23:18:17,182 - src.scrapers.exito - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA PET (1500  ML)|2.862
+2024-09-10 23:18:17,182 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL X 18UND 235ML (4230  ML)|30.000
+2024-09-10 23:18:17,182 - src.scrapers.exito - INFO - Product not added: COLA & POLA|REFAJO COLA Y POLA LATA 330ML (330  ML)|1.554
+2024-09-10 23:18:17,182 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL (400  ML)|2.456
+2024-09-10 23:18:17,182 - src.scrapers.exito - INFO - Product not added: COLA & POLA|GASEOSA COCA COLA ORIGINAL LATA X 6UND 235ML (1410  ML)|12.622
+2024-09-10 23:18:25,817 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA X6UND 200ML (1200  ML)|7.420
+2024-09-10 23:18:25,818 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA FAMILIAR (1500  ML)|5.130
+2024-09-10 23:18:25,818 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA X6UND 330ML (1980  ML)|15.000
+2024-09-10 23:18:25,819 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA (1000  ML)|3.760
+2024-09-10 23:18:25,819 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA LEONA BOTELLA X6UND 400ML (2400  ML)|11.100
+2024-09-10 23:18:25,819 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA FAMILIAR (2000  ML)|6.530
+2024-09-10 23:18:25,819 - src.scrapers.exito - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA MALTA (1200  ML)|8.890
+2024-09-10 23:18:25,820 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA LEONA BOTELLA (400 ML)|1.930
+2024-09-10 23:18:25,820 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA (200  ML)|1.480
+2024-09-10 23:18:25,820 - src.scrapers.exito - INFO - Product not added: NATU MALTA|BEBIDA PONY MALTA MALTA (1000  ML)|3.370
+2024-09-10 23:18:25,820 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA X24UND 330ML (7920  ML)|67.100
+2024-09-10 23:18:25,820 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA X6UND 330ML (1980  ML)|12.600
+2024-09-10 23:18:25,820 - src.scrapers.exito - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA (330  ML)|2.500
+2024-09-10 23:18:25,821 - src.scrapers.exito - INFO - Exito OTROS scraped
+2024-09-10 23:18:27,983 - settings.settings - INFO - Finished
+2024-09-10 23:57:12,685 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 23:57:13,281 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:57:13,323 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:57:13,352 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 23:57:14,408 - src.scrapers.jumbo - INFO - Scraping Jumbo CERVEZA
+2024-09-10 23:57:35,928 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|CREMA AUTAN REPELENTE DE INSECTOS NO GRASO CON ALOE VERA FAMILY CARE X 200G|16.490
+2024-09-10 23:57:35,929 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|FILETE DE SALMON CON PIEL COHO PESQUERA DEL MAR|109.600
+2024-09-10 23:57:35,929 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|REPELENTE CORPORAL DE INSECTOS AUTAN SPRAY 200 ML|19.590
+2024-09-10 23:57:35,930 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|REPELENTE AUTAN CREMA KIDS X100ML|14.490
+2024-09-10 23:57:35,930 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|SOPORTE TV 32 A 55 FACIL INSTALACION Y AJUSTE|60.900
+2024-09-10 23:57:35,930 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|GUANTES ETERNA AJUSTE PERFECTO TALLA 7 1/2 X1 PAR|13.190
+2024-09-10 23:57:35,931 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|BOXER CORTO CON TECNOLOGIA DE AJUSTE PERFECTO|42.990
+2024-09-10 23:57:35,931 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|PAQUETE X 3 CONFORTABLES PANTIES CLASICOS DE AJUSTE Y CUBRIMIENTO TOTAL|62.990
+2024-09-10 23:57:35,932 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|CLOSET ROPERO CON ESPEJO CUSTER 160X40X48 RTA WENGUE|459.990
+2024-09-10 23:57:35,932 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|MORRAL JUVENIL XTREM AUSTIN NEGRO|165.900
+2024-09-10 23:57:35,933 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|CAJONERA 3 CAJONES AUSTIN RTA WENGUE LENNO|519.990
+2024-09-10 23:57:35,933 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|CLOSET ROPERO ESPEJO PUERTA CUSTER 160X40X48 RTA BLANCO|489.990
+2024-09-10 23:57:45,436 - src.scrapers.jumbo - INFO - Product not added: AZTECA|TORTILLA BURRITO X8UNDS X580G|13.690
+2024-09-10 23:57:45,436 - src.scrapers.jumbo - INFO - Product not added: AZTECA|TORTILLAS HARINA AZTECA X8UNDS X240G|7.490
+2024-09-10 23:57:45,437 - src.scrapers.jumbo - INFO - Product not added: AZTECA|SUPER NACHOS AZTECA SABOR NATURAL X180G|8.390
+2024-09-10 23:57:45,437 - src.scrapers.jumbo - INFO - Product not added: AZTECA|FRIJOL REFRITO AZTECA X300G|9.390
+2024-09-10 23:57:45,437 - src.scrapers.jumbo - INFO - Product not added: AZTECA|TORTILLA FAJITA KROSPY X12UNDS X360G|12.190
+2024-09-10 23:57:45,438 - src.scrapers.jumbo - INFO - Product not added: AZTECA|SALSA AZTECA QUESO CHEDDAR DOYPACK X200G|12.390
+2024-09-10 23:57:55,446 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|LIGHT YA FRUTOS ROJOS X1L|1.390
+2024-09-10 23:57:55,446 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|ENDULZANTE D'LIGHT SIN CALORIAS X180G|8.790
+2024-09-10 23:57:55,447 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA X6UND X330ML C-U|15.312
+2024-09-10 23:57:55,447 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|CREMA DE LECHE ALQUERIA LIGHT BOLSA X180G|5.890
+2024-09-10 23:57:55,447 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|PROTECTOR SOLAR NIVEA SUN PROTECT & LIGHT FEELING FPS50 X50ML|42.290
+2024-09-10 23:57:55,448 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|CHOCOLATE LUKER CLAVOS Y CANELA LIGHT X156.2G|14.000
+2024-09-10 23:58:04,942 - src.scrapers.jumbo - INFO - Product not added: COSTENA|CHIPOTLES LA COSTENA CHILE X 220G|10.773
+2024-09-10 23:58:04,942 - src.scrapers.jumbo - INFO - Product not added: COSTENA|FRIJOLES LA COSTENA NEGROS ENTEROS X 400G|7.693
+2024-09-10 23:58:04,943 - src.scrapers.jumbo - INFO - Product not added: COSTENA|FRIJOLES LA COSTENA NEGROS REFRITOS X 400G|8.393
+2024-09-10 23:58:04,943 - src.scrapers.jumbo - INFO - Product not added: COSTENA|JALAPENOS LA COSTENA X 220G|6.153
+2024-09-10 23:58:04,943 - src.scrapers.jumbo - INFO - Product not added: COSTENA|SALSA LA COSTENA MEXICANA CASERA X 250G|10.773
+2024-09-10 23:58:13,976 - src.scrapers.jumbo - INFO - Jumbo CERVEZA scraped
+2024-09-10 23:58:13,977 - src.scrapers.jumbo - INFO - Scraping Jumbo OTROS
+2024-09-10 23:58:40,545 - src.scrapers.jumbo - INFO - Product not added: COLA Y POLA|REFAJO COLA & POLA LATA X6UND X330ML C-U|15.500
+2024-09-10 23:58:40,545 - src.scrapers.jumbo - INFO - Product not added: COLA Y POLA|REFAJO COLA & POLA LATA X330ML|2.590
+2024-09-10 23:58:59,620 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X6 UNIDADES X200ML|8.940
+2024-09-10 23:58:59,621 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X1.5L|5.130
+2024-09-10 23:58:59,621 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X6 UNIDADES X330ML|15.000
+2024-09-10 23:58:59,621 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X30UND X200ML C-U|46.550
+2024-09-10 23:58:59,622 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X1L|3.760
+2024-09-10 23:58:59,622 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X2L|6.090
+2024-09-10 23:58:59,622 - src.scrapers.jumbo - INFO - Jumbo OTROS scraped
+2024-09-10 23:59:01,895 - settings.settings - INFO - Finished
+2024-09-10 23:59:28,437 - WDM - INFO - ====== WebDriver manager ======
+2024-09-10 23:59:29,032 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:59:29,067 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-10 23:59:29,096 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-10 23:59:31,095 - src.scrapers.makro - INFO - Scraping Makro CERVEZA
+2024-09-10 23:59:39,301 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE MOLIDO AGUILA ROJA 500G|16,460
+2024-09-10 23:59:39,302 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE GRANO AGUILA ROJA 1000G|45,000
+2024-09-10 23:59:39,302 - src.scrapers.makro - INFO - Product not added: AGUILA|CERVEZA POKER LATA 473MLX6U|21,000
+2024-09-10 23:59:39,302 - src.scrapers.makro - INFO - Product not added: AGUILA|CERVEZA REDD'S LATA 269ML X 6U|19,200
+2024-09-10 23:59:39,302 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE MOLIDO AGUILA ROJA 1000G|35,400
+2024-09-10 23:59:39,303 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE MOLIDO AGUILA ROJA 50GX10U|16,500
+2024-09-10 23:59:39,303 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE MOLIDO AGUILA ROJA 500GX3U|44,400
+2024-09-10 23:59:39,303 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE MOLIDO AGUILA ROJA 2500G|76,900
+2024-09-10 23:59:39,303 - src.scrapers.makro - INFO - Makro CERVEZA scraped
+2024-09-10 23:59:39,303 - src.scrapers.makro - INFO - Scraping Makro OTROS
+2024-09-10 23:59:46,315 - src.scrapers.makro - INFO - Product not added: PONY MALTA|NATUMALTA PET 200MLX6U|5,720
+2024-09-10 23:59:46,315 - src.scrapers.makro - INFO - Product not added: PONY MALTA|NATUMALTA PET 1000ML|3,600
+2024-09-10 23:59:46,315 - src.scrapers.makro - INFO - Makro OTROS scraped
+2024-09-10 23:59:48,439 - settings.settings - INFO - Finished

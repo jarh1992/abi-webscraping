@@ -1,0 +1,201 @@
+2024-09-11 00:02:20,879 - WDM - INFO - ====== WebDriver manager ======
+2024-09-11 00:02:21,475 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-11 00:02:21,510 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-11 00:02:21,533 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-11 00:02:21,610 - WDM - INFO - WebDriver version 128.0.6613.137 selected
+2024-09-11 00:02:21,613 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/win32/chromedriver-win32.zip
+2024-09-11 00:02:21,613 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/128.0.6613.137/win32/chromedriver-win32.zip
+2024-09-11 00:02:21,710 - WDM - INFO - Driver downloading response is 200
+2024-09-11 00:02:21,941 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-11 00:02:22,069 - WDM - INFO - Driver has been saved in cache [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137]
+2024-09-11 00:02:23,373 - src.scrapers.makro - INFO - Scraping Makro CERVEZA
+2024-09-11 00:02:31,198 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE MOLIDO AGUILA ROJA 500G|16,460
+2024-09-11 00:02:31,198 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE GRANO AGUILA ROJA 1000G|45,000
+2024-09-11 00:02:31,198 - src.scrapers.makro - INFO - Product not added: AGUILA|CERVEZA POKER LATA 473MLX6U|21,000
+2024-09-11 00:02:31,199 - src.scrapers.makro - INFO - Product not added: AGUILA|CERVEZA REDD'S LATA 269ML X 6U|19,200
+2024-09-11 00:02:31,199 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE MOLIDO AGUILA ROJA 1000G|35,400
+2024-09-11 00:02:31,199 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE MOLIDO AGUILA ROJA 50GX10U|16,500
+2024-09-11 00:02:31,199 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE MOLIDO AGUILA ROJA 500GX3U|44,400
+2024-09-11 00:02:31,199 - src.scrapers.makro - INFO - Product not added: AGUILA|CAFE MOLIDO AGUILA ROJA 2500G|76,900
+2024-09-11 00:02:31,199 - src.scrapers.makro - INFO - Makro CERVEZA scraped
+2024-09-11 00:02:31,199 - src.scrapers.makro - INFO - Scraping Makro OTROS
+2024-09-11 00:02:38,085 - src.scrapers.makro - INFO - Product not added: PONY MALTA|NATUMALTA PET 200MLX6U|5,720
+2024-09-11 00:02:38,086 - src.scrapers.makro - INFO - Product not added: PONY MALTA|NATUMALTA PET 1000ML|3,600
+2024-09-11 00:02:38,086 - src.scrapers.makro - INFO - Makro OTROS scraped
+2024-09-11 00:02:40,222 - settings.settings - INFO - Finished
+2024-09-11 00:02:55,994 - WDM - INFO - ====== WebDriver manager ======
+2024-09-11 00:02:56,589 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-11 00:02:56,626 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-11 00:02:56,655 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-11 00:02:57,693 - src.scrapers.jumbo - INFO - Scraping Jumbo CERVEZA
+2024-09-11 00:03:13,973 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|CREMA AUTAN REPELENTE DE INSECTOS NO GRASO CON ALOE VERA FAMILY CARE X 200G|16.490
+2024-09-11 00:03:13,973 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|FILETE DE SALMON CON PIEL COHO PESQUERA DEL MAR|109.600
+2024-09-11 00:03:13,973 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|REPELENTE CORPORAL DE INSECTOS AUTAN SPRAY 200 ML|19.590
+2024-09-11 00:03:13,974 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|REPELENTE AUTAN CREMA KIDS X100ML|14.490
+2024-09-11 00:03:13,974 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|SOPORTE TV 32 A 55 FACIL INSTALACION Y AJUSTE|60.900
+2024-09-11 00:03:13,974 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|GUANTES ETERNA AJUSTE PERFECTO TALLA 7 1/2 X1 PAR|13.190
+2024-09-11 00:03:13,974 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|BOXER CORTO CON TECNOLOGIA DE AJUSTE PERFECTO|42.990
+2024-09-11 00:03:13,975 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|PAQUETE X 3 CONFORTABLES PANTIES CLASICOS DE AJUSTE Y CUBRIMIENTO TOTAL|62.990
+2024-09-11 00:03:13,975 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|CLOSET ROPERO CON ESPEJO CUSTER 160X40X48 RTA WENGUE|459.990
+2024-09-11 00:03:13,975 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|MORRAL JUVENIL XTREM AUSTIN NEGRO|165.900
+2024-09-11 00:03:13,976 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|CAJONERA 3 CAJONES AUSTIN RTA WENGUE LENNO|519.990
+2024-09-11 00:03:13,976 - src.scrapers.jumbo - INFO - Product not added: AUSTEN|CLOSET ROPERO ESPEJO PUERTA CUSTER 160X40X48 RTA BLANCO|489.990
+2024-09-11 00:03:21,168 - src.scrapers.jumbo - INFO - Product not added: AZTECA|TORTILLA BURRITO X8UNDS X580G|13.690
+2024-09-11 00:03:21,169 - src.scrapers.jumbo - INFO - Product not added: AZTECA|TORTILLAS HARINA AZTECA X8UNDS X240G|7.490
+2024-09-11 00:03:21,169 - src.scrapers.jumbo - INFO - Product not added: AZTECA|SUPER NACHOS AZTECA SABOR NATURAL X180G|8.390
+2024-09-11 00:03:21,169 - src.scrapers.jumbo - INFO - Product not added: AZTECA|FRIJOL REFRITO AZTECA X300G|9.390
+2024-09-11 00:03:21,170 - src.scrapers.jumbo - INFO - Product not added: AZTECA|TORTILLA FAJITA KROSPY X12UNDS X360G|12.190
+2024-09-11 00:03:21,170 - src.scrapers.jumbo - INFO - Product not added: AZTECA|SALSA AZTECA QUESO CHEDDAR DOYPACK X200G|12.390
+2024-09-11 00:03:28,351 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|LIGHT YA FRUTOS ROJOS X1L|1.390
+2024-09-11 00:03:28,353 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|ENDULZANTE D'LIGHT SIN CALORIAS X180G|8.790
+2024-09-11 00:03:28,353 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA X6UND X330ML C-U|19.140
+2024-09-11 00:03:28,354 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|CREMA DE LECHE ALQUERIA LIGHT BOLSA X180G|5.890
+2024-09-11 00:03:28,354 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|PROTECTOR SOLAR NIVEA SUN PROTECT & LIGHT FEELING FPS50 X50ML|42.290
+2024-09-11 00:03:28,354 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|CHOCOLATE LUKER CLAVOS Y CANELA LIGHT X156.2G|14.000
+2024-09-11 00:03:28,355 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|CREMA NO LACTEA INSTACREM LIGHT X450G|23.050
+2024-09-11 00:03:28,355 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|CERVEZA ANDINA LIGHT LATA X6UND X269ML C/U|13.200
+2024-09-11 00:03:28,355 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|AREPAS DE YUCA LA CAJONERA LIGHT CON QUESO X5UND X300G|12.840
+2024-09-11 00:03:28,355 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|COMIDA PARA PERRO DOG CHOW CONTROL DE PESO LIGHT X8KG|139.990
+2024-09-11 00:03:28,356 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|CERVEZA ANDINA LIGHT LATA X6UND X330ML C/U|16.300
+2024-09-11 00:03:28,356 - src.scrapers.jumbo - INFO - Product not added: BUSCH LIGHT|CHICHARRON DON CHICHARRON LIGHT X35G|6.790
+2024-09-11 00:03:35,603 - src.scrapers.jumbo - INFO - Product not added: COSTENA|CHIPOTLES LA COSTENA CHILE X 220G|10.773
+2024-09-11 00:03:35,604 - src.scrapers.jumbo - INFO - Product not added: COSTENA|FRIJOLES LA COSTENA NEGROS ENTEROS X 400G|7.693
+2024-09-11 00:03:35,604 - src.scrapers.jumbo - INFO - Product not added: COSTENA|FRIJOLES LA COSTENA NEGROS REFRITOS X 400G|8.393
+2024-09-11 00:03:35,604 - src.scrapers.jumbo - INFO - Product not added: COSTENA|JALAPENOS LA COSTENA X 220G|6.153
+2024-09-11 00:03:35,605 - src.scrapers.jumbo - INFO - Product not added: COSTENA|SALSA LA COSTENA MEXICANA CASERA X 250G|10.773
+2024-09-11 00:03:42,819 - src.scrapers.jumbo - INFO - Jumbo CERVEZA scraped
+2024-09-11 00:03:42,819 - src.scrapers.jumbo - INFO - Scraping Jumbo OTROS
+2024-09-11 00:04:03,581 - src.scrapers.jumbo - INFO - Product not added: COLA Y POLA|REFAJO COLA & POLA LATA X6UND X330ML C-U|15.500
+2024-09-11 00:04:03,581 - src.scrapers.jumbo - INFO - Product not added: COLA Y POLA|REFAJO COLA & POLA LATA X330ML|2.590
+2024-09-11 00:04:17,817 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X6 UNIDADES X200ML|8.940
+2024-09-11 00:04:17,818 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X1.5L|5.130
+2024-09-11 00:04:17,818 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X6 UNIDADES X330ML|15.000
+2024-09-11 00:04:17,819 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X30UND X200ML C-U|46.550
+2024-09-11 00:04:17,819 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X1L|3.760
+2024-09-11 00:04:17,819 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X2L|6.090
+2024-09-11 00:04:17,820 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|BEBIDA MALTA LEONA BOTELLA PET X6UND X400ML C-U|8.900
+2024-09-11 00:04:17,820 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA GO BOTELLA PET 1000ML X1|3.490
+2024-09-11 00:04:17,821 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA GO BOTELLA PET 200ML X6|9.090
+2024-09-11 00:04:17,821 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X200ML|1.490
+2024-09-11 00:04:17,821 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA GO BOTELLA PET 200ML X1|1.590
+2024-09-11 00:04:17,821 - src.scrapers.jumbo - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X330ML|2.500
+2024-09-11 00:04:17,821 - src.scrapers.jumbo - INFO - Jumbo OTROS scraped
+2024-09-11 00:04:20,068 - settings.settings - INFO - Finished
+2024-09-11 00:09:55,285 - WDM - INFO - ====== WebDriver manager ======
+2024-09-11 00:09:55,909 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-11 00:09:56,034 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-11 00:09:56,064 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-11 00:09:57,126 - src.scrapers.metro - INFO - Scraping Jumbo CERVEZA
+2024-09-11 00:10:19,826 - src.scrapers.metro - INFO - Product not added: AGUILA|GALLETA COCOSETTE SANDWICH X 12PAQ X 438G|11.600
+2024-09-11 00:10:19,826 - src.scrapers.metro - INFO - Product not added: AGUILA|GASEOSA QUATRO TORONJA SABOR ORIGINAL X1.5L|3.360
+2024-09-11 00:10:19,826 - src.scrapers.metro - INFO - Product not added: AGUILA|LIMPIA PISOS SANPIC LAVANDA X5L|36.990
+2024-09-11 00:10:48,342 - src.scrapers.metro - INFO - Product not added: AUSTEN|CREMA AUTAN REPELENTE DE INSECTOS NO GRASO CON ALOE VERA FAMILY CARE X 200G|16.490
+2024-09-11 00:10:48,342 - src.scrapers.metro - INFO - Product not added: AUSTEN|BRASSIER MUJER REF:2901 URB|34.993
+2024-09-11 00:10:48,342 - src.scrapers.metro - INFO - Product not added: AUSTEN|BRASSIER MUJER REF:2901 URB|34.993
+2024-09-11 00:10:48,343 - src.scrapers.metro - INFO - Product not added: AUSTEN|BRASSIER MUJER REF:2901 URB|34.993
+2024-09-11 00:10:48,343 - src.scrapers.metro - INFO - Product not added: AUSTEN|BRASIER POST OPERATORIO - DEPORTIVO,REF.9019 SOUTIEN|45.430
+2024-09-11 00:10:48,343 - src.scrapers.metro - INFO - Product not added: AUSTEN|BRASIER /MUJER/50003/ FI FORMAS INTIMAS|20.993
+2024-09-11 00:10:48,344 - src.scrapers.metro - INFO - Product not added: AUSTEN|REPELENTE AUTAN CREMA KIDS X100ML|14.490
+2024-09-11 00:10:48,344 - src.scrapers.metro - INFO - Product not added: AUSTEN|REPELENTE CORPORAL DE INSECTOS AUTAN SPRAY 200 ML|21.490
+2024-09-11 00:10:48,345 - src.scrapers.metro - INFO - Product not added: AUSTEN|BRASIER CLASICO SIN ARCO CON COPAS EN ENCAJE|47.593
+2024-09-11 00:10:48,345 - src.scrapers.metro - INFO - Product not added: AUSTEN|BRASSIER MUJER REF 3394URB|32.893
+2024-09-11 00:10:48,345 - src.scrapers.metro - INFO - Product not added: AUSTEN|BRASIER PREHORMADO CON REALCE MUJER - REF. 24850|46.130
+2024-09-11 00:10:48,345 - src.scrapers.metro - INFO - Product not added: AUSTEN|BRASIER TIPO BRALETTE EN ENCAJE Y TRANSPARENCIAS|53.893
+2024-09-11 00:10:48,346 - src.scrapers.metro - INFO - Product not added: AUSTEN|DETERGENTE EN POLVO ARIEL TRIPLE PODER JABON PARA ROPA X4KG|43.492
+2024-09-11 00:10:48,346 - src.scrapers.metro - INFO - Product not added: AUSTEN|CREMA PARA PEINAR JOHNSON'S HIDRATACION INTENSA X200ML|16.290
+2024-09-11 00:10:48,346 - src.scrapers.metro - INFO - Product not added: AUSTEN|CREMA DENTAL BLANQUEADORA COLGATE LUMINOUS WHITE BRILLIANT 125ML|18.742
+2024-09-11 00:11:07,019 - src.scrapers.metro - INFO - Product not added: AZTECA|TORTILLA FAJITA KROSPY X12UNDS X360G|11.990
+2024-09-11 00:11:07,020 - src.scrapers.metro - INFO - Product not added: AZTECA|TORTILLAS HARINA AZTECA X8UNDS X240G|7.490
+2024-09-11 00:11:07,020 - src.scrapers.metro - INFO - Product not added: AZTECA|JALAPENOS AZTECA X220G|8.990
+2024-09-11 00:11:07,020 - src.scrapers.metro - INFO - Product not added: AZTECA|TORTILLA BURRITO X8UNDS X580G|13.690
+2024-09-11 00:11:07,021 - src.scrapers.metro - INFO - Product not added: AZTECA|SUPER NACHOS AZTECA SABOR NATURAL X180G|7.790
+2024-09-11 00:11:07,021 - src.scrapers.metro - INFO - Product not added: AZTECA|TACOS AZTECA X145G|21.590
+2024-09-11 00:11:07,022 - src.scrapers.metro - INFO - Product not added: AZTECA|SALSA AZTECA QUESO CHEDDAR DOYPACK X200G|12.390
+2024-09-11 00:11:07,022 - src.scrapers.metro - INFO - Product not added: AZTECA|FRIJOL REFRITO AZTECA X300G|8.890
+2024-09-11 00:11:07,022 - src.scrapers.metro - INFO - Product not added: AZTECA|NACHOS MEGA CHEESE BBQ MIX AZTECA X180G|8.490
+2024-09-11 00:11:07,023 - src.scrapers.metro - INFO - Product not added: AZTECA|SALSA MEXICANA SUAVE AZTECA X220G|12.590
+2024-09-11 00:11:07,023 - src.scrapers.metro - INFO - Product not added: AZTECA|TORTILLAS AZTECA TOMATE ALBAHACA X8UND X250G|9.180
+2024-09-11 00:11:07,023 - src.scrapers.metro - INFO - Product not added: AZTECA|TORTILLAS AZTECA INTEGRAL X8UND X250G|8.190
+2024-09-11 00:11:07,024 - src.scrapers.metro - INFO - Product not added: AZTECA|SUPER NACHOS AZTECA JALAPENO NO PICANTE X42G C-U PAGUE 6 LLEVE 8|12.850
+2024-09-11 00:11:07,024 - src.scrapers.metro - INFO - Product not added: AZTECA|SOPA INSTANTANEA AJINOMEN CON FIDEOS Y POLLO X80G|2.760
+2024-09-11 00:11:07,024 - src.scrapers.metro - INFO - Product not added: AZTECA|COLOR EL REY BOLSA X55G|1.650
+2024-09-11 00:11:07,024 - src.scrapers.metro - INFO - Product not added: AZTECA|ACEITE FINO GIRASOL X1000ML|20.590
+2024-09-11 00:11:30,453 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|LIGHT YA FRUTOS ROJOS X1L|1.190
+2024-09-11 00:11:30,453 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA X6UND X330ML C-U|19.000
+2024-09-11 00:11:30,453 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|PROTECTOR SOLAR NIVEA SUN PROTECT & LIGHT FEELING FPS50 X50ML|42.290
+2024-09-11 00:11:30,454 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|CERVEZA AGUILA LIGHT LATA X6UND X269ML C-U|12.700
+2024-09-11 00:11:30,455 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|CERVEZA ANDINA LIGHT LATA X6UND X330ML C/U|16.800
+2024-09-11 00:11:30,455 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|CERVEZA ANDINA LIGHT LATA X6UND X269ML C/U|13.200
+2024-09-11 00:11:30,455 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|CHOCOLATE LUKER LIGHT EN CALORIAS X156.2G|16.990
+2024-09-11 00:11:30,455 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|CREMA DE LECHE ALQUERIA LIGHT BOLSA X180G|5.690
+2024-09-11 00:11:30,455 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|COMIDA PARA PERRO DOG CHOW CONTROL DE PESO LIGHT X2KG|40.490
+2024-09-11 00:11:30,456 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|CERVEZA ANDINA LIGHT LATA X330ML|2.890
+2024-09-11 00:11:30,456 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|INSTANTANEO LIGHT YA LIMON X10G|1.190
+2024-09-11 00:11:30,456 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|GELATINA FRUTINO LIGHT FRESA X11G|2.590
+2024-09-11 00:11:30,457 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|SNACK DORITOS MEGAQUESO 200GR|9.490
+2024-09-11 00:11:30,457 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|PECHUGA CON PIEL A GRANEL POLLO CAMPESINO MARINADO X1000G|15.980
+2024-09-11 00:11:30,457 - src.scrapers.metro - INFO - Product not added: BUSCH LIGHT|POLLO ENTERO CAMPESINO MARINADO X2.5KG|32.900
+2024-09-11 00:11:56,211 - src.scrapers.metro - INFO - Product not added: COSTENA|FRIJOLES LA COSTENA NEGROS ENTEROS X 400G|11.390
+2024-09-11 00:11:56,212 - src.scrapers.metro - INFO - Product not added: COSTENA|FRIJOLES LA COSTENA BAYOS REFRITOS X 400G|11.810
+2024-09-11 00:11:56,213 - src.scrapers.metro - INFO - Product not added: COSTENA|FRIJOLES LA COSTENA NEGROS REFRITOS X 400G|12.390
+2024-09-11 00:11:56,213 - src.scrapers.metro - INFO - Product not added: COSTENA|JALAPENOS LA COSTENA X 220G|8.990
+2024-09-11 00:11:56,213 - src.scrapers.metro - INFO - Product not added: COSTENA|SALSA DIP SUAVE X 470G LA COSTENA|19.990
+2024-09-11 00:11:56,214 - src.scrapers.metro - INFO - Product not added: COSTENA|PONQUE GALA BLOQUE VAINILLA X10 TAJADAS X400G|11.700
+2024-09-11 00:11:56,214 - src.scrapers.metro - INFO - Product not added: COSTENA|ACEITE DIANA PREMIUM CANOLA Y GIRASOL X3000ML|51.250
+2024-09-11 00:11:56,215 - src.scrapers.metro - INFO - Product not added: COSTENA|JABON EN BARRA ANTIBACTERIAL PROTEX OMEGA3 110G X3 UNIDADES|12.490
+2024-09-11 00:12:05,909 - src.scrapers.metro - INFO - Product not added: BACANA|PONQUE GALA BLOQUE VAINILLA X10 TAJADAS X400G|11.700
+2024-09-11 00:12:05,909 - src.scrapers.metro - INFO - Product not added: BACANA|ACEITE DIANA PREMIUM CANOLA Y GIRASOL X3000ML|51.250
+2024-09-11 00:12:05,910 - src.scrapers.metro - INFO - Product not added: BACANA|JABON EN BARRA ANTIBACTERIAL PROTEX OMEGA3 110G X3 UNIDADES|12.490
+2024-09-11 00:12:05,910 - src.scrapers.metro - INFO - Jumbo CERVEZA scraped
+2024-09-11 00:12:05,910 - src.scrapers.metro - INFO - Scraping Jumbo OTROS
+2024-09-11 00:12:21,125 - src.scrapers.metro - INFO - Product not added: PONY MALTA|CEPILLO DENTAL ORAL-B PRO 425 DELUXE MEDIO X2UND|11.990
+2024-09-11 00:12:21,126 - src.scrapers.metro - INFO - Product not added: PONY MALTA|CEPILLO DE DIENTES ORAL-B ADVANCED 7 BENEFICIOS SUAVE 5 UNDS|43.400
+2024-09-11 00:12:21,126 - src.scrapers.metro - INFO - Product not added: PONY MALTA|BLANQUEADOR CLOROX ORIGINAL BOTELLA 3.8 LT|17.300
+2024-09-11 00:12:50,147 - src.scrapers.metro - INFO - Product not added: MALTA LEONA|DETERGENTE BLANCOX SIN CLORO ANTIBACTERIAL LIQUIDO X 2 UNIDADES X 1.8 L C-U|27.742
+2024-09-11 00:12:50,147 - src.scrapers.metro - INFO - Product not added: MALTA LEONA|LENTEJA CUISINE&CO X500G|3.590
+2024-09-11 00:12:50,148 - src.scrapers.metro - INFO - Product not added: MALTA LEONA|LASAGNA DORIA X400G|10.890
+2024-09-11 00:13:15,386 - src.scrapers.metro - INFO - Product not added: COLA Y POLA|REFAJO COLA & POLA LATA X6UND X330ML C-U|15.500
+2024-09-11 00:13:15,387 - src.scrapers.metro - INFO - Product not added: COLA Y POLA|REFAJO COLA & POLA LATA X330ML|2.500
+2024-09-11 00:13:15,388 - src.scrapers.metro - INFO - Product not added: COLA Y POLA|REPUESTO INSECTICIDA REPELENTE LIQUIDO CONTRA ZANCUDOS 45 NOCHES RAID X38G|21.990
+2024-09-11 00:13:15,388 - src.scrapers.metro - INFO - Product not added: COLA Y POLA|ABRASIVO BON BRIL REGULAR X2UND|2.790
+2024-09-11 00:13:15,388 - src.scrapers.metro - INFO - Product not added: COLA Y POLA|BEBIDA DE TE MR TEA DE DURAZNO X1.5L|5.530
+2024-09-11 00:13:37,874 - src.scrapers.metro - INFO - Product not added: COLA & POLA|REPUESTO INSECTICIDA REPELENTE LIQUIDO CONTRA ZANCUDOS 45 NOCHES RAID X38G|21.990
+2024-09-11 00:13:37,875 - src.scrapers.metro - INFO - Product not added: COLA & POLA|ABRASIVO BON BRIL REGULAR X2UND|2.790
+2024-09-11 00:13:37,875 - src.scrapers.metro - INFO - Product not added: COLA & POLA|BEBIDA DE TE MR TEA DE DURAZNO X1.5L|5.530
+2024-09-11 00:14:05,485 - src.scrapers.metro - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X6 UNIDADES X200ML|8.350
+2024-09-11 00:14:05,485 - src.scrapers.metro - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X1.5L|5.060
+2024-09-11 00:14:05,485 - src.scrapers.metro - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X1L|3.950
+2024-09-11 00:14:05,486 - src.scrapers.metro - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X6 UNIDADES X330ML|13.790
+2024-09-11 00:14:05,486 - src.scrapers.metro - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X2L|6.090
+2024-09-11 00:14:05,486 - src.scrapers.metro - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X30UND X200ML C-U|41.760
+2024-09-11 00:14:05,487 - src.scrapers.metro - INFO - Product not added: NATU MALTA|BEBIDA MALTA LEONA BOTELLA PET X6UND X400ML C-U|8.900
+2024-09-11 00:14:05,487 - src.scrapers.metro - INFO - Product not added: NATU MALTA|MALTA PONY MALTA GO BOTELLA PET 200ML X6|9.090
+2024-09-11 00:14:05,487 - src.scrapers.metro - INFO - Product not added: NATU MALTA|MALTA PONY MALTA BOTELLA PET X200ML|1.490
+2024-09-11 00:14:05,487 - src.scrapers.metro - INFO - Product not added: NATU MALTA|MALTA PONY MALTA GO BOTELLA PET 200ML X1|1.590
+2024-09-11 00:14:05,488 - src.scrapers.metro - INFO - Product not added: NATU MALTA|JUGO HIT PAGUE 5 LLEVE 6 X200ML|6.800
+2024-09-11 00:14:05,488 - src.scrapers.metro - INFO - Product not added: NATU MALTA|JUGO HIT SURTIDO BRICK X200ML PAGUE 10 LLEVE 12|13.600
+2024-09-11 00:14:05,488 - src.scrapers.metro - INFO - Product not added: NATU MALTA|CEPILLO DENTAL ORAL-B PRO 425 DELUXE MEDIO X2UND|11.990
+2024-09-11 00:14:05,488 - src.scrapers.metro - INFO - Product not added: NATU MALTA|CEPILLO DE DIENTES ORAL-B ADVANCED 7 BENEFICIOS SUAVE 5 UNDS|43.400
+2024-09-11 00:14:05,489 - src.scrapers.metro - INFO - Product not added: NATU MALTA|BLANQUEADOR CLOROX ORIGINAL BOTELLA 3.8 LT|17.300
+2024-09-11 00:14:05,489 - src.scrapers.metro - INFO - Jumbo OTROS scraped
+2024-09-11 00:14:07,761 - settings.settings - INFO - Finished
+2024-09-11 00:44:34,638 - WDM - INFO - ====== WebDriver manager ======
+2024-09-11 00:44:35,268 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-11 00:44:35,299 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-09-11 00:44:35,327 - WDM - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\128.0.6613.137\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-11 00:44:36,361 - src.scrapers.rappi - INFO - Scraping Rappi CERVEZA
+2024-09-11 00:44:55,844 - src.scrapers.rappi - ERROR - Error finding element AGUILA: 'NoneType' object has no attribute 'text'
+2024-09-11 00:45:15,144 - src.scrapers.rappi - ERROR - Error finding element AUSTEN: 'NoneType' object has no attribute 'text'
+2024-09-11 00:45:34,439 - src.scrapers.rappi - ERROR - Error finding element AZTECA: 'NoneType' object has no attribute 'text'
+2024-09-11 00:45:53,649 - src.scrapers.rappi - ERROR - Error finding element BUSCH LIGHT: 'NoneType' object has no attribute 'text'
+2024-09-11 00:46:13,400 - src.scrapers.rappi - ERROR - Error finding element COSTEÑA: 'NoneType' object has no attribute 'text'
+2024-09-11 00:46:33,462 - src.scrapers.rappi - ERROR - Error finding element BACANA: 'NoneType' object has no attribute 'text'
+2024-09-11 00:46:33,462 - src.scrapers.rappi - INFO - Rappi CERVEZA scraped
+2024-09-11 00:46:33,462 - src.scrapers.rappi - INFO - Scraping Rappi OTROS
+2024-09-11 00:46:52,288 - src.scrapers.rappi - ERROR - Error finding element PONY MALTA: 'NoneType' object has no attribute 'text'
+2024-09-11 00:47:11,864 - src.scrapers.rappi - ERROR - Error finding element MALTA LEONA: 'NoneType' object has no attribute 'text'
+2024-09-11 00:47:31,066 - src.scrapers.rappi - ERROR - Error finding element COLA Y POLA: 'NoneType' object has no attribute 'text'
+2024-09-11 00:47:50,220 - src.scrapers.rappi - ERROR - Error finding element COLA & POLA: 'NoneType' object has no attribute 'text'
+2024-09-11 00:48:09,300 - src.scrapers.rappi - ERROR - Error finding element NATU MALTA: 'NoneType' object has no attribute 'text'
+2024-09-11 00:48:09,301 - src.scrapers.rappi - INFO - Rappi OTROS scraped
+2024-09-11 00:48:11,446 - settings.settings - INFO - Finished
