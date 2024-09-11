@@ -1,44 +1,58 @@
+import logging
 import time
-from pathlib import Path
+import re
 
+from src.utils import remove_accents
+from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as ec
 
 
-def scraper(driver, brands, url):
+logger = logging.getLogger(__name__)
 
-    elements = ''
+
+def scraper(driver, brands, brand_type, url):
+    logger.info(f"Scraping Makro {brand_type}")
+    brands = brands[brand_type]
+    data = []
     for coproduct in brands:
 
         driver.get(url.format(prod=coproduct))
-
-        # maximiza la ventana
-        #driver.maximize_window()
-
-        # Realiza un pequeño scroll y regresa a su posicion para que carguen los productos
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(2)
         driver.execute_script("window.scrollTo(0, 0);")
 
-        # reduce el tamaño del texto o zoom al 20%
         driver.execute_script('document.body.style.zoom = 0.55')
-        # Elimina el modal
-        time.sleep(5)
+        time.sleep(4)
 
         try:
-            time.sleep(2)
-            elements += driver.find_element(
-                By.XPATH,
-                '/html/body/div/div/div[2]/div/div/div/div/div[2]/div[2]/div[3]/div[1]/div'
-            ).text.replace("\n", " | ").replace("Agregar | ", "\n").replace("Nacionales | ", "")
-        except:
-            time.sleep(5)
-            elements += driver.find_element(
-                By.XPATH,
-                '/html/body/div/div/div[2]/div/div/div'
-            ).text.replace("\n", " | ").replace("Agregar | ", "\n")
-        elements += '\n'
-        wait = WebDriverWait(driver, 5)
+            WebDriverWait(
+                driver,
+                10
+            ).until(
+                ec.presence_of_element_located((By.CSS_SELECTOR, '.products-container'))
+            )
+            html_content = driver.page_source
+            soup = BeautifulSoup(html_content, 'html.parser')
+            elements = soup.find_all('div', class_=re.compile("general__content"))
+            for i in elements:
+                brand = coproduct.replace('Ñ', 'N')
+                description = remove_accents(i.find('p', class_=re.compile("prod__name")).text.strip()).upper()
+                price = i.find('p', class_=re.compile("base__price")).text[1:]
+                row = '|'.join([brand, description, price])
+                if brand_type == 'CERVEZA':
+                    flag = all([i in description for i in [brand_type, *brand.split(' ')]])
+                else:
+                    flag = all([i in description for i in brand.split(' ')])
+                if not flag:
+                    logger.info(f'Product not added: {row}')
+                    continue
+                if row not in data:
+                    data.append(row)
+        except Exception as e:
+            logger.error(f"Error finding element {coproduct}: {e}")
+            continue
 
-    print('Makro scraped')
-    return elements
+        logger.info(f'Makro {brand_type} scraped')
+        return data

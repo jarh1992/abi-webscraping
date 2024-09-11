@@ -1,44 +1,58 @@
-import time
-from pathlib import Path
 import logging
+import time
+import re
 
+from src.utils import remove_accents
+from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support import expected_conditions as ec
+
 
 logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
 
 
-def scraper(driver, brands, url):
-
-    elements = ''
+def scraper(driver, brands, brand_type, url):
+    logger.info(f"Scraping Olimpica {brand_type}")
+    brands = brands[brand_type]
+    data = []
     for coproduct in brands:
-        logger.info(f'Scraping {coproduct}')
+
         driver.get(url.format(prod=coproduct))
-
-        # maximiza la ventana
-        #driver.maximize_window()
-
-        # Realiza un pequeño scroll y regresa a su posición para que carguen los productos
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(2)
         driver.execute_script("window.scrollTo(0, 0);")
 
-        # reduce el tamaño del texto o zoom al 20%
         driver.execute_script('document.body.style.zoom = 0.55')
-        # Elimina el modal
         time.sleep(4)
 
         try:
-            # Espera hasta que el elemento esté presente
-            elements += WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.XPATH, '//*[@id="gallery-layout-container"]'))
-            ).text.replace("\n", " | ").replace("| Agregar |", "\n")
-            elements += '\n'
+            WebDriverWait(
+                driver,
+                10
+            ).until(
+                ec.presence_of_element_located((By.XPATH, '//*[@id="gallery-layout-container"]'))
+            )
+            html_content = driver.page_source
+            soup = BeautifulSoup(html_content, 'html.parser')
+            elements = soup.find_all('article', class_=re.compile("vtex-product-summary-2-x-element"))
+            for i in elements:
+                brand = coproduct.replace('Ñ', 'N')
+                description = remove_accents(i.find('span', class_=re.compile("productBrand$")).text.strip()).upper()
+                price = i.find('span', class_=re.compile("olimpica-dinamic-flags-0-x-currencyContainer")).text[2:]
+                row = '|'.join([brand, description, price])
+                if brand_type == 'CERVEZA':
+                    flag = all([i in description for i in [brand_type, *brand.split(' ')]])
+                else:
+                    flag = all([i in description for i in brand.split(' ')])
+                if not flag:
+                    logger.info(f'Product not added: {row}')
+                    continue
+                if row not in data:
+                    data.append(row)
         except Exception as e:
-            print(f"Error finding element: {e}")
+            logger.error(f"Error finding element {coproduct}: {e}")
             continue
 
-    print('Olimpica scraped')
-    return elements
+    logger.info(f'Olimpica {brand_type} scraped')
+    return data
