@@ -1,3 +1,5 @@
+from datetime import datetime
+
 import unicodedata
 from azure.storage.blob import ContentSettings
 from pathlib import Path
@@ -20,13 +22,15 @@ def upload_blob_file(storage_sas_url: str, dst_folder: str, file_path: Path):
     account_url = url.scheme + "://" + url.netloc + "/"
     container_name = url.path[1:] if url.path[0] == '/' else url.path
     query_string = url.query
-    file_name = file_path.stem
+
+    dt = datetime.now()
+    file_name = dt.strftime(f'{file_path.stem}_%Y%m%d')
     file_ext = file_path.suffix
     content_type_string = ContentSettings(content_type=mimetypes.types_map[file_ext]) if file_ext else None
-    with open(file_path, 'rb') as fh:
+    with open(file_path, 'rb') as data:
         response = requests.put(
-            account_url + container_name + '/' + dst_folder + '/' + file_name + '?' + query_string,
-            data=fh,
+            account_url + container_name + '/' + dst_folder + file_name + '?' + query_string,
+            data=data,
             headers={
                 'content-type': content_type_string.content_type,
                 'x-ms-blob-type': 'BlockBlob'
