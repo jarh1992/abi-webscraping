@@ -1,4 +1,10 @@
-from settings.settings import BASE_DIR, logger
+from settings.settings import (
+    logger,
+    sas_url,
+    dest_folder,
+    output_folder
+)
+from src.utils import upload_blob_file
 from input.store_info import STORES, BRANDS
 import argparse
 from selenium import webdriver
@@ -22,7 +28,7 @@ def main():
             data = st.scraper(driver, BRANDS, 'CERVEZA', st.url)
             data += st.scraper(driver, BRANDS, 'OTROS', st.url)
             data = '\n'.join(data)
-            file_path = BASE_DIR / f'output/{st.store_name}_products_out.txt'
+            file_path = output_folder / f'{st.store_name}_products_out.txt'
             with file_path.open(mode='w', encoding='utf8') as file:
                 file.write(data)
     else:
@@ -31,13 +37,18 @@ def main():
             data = st.scraper(driver, BRANDS, 'CERVEZA', st.url)
             data += st.scraper(driver, BRANDS, 'OTROS', st.url)
             data = '\n'.join(data)
-            file_path = BASE_DIR / f'output/{args.store}_products_out.txt'
+            file_path = output_folder / f'{args.store}_products_out.txt'
             with file_path.open(mode='w', encoding='utf8') as file:
                 file.write(data)
         else:
             logger.error("Invalid store")
     driver.quit()
-    logger.info("Finished")
+    logger.info("Scraping completed")
+
+    for f in output_folder.glob('*.txt'):
+        r = upload_blob_file(sas_url, dest_folder, f)
+        # 201 status is success.
+        logger.info(f"Upload Status : {r}")
 
 
 if __name__ == "__main__":

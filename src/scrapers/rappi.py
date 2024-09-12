@@ -39,8 +39,8 @@ def scraper(driver, brands, brand_type, url):
             elements = soup.find_all('div', {'data-qa': re.compile("product-item")})
             for i in elements:
                 brand = coproduct.replace('Ñ', 'N')
-                description = remove_accents(i.find('span', {'data-qa': 'product-name'}).text.strip()).upper()
-                price = i.find('div', {'data-qa': 'product-price'}).text[2:]
+                description = remove_accents(i.find('h3', {'data-qa': re.compile('product-name')}).text.strip()).upper()
+                price = i.find('span', {'data-qa': re.compile('product-price')}).text[2:]
                 row = '|'.join([brand, description, price])
                 if brand_type == 'CERVEZA':
                     flag = all([i in description for i in [brand_type, *brand.split(' ')]])

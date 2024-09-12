@@ -1,10 +1,15 @@
-import json
+import os
 from datetime import datetime
+from dotenv import load_dotenv
 from pathlib import Path
+import json
+import logging
 import sys
+
+
+load_dotenv(override=True)
 BASE_DIR = Path(__file__).resolve().parent.parent
 sys.path.append(BASE_DIR.as_posix())
-import logging
 
 
 # Define the log file path
@@ -24,3 +29,8 @@ logging.basicConfig(
 
 # Create a logger object that can be imported and used in other files
 logger = logging.getLogger(__name__)
+
+# Set vars to send files to azure blob storage
+sas_url = os.getenv('STORAGE_SAS_URL')
+dest_folder = os.getenv('STORAGE_DEST_FOLDER')
+output_folder = BASE_DIR / 'output'
