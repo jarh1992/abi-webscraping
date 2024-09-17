@@ -25,7 +25,6 @@ def scraper(driver, brands, brand_type, url):
 
         driver.execute_script('document.body.style.zoom = 0.55')
         time.sleep(4)
-
         try:
             WebDriverWait(
                 driver,
@@ -54,5 +53,5 @@ def scraper(driver, brands, brand_type, url):
             logger.error(f"Error finding element {coproduct}: {e}")
             continue
 
-        logger.info(f'Makro {brand_type} scraped')
-        return data
+    logger.info(f'Makro {brand_type} scraped')
+    return data
