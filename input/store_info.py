@@ -50,6 +50,6 @@ STORES = {
     )
 }
 
-brand_input = Path(BASE_DIR / "input/brands_test.json")
+brand_input = Path(BASE_DIR / "input/brands.json")
 with brand_input.open(encoding='utf8') as f:
     BRANDS = json.load(f)
