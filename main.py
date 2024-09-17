@@ -4,6 +4,7 @@ from settings.settings import (
     logger,
     sas_url,
     dest_folder,
+    dest_hist_folder,
     output_folder
 )
 from src.utils import upload_blob_file
@@ -24,41 +25,49 @@ def main():
     args = parser.parse_args()
 
     dt = datetime.now()
-    chrome_options = Options()
-    chrome_options.add_argument("--headless=new")
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
-    if args.store == "all":
-        for st in STORES.values():
-            data = st.scraper(driver, BRANDS, 'CERVEZA', st.url)
-            data += st.scraper(driver, BRANDS, 'OTROS', st.url)
-            data = '\n'.join(data)
-            file_path = output_folder / dt.strftime(f'{st.name}_products_%Y%m%d.txt')
-            with file_path.open(mode='w', encoding='utf8') as file:
-                file.write(data)
-    else:
-        logger.info(f"Running scraping process to a single store")
-        if args.store in STORES:
-            st = STORES[args.store]
-            data = st.scraper(driver, BRANDS, 'CERVEZA', st.url)
-            data += st.scraper(driver, BRANDS, 'OTROS', st.url)
-            data = '\n'.join(data)
-            file_path = output_folder / dt.strftime(f'{st.name}_products_%Y%m%d.txt')
-            with file_path.open(mode='w', encoding='utf8') as file:
-                file.write(data)
-        else:
-            logger.error("Invalid store")
-
-    driver.quit()
-    logger.info("Scraping completed")
+    # chrome_options = Options()
+    # chrome_options.add_argument("--headless=new")
+    # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+    # if args.store == "all":
+    #     for st in STORES.values():
+    #         data = st.scraper(driver, BRANDS, 'CERVEZA', st.url)
+    #         data += st.scraper(driver, BRANDS, 'OTROS', st.url)
+    #         data = '\n'.join(data)
+    #         file_path = output_folder / f'{st.name}_products.txt'
+    #         file_hist_path = output_folder / dt.strftime(f'{st.name}_products_%Y%m%d.txt')
+    #         with (file_path.open(mode='w', encoding='utf8') as file,
+    #               file_hist_path.open(mode='w', encoding='utf8') as hist):
+    #             file.write(data)
+    #             hist.write(data)
+    #
+    # else:
+    #     logger.info(f"Running scraping process to a single store")
+    #     if args.store in STORES:
+    #         st = STORES[args.store]
+    #         data = st.scraper(driver, BRANDS, 'CERVEZA', st.url)
+    #         data += st.scraper(driver, BRANDS, 'OTROS', st.url)
+    #         data = '\n'.join(data)
+    #         file_path = output_folder / f'{st.name}_products.txt'
+    #         file_hist_path = output_folder / dt.strftime(f'{st.name}_products_%Y%m%d.txt')
+    #         with (file_path.open(mode='w', encoding='utf8') as file,
+    #               file_hist_path.open(mode='w', encoding='utf8') as hist):
+    #             file.write(data)
+    #             hist.write(data)
+    #     else:
+    #         logger.error("Invalid store")
+    #
+    # driver.quit()
+    # logger.info("Scraping completed")
 
     if not args.not_send:
-        for file in output_folder.glob('*.txt'):
-            if not dt.strftime("%Y%m%d") in file.name:
-                continue
-            logger.info(f"Uploading file: {file.stem}")
+        for file in output_folder.glob('*products.txt'):
+            hist_file = file.parent / f'{file.stem}_{dt.strftime("%Y%m%d")}{file.suffix}'
+            logger.info(f"Uploading files: {file.name} - {hist_file.name}")
+            r = upload_blob_file(sas_url, dest_hist_folder, hist_file)
+            logger.info(f"Upload historic file status: {r}")
             r = upload_blob_file(sas_url, dest_folder, file)
+            logger.info(f"Upload file status: {r}")
             # 201 status is success.
-            logger.info(f"Upload Status: {r}")
         logger.info(f"Scraping completed - Files sent")
     else:
         logger.info(f"Scraping completed - Files not sent")
