@@ -23,8 +23,7 @@ def upload_blob_file(storage_sas_url: str, dst_folder: str, file_path: Path):
     container_name = url.path[1:] if url.path[0] == '/' else url.path
     query_string = url.query
 
-    dt = datetime.now()
-    file_name = dt.strftime(f'{file_path.stem}_%Y%m%d')
+    file_name = file_path.name
     file_ext = file_path.suffix
     content_type_string = ContentSettings(content_type=mimetypes.types_map[file_ext]) if file_ext else None
     with open(file_path, 'rb') as data:
