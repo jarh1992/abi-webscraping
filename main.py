@@ -19,7 +19,8 @@ def main():
     str_stores = "\n".join([f"- {f}" for f in STORES.keys()])
     description = f"Run scraper for all stores:\n{str_stores}"
     parser = argparse.ArgumentParser(description=description, formatter_class=argparse.RawTextHelpFormatter)
-    parser.add_argument('--store', type=str, help="Store name", default="all")
+    parser.add_argument('-st', '--store', type=str, help="Store name", default="all")
+    parser.add_argument('-ns', '--not-send', action='store_true', help="Don't send files")
     args = parser.parse_args()
 
     dt = datetime.now()
@@ -35,6 +36,7 @@ def main():
             with file_path.open(mode='w', encoding='utf8') as file:
                 file.write(data)
     else:
+        logger.info(f"Running scraping process to a single store")
         if args.store in STORES:
             st = STORES[args.store]
             data = st.scraper(driver, BRANDS, 'CERVEZA', st.url)
@@ -49,10 +51,17 @@ def main():
     driver.quit()
     logger.info("Scraping completed")
 
-    for file in output_folder.glob('*.txt'):
-        r = upload_blob_file(sas_url, dest_folder, file)
-        # 201 status is success.
-        logger.info(f"Upload Status : {r}")
+    if not args.not_send:
+        for file in output_folder.glob('*.txt'):
+            if not dt.strftime("%Y%m%d") in file.name:
+                continue
+            logger.info(f"Uploading file: {file.stem}")
+            r = upload_blob_file(sas_url, dest_folder, file)
+            # 201 status is success.
+            logger.info(f"Upload Status: {r}")
+        logger.info(f"Scraping completed - Files sent")
+    else:
+        logger.info(f"Scraping completed - Files not sent")
 
 
 if __name__ == "__main__":
