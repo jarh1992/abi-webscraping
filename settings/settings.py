@@ -33,4 +33,5 @@ logger = logging.getLogger(__name__)
 # Set vars to send files to azure blob storage
 sas_url = os.getenv('STORAGE_SAS_URL')
 dest_folder = os.getenv('STORAGE_DEST_FOLDER')
+dest_hist_folder = os.getenv('STORAGE_DEST_FOLDER_HIST')
 output_folder = BASE_DIR / 'output'
