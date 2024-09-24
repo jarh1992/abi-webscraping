@@ -33,8 +33,8 @@ def main():
             data = st.scraper(driver, BRANDS, 'CERVEZA', st.url)
             data += st.scraper(driver, BRANDS, 'OTROS', st.url)
             data = '\n'.join(data)
-            file_path = output_folder / f'{st.name}_products.txt'
-            file_hist_path = output_folder / dt.strftime(f'{st.name}_products_%Y%m%d.txt')
+            file_path = output_folder / f'{st.name}_products.csv'
+            file_hist_path = output_folder / dt.strftime(f'{st.name}_products_%Y%m%d.csv')
             with (file_path.open(mode='w', encoding='utf8') as file,
                   file_hist_path.open(mode='w', encoding='utf8') as hist):
                 file.write(data)
@@ -47,8 +47,8 @@ def main():
             data = st.scraper(driver, BRANDS, 'CERVEZA', st.url)
             data += st.scraper(driver, BRANDS, 'OTROS', st.url)
             data = '\n'.join(data)
-            file_path = output_folder / f'{st.name}_products.txt'
-            file_hist_path = output_folder / dt.strftime(f'{st.name}_products_%Y%m%d.txt')
+            file_path = output_folder / f'{st.name}_products.csv'
+            file_hist_path = output_folder / dt.strftime(f'{st.name}_products_%Y%m%d.csv')
             with (file_path.open(mode='w', encoding='utf8') as file,
                   file_hist_path.open(mode='w', encoding='utf8') as hist):
                 file.write(data)
@@ -60,7 +60,7 @@ def main():
     logger.info("Scraping completed")
 
     if not args.not_send:
-        for file in output_folder.glob('*products.txt'):
+        for file in output_folder.glob('*products.csv'):
             hist_file = file.parent / f'{file.stem}_{dt.strftime("%Y%m%d")}{file.suffix}'
             logger.info(f"Uploading files: {file.name} - {hist_file.name}")
             r = upload_blob_file(sas_url, dest_hist_folder, hist_file)
