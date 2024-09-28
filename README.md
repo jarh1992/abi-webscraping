@@ -62,7 +62,7 @@ del aplicativo:
     comercios.
   - **scrapers**: Scripts que realizan el scraping y el formateo de los datos recolectados **por cada comercio** a 
   inspeccionar.
-  - **[utils.py](src/utils.py)utils.py**: Contiene **funciones** para **normalizar la información recolectada** y para **enviar datos a Azure
+  - **[utils.py](src/utils.py)**: Contiene **funciones** para **normalizar la información recolectada** y para **enviar datos a Azure
   Blob Storage**.
 - **README.md**: El presente archivo de documentación.
 - **[main.py](main.py)**: Script principal de la aplicación.
