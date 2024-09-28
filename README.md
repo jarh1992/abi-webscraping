@@ -58,11 +58,11 @@ del aplicativo:
     - Configurar sistema de logs.
 - **src**: Contiene el código fuente entre las siguientes carpetas:
   - **models**
-    - **models.py**: Contiene el modelo/clase principal _Stores_, para organizar la información principal de los
+    - **[models.py](src/models/models.py)**: Contiene el modelo/clase principal _Stores_, para organizar la información principal de los
     comercios.
   - **scrapers**: Scripts que realizan el scraping y el formateo de los datos recolectados **por cada comercio** a 
   inspeccionar.
-  - **utils.py**: Contiene **funciones** para **normalizar la información recolectada** y para **enviar datos a Azure
+  - **[utils.py](src/utils.py)utils.py**: Contiene **funciones** para **normalizar la información recolectada** y para **enviar datos a Azure
   Blob Storage**.
 - **README.md**: El presente archivo de documentación.
 - **[main.py](main.py)**: Script principal de la aplicación.
