@@ -14,6 +14,7 @@ sys.path.append(BASE_DIR.as_posix())
 
 # Define the log file path
 LOGS_DIR = BASE_DIR / 'logs'
+LOGS_DIR.mkdir(parents=True, exist_ok=True)
 LOG_FILE = LOGS_DIR / datetime.today().strftime("app_%Y%m%d.log")
 LOGS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -35,3 +36,4 @@ sas_url = os.getenv('STORAGE_SAS_URL')
 dest_folder = os.getenv('STORAGE_DEST_FOLDER')
 dest_hist_folder = os.getenv('STORAGE_DEST_FOLDER_HIST')
 output_folder = BASE_DIR / 'output'
+output_folder.mkdir(parents=True, exist_ok=True)
