@@ -5,10 +5,11 @@ from settings.settings import (
     sas_url,
     dest_folder,
     dest_hist_folder,
-    output_folder
+    output_folder,
+    BRANDS
 )
 from src.utils import upload_blob_file
-from input.store_info import STORES, BRANDS
+from src.store_info import stores
 import argparse
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -17,7 +18,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 
 def main():
-    str_stores = "\n".join([f"- {f}" for f in STORES.keys()])
+    str_stores = "\n".join([f"- {f}" for f in stores.keys()])
     description = f"Run scraper for all stores:\n{str_stores}"
     parser = argparse.ArgumentParser(description=description, formatter_class=argparse.RawTextHelpFormatter)
     parser.add_argument('-st', '--store', type=str, help="Store name", default="all")
@@ -28,8 +29,9 @@ def main():
     chrome_options = Options()
     chrome_options.add_argument("--headless=new")
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+    file_header = "MARCA|PRODUCTO|PRECIO\n"
     if args.store == "all":
-        for st in STORES.values():
+        for st in stores.values():
             data = st.scraper(driver, BRANDS, 'CERVEZA', st.url)
             data += st.scraper(driver, BRANDS, 'OTROS', st.url)
             data = '\n'.join(data)
@@ -37,13 +39,15 @@ def main():
             file_hist_path = output_folder / dt.strftime(f'{st.name}_products_%Y%m%d.csv')
             with (file_path.open(mode='w', encoding='utf8') as file,
                   file_hist_path.open(mode='w', encoding='utf8') as hist):
+                file.write(file_header)
                 file.write(data)
+                hist.write(file_header)
                 hist.write(data)
 
     else:
         logger.info(f"Running scraping process to a single store")
-        if args.store in STORES:
-            st = STORES[args.store]
+        if args.store in stores:
+            st = stores[args.store]
             data = st.scraper(driver, BRANDS, 'CERVEZA', st.url)
             data += st.scraper(driver, BRANDS, 'OTROS', st.url)
             data = '\n'.join(data)
@@ -51,7 +55,9 @@ def main():
             file_hist_path = output_folder / dt.strftime(f'{st.name}_products_%Y%m%d.csv')
             with (file_path.open(mode='w', encoding='utf8') as file,
                   file_hist_path.open(mode='w', encoding='utf8') as hist):
+                file.write(file_header)
                 file.write(data)
+                hist.write(file_header)
                 hist.write(data)
         else:
             logger.error("Invalid store")
