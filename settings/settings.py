@@ -37,3 +37,6 @@ dest_folder = os.getenv('STORAGE_DEST_FOLDER')
 dest_hist_folder = os.getenv('STORAGE_DEST_FOLDER_HIST')
 output_folder = BASE_DIR / 'output'
 output_folder.mkdir(parents=True, exist_ok=True)
+brand_input = Path(BASE_DIR / "input/brands_test.json")
+with brand_input.open(encoding='utf8') as f:
+    BRANDS = json.load(f)
