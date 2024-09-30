@@ -32,6 +32,8 @@ abi-webscraping
 │	 │	 └── rappi.py
 │	 ├── store_info.py
 │	 └── utils.py
+├── .env
+├── .gitignore
 ├── main.py
 ├── README.md
 └── requirements.txt
@@ -64,12 +66,12 @@ del aplicativo:
   estructura es basada en la clase **Store** ubicada en el archivo **[models.py](src/models/models.py)**.
   - **[utils.py](src/utils.py)**: Contiene **funciones** para **normalizar la información recolectada** y para **enviar datos a Azure
   Blob Storage**.
-- **README.md**: El presente archivo de documentación.
-- **[main.py](main.py)**: Script principal de la aplicación.
 - **[.env](.env)**: Archivo con las variables de entorno (credenciales para enviar datos a Azure Blob Storage) 
 necesarias para la ejecución de la aplicación. **DEBE SER CREADO MANUALMENTE y NO SE PUEDE SUBIR AL REPOSITORIO** como
 lo establece el archivo **[.gitignore](.gitignore)**.
 - **[.gitignore](.gitignore)**: Archivo git con la lista de folders/archivos que no deben ser subidos al repositorio.
+- **[main.py](main.py)**: Script principal de la aplicación.
+- **README.md**: El presente archivo de documentación.
 - **[requirements.txt](requirements.txt)**: Archivo con la lista de librerias requeridas para el funcionamiento de la aplicación.
 
 ## Despliegue
