@@ -96,6 +96,13 @@ Windows
 pip install -r requirements.txt
 ````
 
+4. Crear archivo **.env** y agregarle el contenido requerido
+````text
+STORAGE_SAS_URL=https://<url>
+STORAGE_DEST_FOLDER=<azure_blob_storage_path>
+STORAGE_DEST_FOLDER_HIST=<azure_blob_storage_path>
+````
+
 ## Ejecución
 Ubicarse en la raíz de la aplicación y luego:
 - Ejecutar el scraper en todos los comercios:
