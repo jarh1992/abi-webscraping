@@ -1,7 +1,3 @@
-import json
-from pathlib import Path
-from settings.settings import BASE_DIR
-
 from src.models.models import Store
 from src.scrapers.carulla import scraper as carulla_scraper
 from src.scrapers.exito import scraper as exito_scraper
@@ -12,7 +8,7 @@ from src.scrapers.olimpica import scraper as olimpica_scraper
 from src.scrapers.rappi import scraper as rappi_scraper
 
 
-STORES = {
+stores = {
     "carulla": Store(
         'carulla',
         'https://www.carulla.com/{prod}?_q={prod}&map=ft',
@@ -49,7 +45,3 @@ STORES = {
         rappi_scraper
     )
 }
-
-brand_input = Path(BASE_DIR / "input/brands.json")
-with brand_input.open(encoding='utf8') as f:
-    BRANDS = json.load(f)
