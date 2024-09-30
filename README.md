@@ -11,8 +11,7 @@ abi-webscraping
 │	 └── Seguimiento web scrapping.entregables.xlsx
 ├── input
 │	 ├── brands.json
-│	 ├── brands_test.json
-│	 └── store_info.py
+│	 └── brands_test.json
 ├── logs
 │	 └── app_20240926.log
 ├── output
@@ -31,6 +30,7 @@ abi-webscraping
 │	 │	 ├── metro.py
 │	 │	 ├── olimpica.py
 │	 │	 └── rappi.py
+│	 ├── store_info.py
 │	 └── utils.py
 ├── main.py
 ├── README.md
@@ -42,12 +42,9 @@ abi-webscraping
 del aplicativo:
   - **[brands.json](input/brands.json)**: Contiene el nombre de los productos/marcas organizados según dos tipos: cerveza
   y otros. **Nuevos productos/marcas** deben ser agregados en mayúsculas y entre comillas dobles. Estos pueden incluir
-  tildes o 'Ñ'. Este archivo es invocado en **[store_info.py](input/store_info.py)**, línea 53.
-  - **[store_info.py](input/store_info.py)**: En este archivo son organizados como estructuras de datos (Clases) los
-  comercios. **Nuevos comercios** deben ser agregados siguiendo la estructura encontrada en este mismo archivo; la
-  estructura es basada en la clase **Store** ubicada en el archivo **[models.py](src/models/models.py)**.
+  tildes o 'Ñ'. Este archivo es invocado en **[store_info.py](src/store_info.py)**, línea 53.
   - **[brands_test.json](input/brands_test.json)**: Archivo similar a **[brands.json](input/brands.json)**, pero para realizar
-  pruebas cortas. Este archivo puede ser invocado en **[store_info.py](input/store_info.py)**, línea 53.
+  pruebas cortas. Este archivo puede ser invocado en **[store_info.py](src/store_info.py)**, línea 53.
 - **logs**: Contiene los logs generados en la ejecución de los scrapers de cada comercio. Pueden ser configurados
   desde el archivo **[settings.json](settings/settings.py)**.
 - **output**: Aquí se guardan los CSV con la información obtenida de los comercios.
@@ -62,6 +59,9 @@ del aplicativo:
     comercios.
   - **scrapers**: Scripts que realizan el scraping y el formateo de los datos recolectados **por cada comercio** a 
   inspeccionar.
+  - **[store_info.py](src/store_info.py)**: En este archivo son organizados como estructuras de datos (Clases) los
+  comercios. **Nuevos comercios** deben ser agregados siguiendo la estructura encontrada en este mismo archivo; la
+  estructura es basada en la clase **Store** ubicada en el archivo **[models.py](src/models/models.py)**.
   - **[utils.py](src/utils.py)**: Contiene **funciones** para **normalizar la información recolectada** y para **enviar datos a Azure
   Blob Storage**.
 - **README.md**: El presente archivo de documentación.
