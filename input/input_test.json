@@ -1,17 +1,22 @@
 {
-  "CERVEZA": [
-    "AGUILA",
-    "AUSTEN",
-    "AZTECA",
-    "BUSCH LIGHT",
-    "COSTEÑA",
-    "BACANA"
-  ],
-  "OTROS": [
-    "PONY MALTA",
-    "MALTA LEONA",
-    "COLA Y POLA",
-    "COLA & POLA",
-    "NATU MALTA"
-  ]
+  "STORES": {
+    "CARULLA": {
+      "URL": "https://www.carulla.com/{prod}?_q={prod}&map=ft",
+      "LOCATIONS": {
+        "BOGOTA BOGOTÁ": ["alhambra", "calle 102", "calle 140"],
+        "ANTIOQUIA MEDELLÍN":  ["laureles", "oviedo", "lucas"]
+      }
+    }
+  },
+  "BRANDS": {
+    "CERVEZA": [
+      "AGUILA",
+      "COSTEÑA",
+      "POKER",
+      "BBC"
+    ],
+    "OTROS": [
+      "PONY MALTA", "MALTA LEONA"
+    ]
+  }
 }

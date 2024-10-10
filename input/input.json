@@ -1,40 +1,106 @@
 {
-  "CERVEZA": [
-    "AGUILA",
-    "AUSTEN",
-    "AZTECA",
-    "BUSCH LIGHT",
-    "COSTEÑA",
-    "BACANA",
-    "COSTEÑITA",
-    "PILSEN",
-    "POKER",
-    "REDDS",
-    "CLUB COLOMBIA",
-    "BUDWEISER",
-    "CORONA",
-    "CORONITA",
-    "STELLA",
-    "MICHELOB",
-    "MODELO",
-    "BECKS",
-    "BBC",
-    "BOGOTA BEER COMPANY",
-    "ANDINA",
-    "TECATE",
-    "MILLER",
-    "PRIMA",
-    "CENTRAL",
-    "HEINEKEN",
-    "SOL",
-    "TRES CORDILLERAS",
-    "3 CORDILLERAS"
-  ],
-  "OTROS": [
-    "PONY MALTA",
-    "MALTA LEONA",
-    "COLA Y POLA",
-    "COLA & POLA",
-    "NATU MALTA"
-  ]
+  "STORES": {
+    "CARULLA": {
+      "URL": "https://www.carulla.com/{prod}? q={prod}&map=ft",
+      "LOCATIONS": {
+        "BOGOTÁ BOGOTÁ": ["alhambra", "calle 102", "calle 140", "calle 63", "country", "el retiro", "galerias",
+          "niza", "pepe sierra", "plaza claro", "quinta", "colina"],
+        "ANTIOQUIA MEDELLÍN": ["laureles", "oviedo", "lucas", "palmas"],
+        "VALLE_DEL_CAUCA CALI": ["pance", "fernando"],
+        "ATLANTICO BARANQUILLA": ["82", "mall"],
+        "BOLIVAR CARTAGENA": ["castillo", "ramblas", "villa"],
+        "MAGDALENA SANTA_MARTA": ["zazue"]
+      }
+    },
+    "EXITO": {
+      "URL": "https://www.exito.com/s?q={prod}&map=ft",
+      "LOCATIONS": {
+        "BOGOTÁ BOGOTÁ": ["alamos", "americas", "bosa", "calle 80", "chapinero", "ciudadela", "colina", "country",
+          "floresta", "gran estación", "niza", "norte", "nuevo kennedy", "occidente", "parque fontibon",
+          "primavera calle 80", "suba", "unicentro bogota", "usme", "villa mayor", "wow nuestro bogota",
+          "la felicidad"],
+        "ANTIOQUIA MEDELLÍN": ["colombia", "del este", "gardel", "laureles", "mayorca", "molinos", "poblado",
+          "robledo", "san antonio", "unicentro - medellin"],
+        "VALLE_DEL_CAUCA CALI": ["aquarela", "chipichape", "la flora", "san fernando", "unicali", "wow valle del lili"],
+        "ATLANTICO BARANQUILLA": ["barranquilla", "metropolitano"],
+        "BOLIVAR CARTAGENA": ["castellana", "san diego"],
+        "TOLIMA IBAGUÉ": ["ibague"],
+        "CORDOBA MONTERÍA": ["alamedas", "monteria"],
+        "MAGDALENA SANTA_MARTA": ["buenavista"]
+      }
+    },
+    "JUMBO": {
+      "URL": "https://www.tiendasjumbo.co/{prod}? q={prod}&map=ft",
+      "LOCATIONS": {
+        "BOGOTÁ BOGOTÁ": ["al auto calle 80", "al auto hayuelos", "al auto titan", "al auto calle 170",
+          "al auto santa ana", "20 de julio", "autopista sur", "calle 170", "calle 80", "carrera 30",
+          "hayuelos", "santa ana", "suba", "titan"],
+        "ANTIOQUIA MEDELLÍN": ["la 65", "las vegas", "premium plaza", "santafe"],
+        "VALLE_DEL_CAUCA CALI": ["chipichape", "limonar", "valle de lili"],
+        "ATLANTICO BARANQUILLA": ["altos de prado"],
+        "BOLIVAR CARTAGENA": ["caribe plaza"],
+        "MAGDALENA SANTA_MARTA": ["ocean mall"]
+      }
+    },
+    "MAKRO": {
+      "URL": "https://tienda.makro.com.co/search?name={prod}",
+      "LOCATIONS": {
+        "BOGOTÁ BOGOTÁ": ["puente aranda", "villa del rio", "av.boyaca", "cumara"],
+        "ANTIOQUIA MEDELLÍN": ["san juan", "estacion poblado"],
+        "VALLE_DEL_CAUCA CALI": ["valle de lili", "cali norte"],
+        "ATLANTICO BARANQUILLA": ["villa santos", "alto prado", "calle 30"],
+        "BOLIVAR CARTAGENA": ["cartagena"],
+        "TOLIMA IBAGUÉ": ["ibague"],
+        "CORDOBA MONTERÍA": ["monteria"],
+        "MAGDALENA SANTA_MARTA": ["santa marta"]
+      }
+    },
+    "METRO": {
+      "URL": "https://www.tiendasmetro.co/{prod}? q={prod}&map=ft",
+      "LOCATIONS": {
+        "BOGOTÁ BOGOTÁ": ["alqueria", "banderas", "bosa", "fontibon", "san cayetano", "tintalito"],
+        "ANTIOQUIA BELLO": ["bello"],
+        "VALLE_DEL_CAUCA CALI": ["la 70", "simón bolívar"],
+        "TOLIMA IBAGUÉ": ["ibague"],
+        "CORDOBA MONTERÍA": ["monteria"]
+      }
+    },
+    "OLIMPICA": {
+      "URL": "https://www.olimpica.com/{prod}? q={prod}&map=ft",
+      "LOCATIONS": {
+        "BOGOTÁ BOGOTÁ": [],
+        "ANTIOQUIA MEDELLÍN": [],
+        "VALLE_DEL_CAUCA CALI": [],
+        "ATLANTICO BARANQUILLA": [],
+        "BOLIVAR CARTAGENA": [],
+        "TOLIMA IBAGUÉ": [],
+        "CORDOBA MONTERÍA": [],
+        "MAGDALENA SANTA_MARTA": []
+      }
+    },
+    "RAPPI": {
+      "URL": "https://www.rappi.com.co/search?query={prod}",
+      "LOCATIONS": {
+        "BOGOTÁ BOGOTÁ": [],
+        "ANTIOQUIA MEDELLÍN": [],
+        "VALLE_DEL_CAUCA CALI": [],
+        "ATLANTICO BARANQUILLA": [],
+        "BOLIVAR CARTAGENA": [],
+        "TOLIMA IBAGUÉ": [],
+        "CORDOBA MONTERÍA": [],
+        "MAGDALENA SANTA_MARTA": []
+      }
+    }
+  },
+  "BRANDS": {
+    "CERVEZA": [
+      "AGUILA", "AUSTEN", "AZTECA", "BUSCH LIGHT", "COSTEÑA", "BACANA", "COSTEÑITA", "PILSEN",
+      "POKER", "REDDS", "CLUB COLOMBIA", "BUDWEISER", "CORONA", "CORONITA", "STELLA", "MICHELOB",
+      "MODELO", "BECKS", "BBC", "BOGOTA BEER COMPANY", "ANDINA", "TECATE", "MILLER", "PRIMA",
+      "CENTRAL", "HEINEKEN", "SOL", "TRES CORDILLERAS", "3 CORDILLERAS"
+    ],
+    "OTROS": [
+      "PONY MALTA", "MALTA LEONA", "COLA Y POLA", "COLA & POLA", "NATU MALTA"
+    ]
+  }
 }
