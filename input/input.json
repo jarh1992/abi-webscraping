@@ -30,7 +30,7 @@
       }
     },
     "JUMBO": {
-      "URL": "https://www.tiendasjumbo.co/{prod}? q={prod}&map=ft",
+      "URL": "https://www.tiendasjumbo.co/{prod}?_q={prod}&map=ft",
       "LOCATIONS": {
         "BOGOTÁ BOGOTÁ": ["al auto calle 80", "al auto hayuelos", "al auto titan", "al auto calle 170",
           "al auto santa ana", "20 de julio", "autopista sur", "calle 170", "calle 80", "carrera 30",
