@@ -57,8 +57,8 @@ def scraper(driver, locs, brands, store):
         confirm_btn.click()
 
         for brand_type, brand_lst in brands.items():
+            logger.info(f"Scraping {store.name} {brand_type} in city {city}, POS {pos}.")
             for coproduct in brand_lst:
-                logger.info(f"Scraping {store.name} {brand_type} in city {city}, POS {pos}.")
                 driver.get(url_path.format(prod=coproduct))
                 # driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 time.sleep(2)
