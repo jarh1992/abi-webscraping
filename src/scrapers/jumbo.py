@@ -58,7 +58,6 @@ def scraper(driver, locs, brands, store):
         except Exception as exc:
             email_change = modal.find_element(By.XPATH, '//button[normalize-space()="Cambiar"]')
             email_change.click()
-            wait_driver(modal, (By.XPATH, "//input[contains(@placeholder, 'Ingresa aquí tu correo')]"))
 
         wait_driver(modal, (By.XPATH, '//button[normalize-space()="Enviar"]'))
         email_send = modal.find_element(By.XPATH, '//button[normalize-space()="Enviar"]')
@@ -68,29 +67,42 @@ def scraper(driver, locs, brands, store):
         delivery_btns = modal.find_elements(By.XPATH, '//div[contains(@class, "tiendasjumboqaio-delivery-modal-3-x-ButtonPlain")]')
         delivery_btns[1].click()
 
+        time.sleep(1)
         wait_driver(modal, (By.TAG_NAME, 'select'))
         selects = modal.find_elements(By.TAG_NAME, 'select')
         dept_select = Select(selects[0])
-        for option in dept_select.options:
+        for i, option in enumerate(dept_select.options):
             if department in remove_accents(option.text):
-                option.click()
+                time.sleep(1)
+                dept_select.select_by_visible_text(option.text)
+                dept_select.select_by_index(i)
+                break
 
+        time.sleep(1)
         wait_driver(modal, (By.TAG_NAME, 'select'))
         selects = modal.find_elements(By.TAG_NAME, 'select')
         city_select = Select(selects[1])
-        for option in city_select.options:
+        for i, option in enumerate(city_select.options):
             if city in remove_accents(option.text):
-                option.click()
+                time.sleep(1)
+                city_select.select_by_visible_text(option.text)
+                city_select.select_by_index(i)
+                break
 
+        time.sleep(1)
         wait_driver(modal, (By.TAG_NAME, 'select'))
         selects = modal.find_elements(By.TAG_NAME, 'select')
         pos_select = Select(selects[2])
-        for option in pos_select.options:
+        for i, option in enumerate(pos_select.options):
             if pos in remove_accents(option.text):
-                option.click()
+                time.sleep(1)
+                pos_select.select_by_visible_text(option.text)
+                pos_select.select_by_index(i)
+                break
 
         confirm_btn = modal.find_element(By.XPATH, '//button[normalize-space()="Confirmar"]')
         confirm_btn.click()
+        time.sleep(10)
 
         for brand_type, brand_lst in brands.items():
             for coproduct in brand_lst:
