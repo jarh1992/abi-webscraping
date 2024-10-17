@@ -14,6 +14,7 @@ logger = logging.getLogger(__name__)
 def scraper(driver, locs, brands, store):
     data = []
     department, city = list(map(remove_accents, locs[0].split()))
+    city = city.replace('_', ' ')
     points_of_sale = locs[1]
 
     url = urlparse(store.url)
@@ -55,17 +56,13 @@ def scraper(driver, locs, brands, store):
         wait_driver(modal, (By.CLASS_NAME, 'exito-geolocation-3-x-primaryButtonEnable'))
         confirm_btn = modal.find_element(By.CLASS_NAME, 'exito-geolocation-3-x-primaryButtonEnable')
         confirm_btn.click()
+        time.sleep(10)
 
         for brand_type, brand_lst in brands.items():
             logger.info(f"Scraping {store.name} {brand_type} in city {city}, POS {pos}.")
             for coproduct in brand_lst:
                 driver.get(url_path.format(prod=coproduct))
-                # driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 time.sleep(2)
-                # driver.execute_script("window.scrollTo(0, 0);")
-
-                # driver.execute_script('document.body.style.zoom = 0.55')
-                # time.sleep(4)
 
                 try:
                     wait_driver(driver, (By.XPATH, '//*[@id="gallery-layout-container"]'))
@@ -73,9 +70,9 @@ def scraper(driver, locs, brands, store):
                     soup = BeautifulSoup(html_content, 'html.parser')
                     elements = soup.find_all(class_=re.compile("flexRowContent--product-info-container"))
                     brand = remove_accents(coproduct)
-                    for i in elements:
-                        description = remove_accents(i.find('span', class_=re.compile("productBrand$")).text.strip())
-                        price = i.find('div', class_=re.compile("exito-vtex-components-4-x-PricePDP")).text[2:]
+                    for e in elements:
+                        description = remove_accents(e.find('span', class_=re.compile("productBrand$")).text.strip())
+                        price = e.find('div', class_=re.compile("exito-vtex-components-4-x-PricePDP")).text[2:]
                         row = '|'.join([brand, city, pos, description, price])
                         if brand_type == 'CERVEZA':
                             flag = all([i in description for i in [brand_type, "ML", *brand.split(' ')]])
