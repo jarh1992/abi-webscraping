@@ -21,6 +21,8 @@ EMAIL = os.getenv('TEST_EMAIL')
 def scraper(driver, locs, brands, store):
     data = []
     department, city = list(map(remove_accents, locs[0].split()))
+    department = department.replace('_', ' ')
+    city = city.replace('_', ' ')
     points_of_sale = locs[1]
 
     url = urlparse(store.url)
@@ -35,7 +37,7 @@ def scraper(driver, locs, brands, store):
     except Exception as e:
         pass
 
-    for i, pos in enumerate(points_of_sale):
+    for pos in points_of_sale:
         pos = remove_accents(pos)
 
         wait_driver(
@@ -77,33 +79,33 @@ def scraper(driver, locs, brands, store):
         wait_driver(modal, (By.TAG_NAME, 'select'))
         selects = modal.find_elements(By.TAG_NAME, 'select')
         dept_select = Select(selects[0])
-        for i, option in enumerate(dept_select.options):
+        for e, option in enumerate(dept_select.options):
             if department in remove_accents(option.text):
                 time.sleep(1)
                 dept_select.select_by_visible_text(option.text)
-                dept_select.select_by_index(i)
+                dept_select.select_by_index(e)
                 break
 
         time.sleep(1)
         wait_driver(modal, (By.TAG_NAME, 'select'))
         selects = modal.find_elements(By.TAG_NAME, 'select')
         city_select = Select(selects[1])
-        for i, option in enumerate(city_select.options):
+        for e, option in enumerate(city_select.options):
             if city in remove_accents(option.text):
                 time.sleep(1)
                 city_select.select_by_visible_text(option.text)
-                city_select.select_by_index(i)
+                city_select.select_by_index(e)
                 break
 
         time.sleep(1)
         wait_driver(modal, (By.TAG_NAME, 'select'))
         selects = modal.find_elements(By.TAG_NAME, 'select')
         pos_select = Select(selects[2])
-        for i, option in enumerate(pos_select.options):
+        for e, option in enumerate(pos_select.options):
             if pos in remove_accents(option.text):
                 time.sleep(1)
                 pos_select.select_by_visible_text(option.text)
-                pos_select.select_by_index(i)
+                pos_select.select_by_index(e)
                 break
 
         confirm_btn = modal.find_element(By.XPATH, '//button[normalize-space()="Confirmar"]')
@@ -114,27 +116,17 @@ def scraper(driver, locs, brands, store):
             logger.info(f"Scraping {store.name} {brand_type} in city {city}, POS {pos}.")
             for coproduct in brand_lst:
                 driver.get(url_path.format(prod=coproduct))
-                # driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 time.sleep(2)
-                # driver.execute_script("window.scrollTo(0, 0);")
-
-                # driver.execute_script('document.body.style.zoom = 0.55')
-                # time.sleep(4)
 
                 try:
-                    WebDriverWait(
-                        driver,
-                        10
-                    ).until(
-                        ec.presence_of_element_located((By.XPATH, '//*[@id="gallery-layout-container"]'))
-                    )
+                    wait_driver(driver, (By.XPATH, '//*[@id="gallery-layout-container"]'))
                     html_content = driver.page_source
                     soup = BeautifulSoup(html_content, 'html.parser')
                     elements = soup.find_all('article', class_=re.compile("product-summary"))
                     brand = remove_accents(coproduct)
-                    for i in elements:
-                        description = remove_accents(i.find('span', class_=re.compile("productBrand$")).text.strip())
-                        price = i.find('div', id='items-price').text[2:]
+                    for e in elements:
+                        description = remove_accents(e.find('span', class_=re.compile("productBrand$")).text.strip())
+                        price = e.find('div', id='items-price').text[2:]
                         row = '|'.join([brand, city, pos, description, price])
                         if brand_type == 'CERVEZA':
                             flag = all([i in description for i in [brand_type, "ML", *brand.split(' ')]])
