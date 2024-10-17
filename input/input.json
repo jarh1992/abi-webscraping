@@ -7,7 +7,7 @@
           "niza", "pepe sierra", "plaza claro", "quinta", "colina"],
         "ANTIOQUIA MEDELLÍN": ["laureles", "oviedo", "lucas", "palmas"],
         "VALLE_DEL_CAUCA CALI": ["pance", "fernando"],
-        "ATLANTICO BARANQUILLA": ["82", "mall"],
+        "ATLANTICO BARRANQUILLA": ["82", "mall"],
         "BOLIVAR CARTAGENA": ["castillo", "ramblas", "villa"],
         "MAGDALENA SANTA_MARTA": ["zazue"]
       }
@@ -22,7 +22,7 @@
         "ANTIOQUIA MEDELLÍN": ["colombia", "del este", "gardel", "laureles", "mayorca", "molinos", "poblado",
           "robledo", "san antonio", "unicentro - medellin"],
         "VALLE_DEL_CAUCA CALI": ["aquarela", "chipichape", "la flora", "san fernando", "unicali", "wow valle del lili"],
-        "ATLANTICO BARANQUILLA": ["barranquilla", "metropolitano"],
+        "ATLANTICO BARRANQUILLA": ["barranquilla", "metropolitano"],
         "BOLIVAR CARTAGENA": ["castellana", "san diego"],
         "TOLIMA IBAGUÉ": ["ibague"],
         "CORDOBA MONTERÍA": ["alamedas", "monteria"],
@@ -37,7 +37,7 @@
           "hayuelos", "santa ana", "suba", "titan"],
         "ANTIOQUIA MEDELLÍN": ["la 65", "las vegas", "premium plaza", "santafe"],
         "VALLE_DEL_CAUCA CALI": ["chipichape", "limonar", "valle de lili"],
-        "ATLANTICO BARANQUILLA": ["altos de prado"],
+        "ATLANTICO BARRANQUILLA": ["altos de prado"],
         "BOLIVAR CARTAGENA": ["caribe plaza"],
         "MAGDALENA SANTA_MARTA": ["ocean mall"]
       }
@@ -45,13 +45,13 @@
     "MAKRO": {
       "URL": "https://tienda.makro.com.co/search?name={prod}",
       "LOCATIONS": {
-        "BOGOTÁ BOGOTÁ": ["puente aranda", "villa del rio", "av.boyaca", "cumara"],
+        "BOGOTA BOGOTA": ["puente aranda", "villa del rio", "av.boyaca", "cumara"],
         "ANTIOQUIA MEDELLÍN": ["san juan", "estacion poblado"],
         "VALLE_DEL_CAUCA CALI": ["valle de lili", "cali norte"],
-        "ATLANTICO BARANQUILLA": ["villa santos", "alto prado", "calle 30"],
+        "ATLÁNTICO BARRANQUILLA": ["villa santos", "alto prado", "calle 30"],
         "BOLIVAR CARTAGENA": ["cartagena"],
         "TOLIMA IBAGUÉ": ["ibague"],
-        "CORDOBA MONTERÍA": ["monteria"],
+        "CORDOBA MONTERIA": ["monteria"],
         "MAGDALENA SANTA_MARTA": ["santa marta"]
       }
     },
@@ -71,7 +71,7 @@
         "BOGOTÁ BOGOTÁ": [],
         "ANTIOQUIA MEDELLÍN": [],
         "VALLE_DEL_CAUCA CALI": [],
-        "ATLANTICO BARANQUILLA": [],
+        "ATLANTICO BARRANQUILLA": [],
         "BOLIVAR CARTAGENA": [],
         "TOLIMA IBAGUÉ": [],
         "CORDOBA MONTERÍA": [],
@@ -84,7 +84,7 @@
         "BOGOTÁ BOGOTÁ": [],
         "ANTIOQUIA MEDELLÍN": [],
         "VALLE_DEL_CAUCA CALI": [],
-        "ATLANTICO BARANQUILLA": [],
+        "ATLANTICO BARRANQUILLA": [],
         "BOLIVAR CARTAGENA": [],
         "TOLIMA IBAGUÉ": [],
         "CORDOBA MONTERÍA": [],
@@ -94,13 +94,11 @@
   },
   "BRANDS": {
     "CERVEZA": [
-      "AGUILA", "AUSTEN", "AZTECA", "BUSCH LIGHT", "COSTEÑA", "BACANA", "COSTEÑITA", "PILSEN",
-      "POKER", "REDDS", "CLUB COLOMBIA", "BUDWEISER", "CORONA", "CORONITA", "STELLA", "MICHELOB",
-      "MODELO", "BECKS", "BBC", "BOGOTA BEER COMPANY", "ANDINA", "TECATE", "MILLER", "PRIMA",
-      "CENTRAL", "HEINEKEN", "SOL", "TRES CORDILLERAS", "3 CORDILLERAS"
+      "AGUILA", "AUSTEN", "AZTECA", "BUSCH LIGHT", "COSTEÑA", "BACANA", "COSTEÑITA", "PILSEN", "POKER", "REDDS",
+      "REDD'S", "CLUB COLOMBIA", "BUDWEISER", "CORONA", "CORONITA", "STELLA", "MICHELOB", "MODELO", "BECKS", "BBC",
+      "BOGOTA BEER COMPANY", "ANDINA", "TECATE", "MILLER", "PRIMA", "CENTRAL", "HEINEKEN", "SOL", "TRES CORDILLERAS",
+      "3 CORDILLERAS"
     ],
-    "OTROS": [
-      "PONY MALTA", "MALTA LEONA", "COLA Y POLA", "COLA & POLA", "NATU MALTA"
-    ]
+    "OTROS": ["PONY MALTA", "MALTA LEONA", "COLA Y POLA", "COLA & POLA", "NATU MALTA"]
   }
 }
