@@ -45,12 +45,14 @@ abi-webscraping
 - **input**: contiene los archivos (no credenciales) de entrada necesarios para la correcta ejecución
 del aplicativo:
   - **[input.json](input/input.json)**: Contiene información de los comercios y productos/marcas.
-    - STORES: Contienen nombre de comercios en mayúsculas que a su vez tienen:
+    - STORES: Contienen nombre de comercios en mayúsculas y opcionalmente con tildes, a su vez tienen:
       - URL: con ruta con parametros en formato "{prod}"
       - LOCATIONS: compuestos por la llave "NOMBRE_DEPARTAMENTO NOMBRE_CIUDAD", con sus respectivos valores en formato
-      de lista y conformados por los nombres de los puntos de venta.
+      de lista y conformados por los nombres de los puntos de venta. Las palabras que conformen el nombre del 
+      departamento (e igual para ciudad), deben estar separadas por guion bajo ("_"). Para separar departamento y ciudad se
+      debe usar espacio (" ").
     - BRANDS: organizadas según dos categorías: CERVEZA y OTROS. **Nuevos productos/marcas** deben ser agregados en
-    mayúsculas y entre comillas dobles. Estos pueden incluir tildes o 'Ñ'.  
+    mayúsculas. Estos pueden incluir tildes o 'Ñ'.  
   
   Este archivo es invocado en **[settings.py](settings/settings.py)**.
   
@@ -128,8 +130,6 @@ python main.py -st comercio
 ````shell
 python main.py -ns
 python main.py --not-send
-python main.py -st comercio -ns
-python main.py -st comercio --not-send
 ````
 - Para consultar la ayuda:
 ````shell
@@ -156,7 +156,16 @@ options:
   -ns, --not-send       Don't send files
 ````
 ### Anomalías
-- Makro: Hay que estar atentos con algunos nombres de departamentos y de ciudades, los cuales en el diccionario pueden
+- Makro: hay que estar atentos con algunos nombres de departamentos y de ciudades, los cuales en el diccionario pueden
   llevar tilde, pero en la lista de makro es algo arbitrario, tendrán o no tendrán tildes. Esto se ve reflejado en
   cómo están escritos estos dos elementos dentro del archivo [input.json](input/input.json). En el codigo es
   **importante** cargarlos en **minúsculas**.
+- **Todos los comercios** deben ser ejecutados con la ventana maximizada, independientemente de si se visualiza o no el
+  navegador, por eso se pone en [main.py](main.py):
+
+````
+chrome_options.add_argument("start-maximized")
+````
+- Es aconsejable, con el código actual, ejecutar puntualmente cada comercio por separado, puesto que si se corren en
+  línea tomaría mucho tiempo. Esto se puede solucionar si se implementan hilos, ejecutando cada comercio en uno de 
+  estos.
