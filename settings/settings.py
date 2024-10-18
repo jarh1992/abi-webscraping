@@ -63,7 +63,7 @@ dest_folder = os.getenv('STORAGE_DEST_FOLDER')
 dest_hist_folder = os.getenv('STORAGE_DEST_FOLDER_HIST')
 output_folder = BASE_DIR / 'output'
 output_folder.mkdir(parents=True, exist_ok=True)
-input_path = Path(BASE_DIR / "input/input_test.json")
+input_path = BASE_DIR / "input/input.json"
 logger.info(f"Loaded input file.")
 with input_path.open(encoding='utf8') as f:
     input = json.load(f)
