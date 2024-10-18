@@ -94,17 +94,19 @@ def scraper(driver, locs, brands, store):
                         if not flag:
                             logger.info(f'Product not added: {brand} != {description}')
                             continue
+
+                        row = re.sub(r'\s+ML', 'ML', row)
+                        row = re.sub(r'X\s+6\s+UND', 'X6UND', row)
+                        row = row. replace('.', ',')
+                        row = row.replace('SIXPACK', 'X6UND')
+                        row = row.replace('SIX PACK', 'X6UND')
+                        row = row.replace('6PACK', 'X6UND')
+                        row = row.replace('6 PACK', 'X6UND')
+                        if ' 1980ML' in row:
+                            row = row.replace('1980ML', '330ML')
+                        row = row.replace(' X 6 ', ' X6UND ')
+
                         if row not in data:
-                            row = re.sub(r'\s+ML', 'ML', row)
-                            row = re.sub(r'X\s+6\s+UND', 'X6UND', row)
-                            row = row. replace('.', ',')
-                            row = row.replace('SIXPACK', 'X6UND')
-                            row = row.replace('SIX PACK', 'X6UND')
-                            row = row.replace('6PACK', 'X6UND')
-                            row = row.replace('6 PACK', 'X6UND')
-                            if ' 1980ML' in row:
-                                row = row.replace('1980ML', '330ML')
-                            row = row.replace(' X 6 ', ' X6UND ')
                             data.append(row)
                 except Exception as e:
                     logger.error(f"Error finding element {coproduct}: {e}")
