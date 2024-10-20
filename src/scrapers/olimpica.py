@@ -24,6 +24,7 @@ def scraper(driver, locs, brands, store):
     scheme_netloc = f"{url.scheme}://{url.netloc}"
     url_path = url.geturl()
     driver.get(scheme_netloc)
+    time.sleep(5)
     try:
         pop_up = driver.find_element(By.CLASS_NAME, "olimpica-advance-geolocation-0-x-overlayDirection")
         change_btn = pop_up.find_elements(By.TAG_NAME, "button")
@@ -31,6 +32,7 @@ def scraper(driver, locs, brands, store):
     except Exception as e:
         logger.info('Popup not found')
         print(e)
+
     time.sleep(1)
 
     wait_driver(driver, (By.CLASS_NAME, "vtex-modal__overlay"))
