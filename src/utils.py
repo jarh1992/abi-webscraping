@@ -72,6 +72,7 @@ def add_sku(data):
             df['SKU']
         )
     df['PRECIO'] = df['PRECIO'].str.replace(r',00$', '', regex=True)
+    df['PRECIO'] = df['PRECIO'].str.replace(',', '', regex=True)
     return df
 
 

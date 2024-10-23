@@ -1,22 +1,14 @@
 {
   "STORES": {
-    "CARULLA": {
-      "URL": "https://www.carulla.com/{prod}?_q={prod}&map=ft",
+    "RAPPI": {
+      "URL": "https://www.rappi.com.co/search?query={prod}",
       "LOCATIONS": {
-        "BOGOTA BOGOTÁ": ["alhambra", "calle 102", "calle 140"],
-        "ANTIOQUIA MEDELLÍN":  ["laureles", "oviedo", "lucas"]
+        "CORDOBA MONTERÍA": []
       }
     }
   },
   "BRANDS": {
-    "CERVEZA": [
-      "AGUILA",
-      "COSTEÑA",
-      "POKER",
-      "BBC"
-    ],
-    "OTROS": [
-      "PONY MALTA", "MALTA LEONA"
-    ]
+    "CERVEZA": ["AGUILA", "COSTEÑA", "POKER", "BBC"],
+    "OTROS": ["PONY MALTA", "MALTA LEONA"]
   }
 }
