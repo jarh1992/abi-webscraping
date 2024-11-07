@@ -159,7 +159,7 @@ options:
   -st STORE, --store STORE
                         Store name
   -ns, --not-send       Don't send files
-  -v, --verbose         Show browser
+  -v, --verbose         Display browser
 ````
 ### Anomalías
 - Makro: hay que estar atentos con algunos nombres de departamentos y de ciudades, los cuales en el diccionario pueden
