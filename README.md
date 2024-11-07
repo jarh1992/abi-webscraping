@@ -143,7 +143,7 @@ python main.py --help
 ````
 Obtendrá la salida:
 ````shell
-usage: main.py [-h] [-st STORE] [-ns]
+usage: main.py [-h] [-st STORE] [-ns] [-v]
 
 Run scraper for all stores:
 - carulla
@@ -159,6 +159,7 @@ options:
   -st STORE, --store STORE
                         Store name
   -ns, --not-send       Don't send files
+  -v, --verbose         Show browser
 ````
 ### Anomalías
 - Makro: hay que estar atentos con algunos nombres de departamentos y de ciudades, los cuales en el diccionario pueden
