@@ -52,7 +52,7 @@ def main():
     parser = argparse.ArgumentParser(description=description, formatter_class=argparse.RawTextHelpFormatter)
     parser.add_argument('-st', '--store', type=str, help="Store name", default="all")
     parser.add_argument('-ns', '--not-send', action='store_true', help="Don't send files")
-    parser.add_argument('-v', '--verbose', action='store_true', help="Show browser")
+    parser.add_argument('-v', '--verbose', action='store_true', help="Display browser")
     args = parser.parse_args()
 
     chrome_options = Options()
