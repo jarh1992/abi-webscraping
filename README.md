@@ -116,16 +116,16 @@ STORAGE_DEST_FOLDER_HIST=<azure_blob_storage_path>
 
 ## Ejecución
 Ubicarse en la raíz de la aplicación y luego:
+- Ejecutar el scraper para un comercio en específico:
+````shell
+python main.py -st <COMERCIO>
+python main.py -st <comercio>
+````
+(_\<comercio\>_ no distingue entre mayúsculas y minúsculas).
 - Ejecutar el scraper en todos los comercios:
 ````shell
 python main.py
 ````
-- Ejecutar el scraper para un comercio en específico:
-````shell
-python main.py -st COMERCIO
-python main.py -st comercio
-````
-(_\<comercio\>_ no distingue entre mayúsculas y minúsculas).
 - Para no enviar archivos a Azure Blob Storage se puede usar la bandera "-ns" o "--not-send":
 ````shell
 python main.py -ns
