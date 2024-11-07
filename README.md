@@ -131,6 +131,11 @@ python main.py -st comercio
 python main.py -ns
 python main.py --not-send
 ````
+- Para ver en el navegador la ejecucion (puede servir para debugging) usar la bandera "-v" o "--verbose":
+````shell
+python main.py -v
+python main.py --verbose
+````
 - Para consultar la ayuda:
 ````shell
 python main.py -h
